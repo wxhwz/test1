@@ -1,0 +1,166 @@
+{
+    "id": 103,
+    "name": "九尾妖狐",
+    "skins": [
+        {
+            "name": "高丽风情 阿狸",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin01/images/ahri_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin01/ahriloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Dynasty Ahri"
+        },
+        {
+            "name": "暗影妖狐 阿狸",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin02/images/ahri_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin02/ahriloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Midnight Ahri"
+        },
+        {
+            "name": "焰尾妖狐 阿狸",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin03/images/ahri_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin03/ahriloadscreen_3.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Foxfire Ahri"
+        },
+        {
+            "name": "偶像歌手 阿狸",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin04/images/ahri_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin04/ahriloadscreen_4.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Popstar Ahri"
+        },
+        {
+            "name": "勇者 阿狸",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin05/images/ahri_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin05/ahriloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Challenger Ahri"
+        },
+        {
+            "name": "风纪委员 阿狸",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin06/images/ahri_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin06/ahriloadscreen_6.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Academy Ahri"
+        },
+        {
+            "name": "电玩女神 阿狸",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin07/images/ahri_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin07/ahriloadscreen_7.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Arcade Ahri"
+        },
+        {
+            "name": "星之守护者 阿狸",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin14/images/ahri_splash_uncentered_14.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin14/ahriloadscreen_14.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Star Guardian Ahri"
+        },
+        {
+            "name": "K/DA 阿狸",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin15/images/ahri_splash_uncentered_15.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin15/ahriloadscreen_15.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "K/DA Ahri"
+        },
+        {
+            "name": "至臻 K/DA 阿狸",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin16/images/ahri_splash_uncentered_16.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin16/ahriloadscreen_16_le.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige K/DA Ahri"
+        },
+        {
+            "name": "永恒之森 阿狸",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin17/images/ahri_splash_uncentered_17.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin17/ahriloadscreen_17.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Elderwood Ahri"
+        },
+        {
+            "name": "灵魂莲华 阿狸",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin27/images/ahri_splash_uncentered_27.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin27/ahriloadscreen_27.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Spirit Blossom Ahri"
+        },
+        {
+            "name": "K/DA ALL OUT 阿狸",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin28/images/ahri_splash_uncentered_28.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin28/ahriloadscreen_28.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "K/DA ALL OUT Ahri"
+        },
+        {
+            "name": "魔女 阿狸",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin42/images/ahri_splash_uncentered_42.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin42/ahriloadscreen_42.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Coven Ahri"
+        },
+        {
+            "name": "至臻 K/DA 阿狸 (2022)",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin65/images/ahri_splash_uncentered_65.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin65/ahriloadscreen_65_le.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige K/DA Ahri (2022)"
+        },
+        {
+            "name": "魅惑之月 阿狸",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin66/images/ahri_splash_uncentered_66.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin66/ahriloadscreen_66.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Arcana Ahri"
+        },
+        {
+            "name": "净雪之月 阿狸",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin76/images/ahri_splash_uncentered_76.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin76/ahriloadscreen_76.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Snow Moon Ahri"
+        },
+        {
+            "name": "殿堂传奇 阿狸",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin85/images/ahri_splash_uncentered_85.skins_ahri_hol.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin85/ahriloadscreen_85.skins_ahri_hol.jpg",
+            "rarity": "kTranscendent",
+            "regionRarityId": 11,
+            "name_en": "Risen Legend Ahri"
+        },
+        {
+            "name": "莲华温泉 阿狸",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin88/images/ahri_splash_uncentered_88.skins_ahri_skin88.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin88/ahriloadscreen_88.skins_ahri_skin88.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Spirit Blossom Springs Ahri"
+        },
+        {
+            "name": "金鱼枫姬 莲华温泉 阿狸",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin89/images/ahri_splash_uncentered_89.skins_ahri_skin89.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin89/ahriloadscreen_89.skins_ahri_skin89.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "After Hours Spirit Blossom Springs Ahri"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": 233,
+    "name": "狂厄蔷薇",
+    "skins": [
+        {
+            "name": "妖怪艺术家 贝蕾亚",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/briar/skins/skin01/images/briar_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/briar/skins/skin01/briarloadscreen_1.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Street Demons Briar"
+        },
+        {
+            "name": "幻灵海魔人 贝蕾亚",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/briar/skins/skin10/images/briar_splash_uncentered_10.skins_briar_skin10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/briar/skins/skin10/briarloadscreen_10.skins_briar_skin10.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Primordian Briar"
+        }
+    ]
+}

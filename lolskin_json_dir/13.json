@@ -1,0 +1,118 @@
+{
+    "id": 13,
+    "name": "符文法师",
+    "skins": [
+        {
+            "name": "青年 瑞兹",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin01/images/ryze_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin01/ryzeloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Young Ryze"
+        },
+        {
+            "name": "部落精神 瑞兹",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin02/images/ryze_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin02/ryzeloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Tribal Ryze"
+        },
+        {
+            "name": "美国大叔 瑞兹",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin03/images/ryze_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin03/ryzeloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Uncle Ryze"
+        },
+        {
+            "name": "守护者雕像 瑞兹",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin04/images/ryze_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin04/ryzeloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Triumphant Ryze"
+        },
+        {
+            "name": "宗师级法师训练师 瑞兹",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin05/images/ryze_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin05/ryzeloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Professor Ryze"
+        },
+        {
+            "name": "至死不渝 瑞兹",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin06/images/ryze_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin06/ryzeloadscreen_6.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Zombie Ryze"
+        },
+        {
+            "name": "恶魔男爵 瑞兹",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin07/images/ryze_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin07/ryzeloadscreen_7.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Dark Crystal Ryze"
+        },
+        {
+            "name": "海贼 瑞兹",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin08/images/ryze_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin08/ryzeloadscreen_8.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Pirate Ryze"
+        },
+        {
+            "name": "瑞兹·白须",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin09/images/ryze_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin09/ryzeloadscreen_9.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Ryze Whitebeard"
+        },
+        {
+            "name": "SKT T1 瑞兹",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin10/images/ryze_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin10/ryzeloadscreen_10.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "SKT T1 Ryze"
+        },
+        {
+            "name": "冠军之志 瑞兹",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin11/images/ryze_splash_uncentered_11.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin11/ryzeloadscreen_11.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Worlds 2019 Ryze"
+        },
+        {
+            "name": "沙之守护 瑞兹",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin13/images/ryze_splash_uncentered_13.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin13/ryzeloadscreen_13.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Guardian of the Sands Ryze"
+        },
+        {
+            "name": "孤勇之隐 瑞兹",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin20/images/ryze_splash_uncentered_20.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin20/ryzeloadscreen_20.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Arcana Ryze"
+        },
+        {
+            "name": "腥红之月 瑞兹",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin29/images/ryze_splash_uncentered_29.skins_ryze_skin29.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ryze/skins/skin29/ryzeloadscreen_29.skins_ryze_skin29.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Blood Moon Ryze"
+        }
+    ]
+}

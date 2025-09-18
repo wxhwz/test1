@@ -1,0 +1,118 @@
+{
+    "id": 238,
+    "name": "影流之主",
+    "skins": [
+        {
+            "name": "冲击之刃 劫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin01/images/zed_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin01/zedloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Shockblade Zed"
+        },
+        {
+            "name": "SKT T1 劫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin02/images/zed_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin02/zedloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "SKT T1 Zed"
+        },
+        {
+            "name": "源计划：阴 劫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin03/images/zed_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin03/zedloadscreen_3.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "PROJECT: Zed"
+        },
+        {
+            "name": "冠军之隐 劫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin10/images/zed_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin10/zedloadscreen_10.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Worlds 2016 Zed"
+        },
+        {
+            "name": "死亡誓约 劫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin11/images/zed_splash_uncentered_11.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin11/zedloadscreen_11.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Death Sworn Zed"
+        },
+        {
+            "name": "天煞 劫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin13/images/zed_splash_uncentered_13.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin13/zedloadscreen_13.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Galaxy Slayer Zed"
+        },
+        {
+            "name": "灵能特工 劫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin15/images/zed_splash_uncentered_15.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin15/zedloadscreen_15.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "PsyOps Zed"
+        },
+        {
+            "name": "至臻 源计划：阴 劫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin30/images/zed_splash_uncentered_30.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin30/zedloadscreen_30.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige PROJECT: Zed"
+        },
+        {
+            "name": "影执事 劫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin31/images/zed_splash_uncentered_31.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin31/zedloadscreen_31.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Debonair Zed"
+        },
+        {
+            "name": "至高天 劫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin38/images/zed_splash_uncentered_38.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin38/zedloadscreen_38.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Empyrean Zed"
+        },
+        {
+            "name": "玉剑传说 无劫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin49/images/zed_splash_uncentered_49.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin49/zedloadscreen_49.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Immortal Journey Zed"
+        },
+        {
+            "name": "腥红之月 劫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin58/images/zed_splash_uncentered_58.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin58/zedloadscreen_58.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Blood Moon Zed"
+        },
+        {
+            "name": "灭世 天煞 劫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin68/images/zed_splash_uncentered_68.skins_zed_skin68.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin68/zedloadscreen_68.skins_zed_skin68.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Quantum Galaxy Slayer Zed"
+        },
+        {
+            "name": "至臻 灵魂莲华 劫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin69/images/zed_splash_uncentered_69.skins_zed_skin69.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin69/zedloadscreen_69.skins_zed_skin69.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Spirit Blossom Zed"
+        }
+    ]
+}

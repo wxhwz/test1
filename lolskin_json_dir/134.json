@@ -1,0 +1,110 @@
+{
+    "id": 134,
+    "name": "暗黑元首",
+    "skins": [
+        {
+            "name": "仲裁圣女 辛德拉",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/skin01/images/syndra_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/skin01/syndraloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Justicar Syndra"
+        },
+        {
+            "name": "亚特兰蒂斯 辛德拉",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/skin02/images/syndra_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/skin02/syndraloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Atlantean Syndra"
+        },
+        {
+            "name": "方块王后 辛德拉",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/skin03/images/syndra_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/skin03/syndraloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Queen of Diamonds Syndra"
+        },
+        {
+            "name": "冰雪女神 辛德拉",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/skin04/images/syndra_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/skin04/syndraloadscreen_4.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Snow Day Syndra"
+        },
+        {
+            "name": "SKT T1 辛德拉",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/skin05/images/syndra_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/skin05/syndraloadscreen_5.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "SKT T1 Syndra"
+        },
+        {
+            "name": "星之守护者 辛德拉",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/skin06/images/syndra_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/skin06/syndraloadscreen_6.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Star Guardian Syndra"
+        },
+        {
+            "name": "泳池派对 辛德拉",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/skin07/images/syndra_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/skin07/syndraloadscreen_7.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Pool Party Syndra"
+        },
+        {
+            "name": "幽梦玫瑰 辛德拉",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/skin16/images/syndra_splash_uncentered_16.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/skin16/syndraloadscreen_16.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Withered Rose Syndra"
+        },
+        {
+            "name": "魅惑女巫 辛德拉",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/skin25/images/syndra_splash_uncentered_25.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/skin25/syndraloadscreen_25.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Bewitching Syndra"
+        },
+        {
+            "name": "至臻 星之守护者 辛德拉",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/skin34/images/syndra_splash_uncentered_34.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/skin34/syndraloadscreen_34.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Star Guardian Syndra"
+        },
+        {
+            "name": "灵魂莲华 辛德拉",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/skin44/images/syndra_splash_uncentered_44.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/skin44/syndraloadscreen_44.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Spirit Blossom Syndra"
+        },
+        {
+            "name": "魔女 辛德拉",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/skin54/images/syndra_splash_uncentered_54.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/skin54/syndraloadscreen_54.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Coven Syndra"
+        },
+        {
+            "name": "点心宝贝 辛德拉",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/skin65/images/syndra_splash_uncentered_65.skins_syndra_skin65.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/syndra/skins/skin65/syndraloadscreen_65_2.skins_syndra_skin65.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Dumpling Darlings Syndra"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": 26,
+    "name": "时光守护者",
+    "skins": [
+        {
+            "name": "圣诞狂欢 基兰",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zilean/skins/skin01/images/zilean_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zilean/skins/skin01/zileanloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Old Saint Zilean"
+        },
+        {
+            "name": "嘻哈精神 基兰",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zilean/skins/skin02/images/zilean_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zilean/skins/skin02/zileanloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Groovy Zilean"
+        },
+        {
+            "name": "遗迹守护者 基兰",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zilean/skins/skin03/images/zilean_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zilean/skins/skin03/zileanloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Shurima Desert Zilean"
+        },
+        {
+            "name": "时间机器 基兰",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zilean/skins/skin04/images/zilean_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zilean/skins/skin04/zileanloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Time Machine Zilean"
+        },
+        {
+            "name": "腥红之月 基兰",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zilean/skins/skin05/images/zilean_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zilean/skins/skin05/zileanloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Blood Moon Zilean"
+        },
+        {
+            "name": "糖果大战 基兰",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zilean/skins/skin06/images/zilean_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zilean/skins/skin06/zileanloadscreen_6.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Sugar Rush Zilean"
+        },
+        {
+            "name": "北极星圣贤 基兰",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zilean/skins/skin14/images/zilean_splash_uncentered_14.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zilean/skins/skin14/zileanloadscreen_14.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Winterblessed Zilean"
+        },
+        {
+            "name": "节制之塔 基兰",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zilean/skins/skin24/images/zilean_splash_uncentered_24.skins_zilean_skin24.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zilean/skins/skin24/zileanloadscreen_24.skins_zilean_skin24.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Arcana Zilean"
+        }
+    ]
+}

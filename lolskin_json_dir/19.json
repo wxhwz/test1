@@ -1,0 +1,126 @@
+{
+    "id": 19,
+    "name": "祖安怒兽",
+    "skins": [
+        {
+            "name": "暗影 沃里克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin01/images/warwick_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin01/warwickloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Grey Warwick"
+        },
+        {
+            "name": "披着海牛的狼 沃里克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin02/images/warwick_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin02/warwickloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Urf the Manatee"
+        },
+        {
+            "name": "狼外婆 沃里克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin03/images/warwick_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin03/warwickloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Big Bad Warwick"
+        },
+        {
+            "name": "冻原猎手 沃里克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin04/images/warwick_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin04/warwickloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Tundra Hunter Warwick"
+        },
+        {
+            "name": "嗜血狂暴 沃里克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin05/images/warwick_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin05/warwickloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 1,
+            "name_en": "Feral Warwick"
+        },
+        {
+            "name": "火牙狼人 沃里克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin06/images/warwick_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin06/warwickloadscreen_6.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Firefang Warwick"
+        },
+        {
+            "name": "荒野豺狼 沃里克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin07/images/warwick_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin07/warwickloadscreen_7.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Hyena Warwick"
+        },
+        {
+            "name": "黑暗骑士 沃里克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin08/images/warwick_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin08/warwickloadscreen_8.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Marauder Warwick"
+        },
+        {
+            "name": "海牛狼人 沃里克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin09/images/warwick_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin09/warwickloadscreen_9.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Urfwick"
+        },
+        {
+            "name": "南天之怒 沃里克 ",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin10/images/warwick_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin10/warwickloadscreen_10.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Lunar Guardian Warwick"
+        },
+        {
+            "name": "源计划：末日 沃里克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin16/images/warwick_splash_uncentered_16.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin16/warwickloadscreen_16.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "PROJECT: Warwick"
+        },
+        {
+            "name": "古神 沃里克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin35/images/warwick_splash_uncentered_35.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin35/warwickloadscreen_35.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Old God Warwick"
+        },
+        {
+            "name": "北极星使者 沃里克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin45/images/warwick_splash_uncentered_45.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin45/warwickloadscreen_45.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Winterblessed Warwick"
+        },
+        {
+            "name": "至臻 北极星使者 沃里克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin46/images/warwick_splash_uncentered_46.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin46/warwickloadscreen_46.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Winterblessed Warwick"
+        },
+        {
+            "name": "双城之战2 范德尔 沃里克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin56/images/warwick_splash_uncentered_56.skins_warwick_skin56.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/warwick/skins/skin56/warwickloadscreen_56.skins_warwick_skin56.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Arcane Vander Warwick"
+        }
+    ]
+}

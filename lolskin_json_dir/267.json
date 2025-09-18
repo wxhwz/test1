@@ -1,0 +1,110 @@
+{
+    "id": 267,
+    "name": "唤潮鲛姬",
+    "skins": [
+        {
+            "name": "锦鲤 娜美",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin01/images/nami_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin01/namiloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Koi Nami"
+        },
+        {
+            "name": "河水之灵 娜美",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin02/images/nami_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin02/namiloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "River Spirit Nami"
+        },
+        {
+            "name": "鲛妮座人 娜美",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin03/images/nami_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin03/namiloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Urf the Nami-tee"
+        },
+        {
+            "name": "海皇姬 娜美",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin07/images/nami_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin07/namiloadscreen_7.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Deep Sea Nami"
+        },
+        {
+            "name": "SKT T1 娜美",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin08/images/nami_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin08/namiloadscreen_8.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "SKT T1 Nami"
+        },
+        {
+            "name": "源代码 娜美",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin09/images/nami_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin09/namiloadscreen_9.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Program Nami"
+        },
+        {
+            "name": "玉剑传说 寒潭夭夭",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin15/images/nami_splash_uncentered_15.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin15/namiloadscreen_15.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Splendid Staff Nami"
+        },
+        {
+            "name": "双鱼星神 娜美",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin24/images/nami_splash_uncentered_24.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin24/namiloadscreen_24.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Cosmic Destiny Nami"
+        },
+        {
+            "name": "魅惑女巫 娜美",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin32/images/nami_splash_uncentered_32.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin32/namiloadscreen_32.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Bewitching Nami"
+        },
+        {
+            "name": "太空律动 “魔音海妖” 娜美",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin41/images/nami_splash_uncentered_41.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin41/namiloadscreen_41.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Space Groove Nami"
+        },
+        {
+            "name": "至臻 太空律动 “魔音海妖” 娜美",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin42/images/nami_splash_uncentered_42.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin42/namiloadscreen_42.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Space Groove Nami"
+        },
+        {
+            "name": "魔女 娜美",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin51/images/nami_splash_uncentered_51.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin51/namiloadscreen_51.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Coven Nami"
+        },
+        {
+            "name": "剪纸仙灵 娜美",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin58/images/nami_splash_uncentered_58.skins_nami_skin58.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nami/skins/skin58/namiloadscreen_58.skins_nami_skin58.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Mythmaker Nami"
+        }
+    ]
+}

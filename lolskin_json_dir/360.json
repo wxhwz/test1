@@ -1,0 +1,46 @@
+{
+    "id": 360,
+    "name": "沙漠玫瑰",
+    "skins": [
+        {
+            "name": "灵能特工 莎弥拉",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/samira/skins/skin01/images/samira_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/samira/skins/skin01/samiraloadscreen_1.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "PsyOps Samira"
+        },
+        {
+            "name": "太空律动 “音浪狂舞” 莎弥拉",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/samira/skins/skin10/images/samira_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/samira/skins/skin10/samiraloadscreen_10.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Space Groove Samira"
+        },
+        {
+            "name": "西部魔影 持枪女巫 莎弥拉",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/samira/skins/skin20/images/samira_splash_uncentered_20.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/samira/skins/skin20/samiraloadscreen_20.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "High Noon Samira"
+        },
+        {
+            "name": "斗魂觉醒 莎弥拉",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/samira/skins/skin30/images/samira_splash_uncentered_30.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/samira/skins/skin30/samiraloadscreen_30.jpg",
+            "rarity": "kUltimate",
+            "regionRarityId": 9,
+            "name_en": "Soul Fighter Samira"
+        },
+        {
+            "name": "黑色玫瑰假面舞会 莎弥拉",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/samira/skins/skin33/images/samira_splash_uncentered_33.skins_samira_care_skin33.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/samira/skins/skin33/samiraloadscreen_33.skins_samira_care_skin33.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Masque of the Black Rose Samira"
+        }
+    ]
+}

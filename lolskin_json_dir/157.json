@@ -1,0 +1,142 @@
+{
+    "id": 157,
+    "name": "疾风剑豪",
+    "skins": [
+        {
+            "name": "西部牛仔 亚索",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin01/images/yasuo_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin01/yasuoloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "High Noon Yasuo"
+        },
+        {
+            "name": "源计划：风 亚索",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin02/images/yasuo_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin02/yasuoloadscreen_2.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "PROJECT: Yasuo"
+        },
+        {
+            "name": "腥红之月 亚索",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin03/images/yasuo_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin03/yasuoloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Blood Moon Yasuo"
+        },
+        {
+            "name": "黑夜使者 亚索",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin09/images/yasuo_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin09/yasuoloadscreen_9.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Nightbringer Yasuo"
+        },
+        {
+            "name": "奥德赛 亚索",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin10/images/yasuo_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin10/yasuoloadscreen_10.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Odyssey Yasuo"
+        },
+        {
+            "name": "战场BOSS 亚索",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin17/images/yasuo_splash_uncentered_17.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin17/yasuoloadscreen_17.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Battle Boss Yasuo"
+        },
+        {
+            "name": "真实伤害 亚索",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin18/images/yasuo_splash_uncentered_18.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin18/yasuoloadscreen_18.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "True Damage Yasuo"
+        },
+        {
+            "name": "至臻 真实伤害 亚索",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin35/images/yasuo_splash_uncentered_35.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin35/yasuoloadscreen_35.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige True Damage Yasuo"
+        },
+        {
+            "name": "灵魂莲华 亚索",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin36/images/yasuo_splash_uncentered_36.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin36/yasuoloadscreen_36.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Spirit Blossom Yasuo"
+        },
+        {
+            "name": "断浪之刃 亚索",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin45/images/yasuo_splash_uncentered_45.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin45/yasuoloadscreen_45.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Sea Dog Yasuo"
+        },
+        {
+            "name": "神龙尊者 昼日真龙 亚索",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin54/images/yasuo_splash_uncentered_54.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin54/yasuoloadscreen_54.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Truth Dragon Yasuo"
+        },
+        {
+            "name": "神龙尊者 夜月幻龙 亚索",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin55/images/yasuo_splash_uncentered_55.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin55/yasuoloadscreen_55.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Dream Dragon Yasuo"
+        },
+        {
+            "name": "墨之影武者 亚索",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin56/images/yasuo_splash_uncentered_56.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin56/yasuoloadscreen_56.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Inkshadow Yasuo"
+        },
+        {
+            "name": "至臻 墨之影武者 亚索",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin57/images/yasuo_splash_uncentered_57.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin57/yasuoloadscreen_57.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Inkshadow Yasuo"
+        },
+        {
+            "name": "预知之眼 亚索",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin68/images/yasuo_splash_uncentered_68.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin68/yasuoloadscreen_68.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Foreseen Yasuo"
+        },
+        {
+            "name": "幻灵孤狼 亚索",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin77/images/yasuo_splash_uncentered_77.skins_yasuo_skin77.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin77/yasuoloadscreen_77.skins_yasuo_skin77.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Battle Wolf Yasuo"
+        },
+        {
+            "name": "创世 黑夜使者 亚索",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin87/images/yasuo_splash_uncentered_87.skins_yasuo_skin87.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin87/yasuoloadscreen_87.skins_yasuo_skin87.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Genesis Nightbringer Yasuo"
+        }
+    ]
+}

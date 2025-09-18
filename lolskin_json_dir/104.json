@@ -1,0 +1,110 @@
+{
+    "id": 104,
+    "name": "法外狂徒",
+    "skins": [
+        {
+            "name": "怒之火炮 格雷福斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/graves/skins/skin01/images/graves_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/graves/skins/skin01/gravesloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Hired Gun Graves"
+        },
+        {
+            "name": "杀出重围 格雷福斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/graves/skins/skin02/images/graves_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/graves/skins/skin02/gravesloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Jailbreak Graves"
+        },
+        {
+            "name": "黑帮教父 格雷福斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/graves/skins/skin03/images/graves_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/graves/skins/skin03/gravesloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Crime City Graves"
+        },
+        {
+            "name": "防暴士兵 格雷福斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/graves/skins/skin04/images/graves_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/graves/skins/skin04/gravesloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Riot Graves"
+        },
+        {
+            "name": "泳池派对 格雷福斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/graves/skins/skin05/images/graves_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/graves/skins/skin05/gravesloadscreen_5.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Pool Party Graves"
+        },
+        {
+            "name": "无情重炮 格雷福斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/graves/skins/skin06/images/graves_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/graves/skins/skin06/gravesloadscreen_6.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Cutthroat Graves"
+        },
+        {
+            "name": "冰雪节 格雷福斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/graves/skins/skin07/images/graves_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/graves/skins/skin07/gravesloadscreen_7.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Snow Day Graves"
+        },
+        {
+            "name": "胜利枪神 格雷福斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/graves/skins/skin14/images/graves_splash_uncentered_14.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/graves/skins/skin14/gravesloadscreen_14.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Victorious Graves"
+        },
+        {
+            "name": "禁卫机甲 格雷福斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/graves/skins/skin18/images/graves_splash_uncentered_18.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/graves/skins/skin18/gravesloadscreen_18.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Praetorian Graves"
+        },
+        {
+            "name": "战斗教授 格雷福斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/graves/skins/skin25/images/graves_splash_uncentered_25.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/graves/skins/skin25/gravesloadscreen_25.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Battle Professor Graves"
+        },
+        {
+            "name": "光明哨兵 格雷福斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/graves/skins/skin35/images/graves_splash_uncentered_35.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/graves/skins/skin35/gravesloadscreen_35.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Sentinel Graves"
+        },
+        {
+            "name": "EDG 格雷福斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/graves/skins/skin42/images/graves_splash_uncentered_42.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/graves/skins/skin42/gravesloadscreen_42.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "EDG Graves"
+        },
+        {
+            "name": "青花瓷 格雷福斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/graves/skins/skin45/images/graves_splash_uncentered_45.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/graves/skins/skin45/gravesloadscreen_45.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Porcelain Graves"
+        }
+    ]
+}

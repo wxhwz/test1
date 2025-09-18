@@ -1,0 +1,94 @@
+{
+    "id": 115,
+    "name": "爆破鬼才",
+    "skins": [
+        {
+            "name": "科学狂人 吉格斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin01/images/ziggs_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin01/ziggsloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Mad Scientist Ziggs"
+        },
+        {
+            "name": "少校 吉格斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin02/images/ziggs_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin02/ziggsloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Major Ziggs"
+        },
+        {
+            "name": "泳池派对 吉格斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin03/images/ziggs_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin03/ziggsloadscreen_3.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Pool Party Ziggs"
+        },
+        {
+            "name": "雪球也能爆炸！ 吉格斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin04/images/ziggs_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin04/ziggsloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Snow Day Ziggs"
+        },
+        {
+            "name": "奥术大师 吉格斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin05/images/ziggs_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin05/ziggsloadscreen_5.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Master Arcanist Ziggs"
+        },
+        {
+            "name": "战场BOSS 吉格斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin06/images/ziggs_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin06/ziggsloadscreen_6.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Battle Boss Ziggs"
+        },
+        {
+            "name": "奥德赛 吉格斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin07/images/ziggs_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin07/ziggsloadscreen_7.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Odyssey Ziggs"
+        },
+        {
+            "name": "糖果大战 吉格斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin14/images/ziggs_splash_uncentered_14.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin14/ziggsloadscreen_14.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Sugar Rush Ziggs"
+        },
+        {
+            "name": "海克斯科技 吉格斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin23/images/ziggs_splash_uncentered_23.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin23/ziggsloadscreen_23.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Hextech Ziggs"
+        },
+        {
+            "name": "小蜜蜂 吉格斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin24/images/ziggs_splash_uncentered_24.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin24/ziggsloadscreen_24.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "BZZZiggs"
+        },
+        {
+            "name": "魂蔷薇 吉格斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin33/images/ziggs_splash_uncentered_33.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ziggs/skins/skin33/ziggsloadscreen_33.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "La Ilusión Ziggs"
+        }
+    ]
+}

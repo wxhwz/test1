@@ -1,0 +1,110 @@
+{
+    "id": 90,
+    "name": "虚空先知",
+    "skins": [
+        {
+            "name": "元老议会 玛尔扎哈",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/skin01/images/malzahar_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/skin01/malzaharloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Vizier Malzahar"
+        },
+        {
+            "name": "暗影王子 玛尔扎哈",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/skin02/images/malzahar_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/skin02/malzaharloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Shadow Prince Malzahar"
+        },
+        {
+            "name": "魔灵 玛尔扎哈",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/skin03/images/malzahar_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/skin03/malzaharloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Djinn Malzahar"
+        },
+        {
+            "name": "至高君王 玛尔扎哈",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/skin04/images/malzahar_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/skin04/malzaharloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Overlord Malzahar"
+        },
+        {
+            "name": "冰雪节 玛尔扎哈",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/skin05/images/malzahar_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/skin05/malzaharloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Snow Day Malzahar"
+        },
+        {
+            "name": "战场BOSS 玛尔扎哈",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/skin06/images/malzahar_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/skin06/malzaharloadscreen_6.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Battle Boss Malzahar"
+        },
+        {
+            "name": "海克斯科技 玛尔扎哈",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/skin07/images/malzahar_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/skin07/malzaharloadscreen_7.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Hextech Malzahar"
+        },
+        {
+            "name": "创世之神 玛尔扎哈",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/skin09/images/malzahar_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/skin09/malzaharloadscreen_9.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Worldbreaker Malzahar"
+        },
+        {
+            "name": "小蜜蜂 玛尔扎哈",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/skin18/images/malzahar_splash_uncentered_18.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/skin18/malzaharloadscreen_18.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Beezahar"
+        },
+        {
+            "name": "虚空执事 玛尔扎哈",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/skin28/images/malzahar_splash_uncentered_28.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/skin28/malzaharloadscreen_28.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Debonair Malzahar"
+        },
+        {
+            "name": "荣誉使者 玛尔扎哈",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/skin38/images/malzahar_splash_uncentered_38.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/skin38/malzaharloadscreen_38.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Three Honors Malzahar"
+        },
+        {
+            "name": "至高天 玛尔扎哈",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/skin39/images/malzahar_splash_uncentered_39.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/skin39/malzaharloadscreen_39.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Empyrean Malzahar"
+        },
+        {
+            "name": "逆命 玛尔扎哈",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/skin49/images/malzahar_splash_uncentered_49.skins_malzahar_skin49.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malzahar/skins/skin49/malzaharloadscreen_49.skins_malzahar_skin49.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Fatebreaker Malzahar"
+        }
+    ]
+}

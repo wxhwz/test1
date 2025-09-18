@@ -1,0 +1,110 @@
+{
+    "id": 119,
+    "name": "荣耀行刑官",
+    "skins": [
+        {
+            "name": "灵魂收割者 德莱文",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin01/images/draven_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin01/dravenloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Soul Reaver Draven"
+        },
+        {
+            "name": "绞肉机刽子手 德莱文",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin02/images/draven_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin02/dravenloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Gladiator Draven"
+        },
+        {
+            "name": "金牌主播 德莱文",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin03/images/draven_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin03/dravenloadscreen_3.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Primetime Draven"
+        },
+        {
+            "name": "泳池派对 德莱文",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin04/images/draven_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin04/dravenloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Pool Party Draven"
+        },
+        {
+            "name": "野兽猎人 德莱文",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin05/images/draven_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin05/dravenloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Beast Hunter Draven"
+        },
+        {
+            "name": "德莱德莱德莱文",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin06/images/draven_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin06/dravenloadscreen_6.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Draven Draven"
+        },
+        {
+            "name": "圣诞老人 德莱文",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin12/images/draven_splash_uncentered_12.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin12/dravenloadscreen_12.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Santa Draven"
+        },
+        {
+            "name": "王国机神青龙 德莱文",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin13/images/draven_splash_uncentered_13.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin13/dravenloadscreen_13.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Mecha Kingdoms Draven"
+        },
+        {
+            "name": "破败军团 德莱文",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin20/images/draven_splash_uncentered_20.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin20/dravenloadscreen_20.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Ruined Draven"
+        },
+        {
+            "name": "刃执事 德莱文",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin29/images/draven_splash_uncentered_29.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin29/dravenloadscreen_29.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Debonair Draven"
+        },
+        {
+            "name": "魔域梦魇 德莱文",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin39/images/draven_splash_uncentered_39.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin39/dravenloadscreen_39.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Fright Night Draven"
+        },
+        {
+            "name": "魂蔷薇 德莱文",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin48/images/draven_splash_uncentered_48.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin48/dravenloadscreen_48.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "La Ilusión Draven"
+        },
+        {
+            "name": "最高清算 德莱文",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin58/images/draven_splash_uncentered_58.skins_draven_skin58.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/draven/skins/skin58/dravenloadscreen_58.skins_draven_skin58.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Grand Reckoning Draven"
+        }
+    ]
+}

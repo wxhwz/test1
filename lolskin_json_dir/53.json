@@ -1,0 +1,126 @@
+{
+    "id": 53,
+    "name": "蒸汽机器人",
+    "skins": [
+        {
+            "name": "铁锈斑斑 布里茨",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin01/images/blitzcrank_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin01/blitzcrankloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Rusty Blitzcrank"
+        },
+        {
+            "name": "钢铁之门 布里茨",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin02/images/blitzcrank_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin02/blitzcrankloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Goalkeeper Blitzcrank"
+        },
+        {
+            "name": "擂台皇帝 布里茨",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin03/images/blitzcrank_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin03/blitzcrankloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Boom Boom Blitzcrank"
+        },
+        {
+            "name": "陆地王者4WD 布里茨",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin04/images/blitzcrank_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin04/blitzcrankloadscreen_4.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Piltover Customs Blitzcrank"
+        },
+        {
+            "name": "戴一个表 布里茨",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin05/images/blitzcrank_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin05/blitzcrankloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Definitely Not Blitzcrank"
+        },
+        {
+            "name": "苹果机器人 布里茨",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin06/images/blitzcrank_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin06/blitzcrankloadscreen_6.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "iBlitzcrank"
+        },
+        {
+            "name": "防暴机器人 布里茨",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin07/images/blitzcrank_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin07/blitzcrankloadscreen_7.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Riot Blitzcrank"
+        },
+        {
+            "name": "战场BOSS 布里茨",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin11/images/blitzcrank_splash_uncentered_11.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin11/blitzcrankloadscreen_11.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Battle Boss Blitzcrank"
+        },
+        {
+            "name": "暮色枪骑 布里茨",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin20/images/blitzcrank_splash_uncentered_20.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin20/blitzcrankloadscreen_20.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Lancer Rogue Blitzcrank"
+        },
+        {
+            "name": "银白枪骑 布里茨",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin21/images/blitzcrank_splash_uncentered_21.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin21/blitzcrankloadscreen_21.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Lancer Paragon Blitzcrank"
+        },
+        {
+            "name": "大魔法锅 布里茨",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin22/images/blitzcrank_splash_uncentered_22.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin22/blitzcrankloadscreen_22.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Witch's Brew Blitzcrank"
+        },
+        {
+            "name": "太空律动 “猫猫” 布里和里茨",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin29/images/blitzcrank_splash_uncentered_29.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin29/blitzcrankloadscreen_29.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Space Groove Blitz & Crank"
+        },
+        {
+            "name": "胜利机器人 布里茨",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin36/images/blitzcrank_splash_uncentered_36.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin36/blitzcrankloadscreen_36.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Victorious Blitzcrank"
+        },
+        {
+            "name": "巅峰之星 布里茨",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin47/images/blitzcrank_splash_uncentered_47.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin47/blitzcrankloadscreen_47.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Zenith Games Blitzcrank"
+        },
+        {
+            "name": "巨神蜂 布里茨",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin56/images/blitzcrank_splash_uncentered_56.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/blitzcrank/skins/skin56/blitzcrankloadscreen_56.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Beezcrank"
+        }
+    ]
+}

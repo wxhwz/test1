@@ -1,0 +1,70 @@
+{
+    "id": 102,
+    "name": "龙血武姬",
+    "skins": [
+        {
+            "name": "钢之逆鳞 希瓦娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin01/images/shyvana_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin01/shyvanaloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Ironscale Shyvana"
+        },
+        {
+            "name": "骸骨之爪 希瓦娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin02/images/shyvana_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin02/shyvanaloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Boneclaw Shyvana"
+        },
+        {
+            "name": "黯黑魔龙 希瓦娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin03/images/shyvana_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin03/shyvanaloadscreen_3.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Darkflame Shyvana"
+        },
+        {
+            "name": "冰霜亚龙 希瓦娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin04/images/shyvana_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin04/shyvanaloadscreen_4.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Ice Drake Shyvana"
+        },
+        {
+            "name": "冠军之血 希瓦娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin05/images/shyvana_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin05/shyvanaloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Worlds 2014 Shyvana"
+        },
+        {
+            "name": "银河魔装机神 希瓦娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin06/images/shyvana_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin06/shyvanaloadscreen_6.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Super Galaxy Shyvana"
+        },
+        {
+            "name": "破败军团 希瓦娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin08/images/shyvana_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin08/shyvanaloadscreen_8.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Ruined Shyvana"
+        },
+        {
+            "name": "玉剑传说 舞龙卫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin17/images/shyvana_splash_uncentered_17.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/shyvana/skins/skin17/shyvanaloadscreen_17.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Immortal Journey Shyvana"
+        }
+    ]
+}

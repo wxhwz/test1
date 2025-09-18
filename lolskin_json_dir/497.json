@@ -1,0 +1,102 @@
+{
+    "id": 497,
+    "name": "幻翎",
+    "skins": [
+        {
+            "name": "晨星之翎 洛",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rakan/skins/skin01/images/rakan_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rakan/skins/skin01/rakanloadscreen_1.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Cosmic Dawn Rakan"
+        },
+        {
+            "name": "甜心之翎 洛",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rakan/skins/skin02/images/rakan_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rakan/skins/skin02/rakanloadscreen_2.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Sweetheart Rakan"
+        },
+        {
+            "name": "SSG 洛",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rakan/skins/skin03/images/rakan_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rakan/skins/skin03/rakanloadscreen_3.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "SSG Rakan"
+        },
+        {
+            "name": "iG 洛",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rakan/skins/skin04/images/rakan_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rakan/skins/skin04/rakanloadscreen_4.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "iG Rakan"
+        },
+        {
+            "name": "星之守护者 洛",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rakan/skins/skin05/images/rakan_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rakan/skins/skin05/rakanloadscreen_5.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Star Guardian Rakan"
+        },
+        {
+            "name": "永恒之森 洛",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rakan/skins/skin09/images/rakan_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rakan/skins/skin09/rakanloadscreen_9.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Elderwood Rakan"
+        },
+        {
+            "name": "比翼之心 洛",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rakan/skins/skin18/images/rakan_splash_uncentered_18.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rakan/skins/skin18/rakanloadscreen_18.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Arcana Rakan"
+        },
+        {
+            "name": "绝息圣堂 洛",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rakan/skins/skin27/images/rakan_splash_uncentered_27.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rakan/skins/skin27/rakanloadscreen_27.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Broken Covenant Rakan"
+        },
+        {
+            "name": "星之守护者 净化之翎 洛",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rakan/skins/skin36/images/rakan_splash_uncentered_36.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rakan/skins/skin36/rakanloadscreen_36.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Redeemed Star Guardian Rakan"
+        },
+        {
+            "name": "神龙尊者 比翼之龙 洛",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rakan/skins/skin37/images/rakan_splash_uncentered_37.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rakan/skins/skin37/rakanloadscreen_37.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Dragonmancer Rakan"
+        },
+        {
+            "name": "至臻 神龙尊者 比翼之龙 洛",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rakan/skins/skin38/images/rakan_splash_uncentered_38.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rakan/skins/skin38/rakanloadscreen_38.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Dragonmancer Rakan"
+        },
+        {
+            "name": "战斗学院 洛",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rakan/skins/skin47/images/rakan_splash_uncentered_47.skins_rakan_skin47.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rakan/skins/skin47/rakanloadscreen_47.skins_rakan_skin47.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Battle Academia Rakan"
+        }
+    ]
+}

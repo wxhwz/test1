@@ -1,0 +1,150 @@
+{
+    "id": 67,
+    "name": "暗夜猎手",
+    "skins": [
+        {
+            "name": "摩登骇客 薇恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin01/images/vayne_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin01/vayneloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Vindicator Vayne"
+        },
+        {
+            "name": "猎天使魔女 薇恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin02/images/vayne_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin02/vayneloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Aristocrat Vayne"
+        },
+        {
+            "name": "屠龙勇士 薇恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin03/images/vayne_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin03/vayneloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Dragonslayer Vayne"
+        },
+        {
+            "name": "觅心猎手 薇恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin04/images/vayne_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin04/vayneloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Heartseeker Vayne"
+        },
+        {
+            "name": "SKT T1 薇恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin05/images/vayne_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin05/vayneloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "SKT T1 Vayne"
+        },
+        {
+            "name": "苍穹之光 薇恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin06/images/vayne_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin06/vayneloadscreen_6.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Arclight Vayne"
+        },
+        {
+            "name": "摄魂使者 薇恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin10/images/vayne_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin10/vayneloadscreen_10.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Soulstealer Vayne"
+        },
+        {
+            "name": "源计划：净化 薇恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin11/images/vayne_splash_uncentered_11.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin11/vayneloadscreen_11.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "PROJECT: Vayne"
+        },
+        {
+            "name": "烈焰美人 薇恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin12/images/vayne_splash_uncentered_12.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin12/vayneloadscreen_12.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Firecracker Vayne"
+        },
+        {
+            "name": "至臻 烈焰美人 薇恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin13/images/vayne_splash_uncentered_13.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin13/vayneloadscreen_13.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Firecracker Vayne"
+        },
+        {
+            "name": "灵魂莲华 薇恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin14/images/vayne_splash_uncentered_14.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin14/vayneloadscreen_14.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Spirit Blossom Vayne"
+        },
+        {
+            "name": "FPX 薇恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin15/images/vayne_splash_uncentered_15.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin15/vayneloadscreen_15.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "FPX Vayne"
+        },
+        {
+            "name": "光明哨兵 薇恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin25/images/vayne_splash_uncentered_25.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin25/vayneloadscreen_25.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Sentinel Vayne"
+        },
+        {
+            "name": "幻灵战斗蝠 薇恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin32/images/vayne_splash_uncentered_32.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin32/vayneloadscreen_32.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Battle Bat Vayne"
+        },
+        {
+            "name": "至臻 烈焰美人 薇恩 (2022)",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin13/images/vayne_splash_uncentered_13.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin33/vayneloadscreen_33.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Firecracker Vayne"
+        },
+        {
+            "name": "黎明使者 薇恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin44/images/vayne_splash_uncentered_44.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin44/vayneloadscreen_44.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Dawnbringer Vayne"
+        },
+        {
+            "name": "神龙尊者 夜之龙 薇恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin55/images/vayne_splash_uncentered_55.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin55/vayneloadscreen_55.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Dragonmancer Vayne"
+        },
+        {
+            "name": "殿堂传奇 薇恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin64/images/vayne_splash_uncentered_64.skins_vayne_skin64.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vayne/skins/skin64/vayneloadscreen_64.skins_vayne_skin64.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Risen Legend Vayne"
+        }
+    ]
+}

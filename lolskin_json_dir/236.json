@@ -1,0 +1,110 @@
+{
+    "id": 236,
+    "name": "圣枪游侠",
+    "skins": [
+        {
+            "name": "职业杀手 卢锡安",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin01/images/lucian_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin01/lucianloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Hired Gun Lucian"
+        },
+        {
+            "name": "夺命前锋 卢锡安",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin02/images/lucian_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin02/lucianloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Striker Lucian"
+        },
+        {
+            "name": "源计划：雷 卢锡安",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin06/images/lucian_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin06/lucianloadscreen_6.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "PROJECT: Lucian"
+        },
+        {
+            "name": "觅心游侠 卢锡安",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin07/images/lucian_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin07/lucianloadscreen_7.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Heartseeker Lucian"
+        },
+        {
+            "name": "西部魔影 卢锡安",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin08/images/lucian_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin08/lucianloadscreen_8.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "High Noon Lucian"
+        },
+        {
+            "name": "德玛西亚警官 卢锡安",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin09/images/lucian_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin09/lucianloadscreen_9.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Demacia Vice Lucian"
+        },
+        {
+            "name": "未来战士 卢锡安",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin18/images/lucian_splash_uncentered_18.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin18/lucianloadscreen_18.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Pulsefire Lucian"
+        },
+        {
+            "name": "至臻 未来战士 卢锡安",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin19/images/lucian_splash_uncentered_19.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin19/lucianloadscreen_19.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Pulsefire Lucian"
+        },
+        {
+            "name": "胜利枪神 卢锡安",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin25/images/lucian_splash_uncentered_25.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin25/lucianloadscreen_25.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Victorious Lucian"
+        },
+        {
+            "name": "正义之枪 卢锡安",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin31/images/lucian_splash_uncentered_31.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin31/lucianloadscreen_31.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Arcana Lucian"
+        },
+        {
+            "name": "海珀利安小队 Z01-猎户座 卢锡安",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin40/images/lucian_splash_uncentered_40.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin40/lucianloadscreen_40.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Strike Paladin Lucian"
+        },
+        {
+            "name": "北极星守护者 卢锡安",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin52/images/lucian_splash_uncentered_52.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin52/lucianloadscreen_52.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Winterblessed Lucian"
+        },
+        {
+            "name": "正义假面 卢锡安",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin62/images/lucian_splash_uncentered_62.skins_lucian_skin62.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lucian/skins/skin62/lucianloadscreen_62.skins_lucian_skin62.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Masked Justice Lucian"
+        }
+    ]
+}

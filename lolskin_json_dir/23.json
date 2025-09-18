@@ -1,0 +1,110 @@
+{
+    "id": 23,
+    "name": "蛮族之王",
+    "skins": [
+        {
+            "name": "勇敢的心 泰达米尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tryndamere/skins/skin01/images/tryndamere_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tryndamere/skins/skin01/tryndamereloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Highland Tryndamere"
+        },
+        {
+            "name": "国王 泰达米尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tryndamere/skins/skin02/images/tryndamere_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tryndamere/skins/skin02/tryndamereloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "King Tryndamere"
+        },
+        {
+            "name": "诸神的黄昏 泰达米尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tryndamere/skins/skin03/images/tryndamere_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tryndamere/skins/skin03/tryndamereloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Viking Tryndamere"
+        },
+        {
+            "name": "恶魔之刃 泰达米尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tryndamere/skins/skin04/images/tryndamere_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tryndamere/skins/skin04/tryndamereloadscreen_4.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Demonblade Tryndamere"
+        },
+        {
+            "name": "奥斯曼大帝 泰达米尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tryndamere/skins/skin05/images/tryndamere_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tryndamere/skins/skin05/tryndamereloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Sultan Tryndamere"
+        },
+        {
+            "name": "关羽 云长",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tryndamere/skins/skin06/images/tryndamere_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tryndamere/skins/skin06/tryndamereloadscreen_6.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Warring Kingdoms Tryndamere"
+        },
+        {
+            "name": "梦魇 泰达米尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tryndamere/skins/skin07/images/tryndamere_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tryndamere/skins/skin07/tryndamereloadscreen_7.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Nightmare Tryndamere"
+        },
+        {
+            "name": "野兽猎人 泰达米尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tryndamere/skins/skin08/images/tryndamere_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tryndamere/skins/skin08/tryndamereloadscreen_8.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Beast Hunter Tryndamere"
+        },
+        {
+            "name": "生化领主 泰达米尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tryndamere/skins/skin09/images/tryndamere_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tryndamere/skins/skin09/tryndamereloadscreen_9.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Chemtech Tryndamere"
+        },
+        {
+            "name": "腥红之月 泰达米尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tryndamere/skins/skin10/images/tryndamere_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tryndamere/skins/skin10/tryndamereloadscreen_10.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Blood Moon Tryndamere"
+        },
+        {
+            "name": "黑夜使者 泰达米尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tryndamere/skins/skin18/images/tryndamere_splash_uncentered_18.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tryndamere/skins/skin18/tryndamereloadscreen_18.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Nightbringer Tryndamere"
+        },
+        {
+            "name": "胜利之王 泰达米尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tryndamere/skins/skin27/images/tryndamere_splash_uncentered_27.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tryndamere/skins/skin27/tryndamereloadscreen_27.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Victorious Tryndamere"
+        },
+        {
+            "name": "暗裔英雄 泰达米尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tryndamere/skins/skin37/images/tryndamere_splash_uncentered_37.skins_tryndamere_skin37.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/tryndamere/skins/skin37/tryndamereloadscreen_37.skins_tryndamere_skin37.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Visions of the Fallen Tryndamere"
+        }
+    ]
+}

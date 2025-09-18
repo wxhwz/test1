@@ -1,0 +1,110 @@
+{
+    "id": 75,
+    "name": "沙漠死神",
+    "skins": [
+        {
+            "name": "星空之门 内瑟斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nasus/skins/skin01/images/nasus_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nasus/skins/skin01/nasusloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 3,
+            "name_en": "Galactic Nasus"
+        },
+        {
+            "name": "法老王朝 内瑟斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nasus/skins/skin02/images/nasus_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nasus/skins/skin02/nasusloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Pharaoh Nasus"
+        },
+        {
+            "name": "死亡骑士 内瑟斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nasus/skins/skin03/images/nasus_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nasus/skins/skin03/nasusloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 3,
+            "name_en": "Dreadknight Nasus"
+        },
+        {
+            "name": "警用试作体K-9 内瑟斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nasus/skins/skin04/images/nasus_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nasus/skins/skin04/nasusloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Riot K-9 Nasus"
+        },
+        {
+            "name": "炼狱魔犬 内瑟斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nasus/skins/skin05/images/nasus_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nasus/skins/skin05/nasusloadscreen_5.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Infernal Nasus"
+        },
+        {
+            "name": "单身贵族 内瑟斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nasus/skins/skin06/images/nasus_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nasus/skins/skin06/nasusloadscreen_6.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Archduke Nasus"
+        },
+        {
+            "name": "创世之神 内瑟斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nasus/skins/skin10/images/nasus_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nasus/skins/skin10/nasusloadscreen_10.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Worldbreaker Nasus"
+        },
+        {
+            "name": "北辰之威 内瑟斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nasus/skins/skin11/images/nasus_splash_uncentered_11.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nasus/skins/skin11/nasusloadscreen_11.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Lunar Guardian Nasus"
+        },
+        {
+            "name": "战地机甲 内瑟斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nasus/skins/skin16/images/nasus_splash_uncentered_16.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nasus/skins/skin16/nasusloadscreen_16.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Battlecast Nasus"
+        },
+        {
+            "name": "太空律动 “狗头” 内瑟斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nasus/skins/skin25/images/nasus_splash_uncentered_25.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nasus/skins/skin25/nasusloadscreen_25.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Space Groove Nasus"
+        },
+        {
+            "name": "海珀利安小队 S02-阿努比斯 内瑟斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nasus/skins/skin35/images/nasus_splash_uncentered_35.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nasus/skins/skin35/nasusloadscreen_35.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Armored Titan Nasus"
+        },
+        {
+            "name": "黑夜使者 内瑟斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nasus/skins/skin45/images/nasus_splash_uncentered_45.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nasus/skins/skin45/nasusloadscreen_45.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Nightbringer Nasus"
+        },
+        {
+            "name": "织命 内瑟斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nasus/skins/skin54/images/nasus_splash_uncentered_54.skins_nasus_skin54.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nasus/skins/skin54/nasusloadscreen_54.skins_nasus_skin54.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Fatemaker Nasus"
+        }
+    ]
+}

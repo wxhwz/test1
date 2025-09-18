@@ -1,0 +1,62 @@
+{
+    "id": 164,
+    "name": "青钢影",
+    "skins": [
+        {
+            "name": "源代码 卡蜜尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/skin01/images/camille_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/skin01/camilleloadscreen_1.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Program Camille"
+        },
+        {
+            "name": "魔女 卡蜜尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/skin02/images/camille_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/skin02/camilleloadscreen_2.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Coven Camille"
+        },
+        {
+            "name": "iG 卡蜜尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/skin10/images/camille_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/skin10/camilleloadscreen_10.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "iG Camille"
+        },
+        {
+            "name": "莫测之影 卡蜜尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/skin11/images/camille_splash_uncentered_11.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/skin11/camilleloadscreen_11.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Arcana Camille"
+        },
+        {
+            "name": "海珀利安小队 Y03-权天使 卡蜜尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/skin21/images/camille_splash_uncentered_21.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/skin21/camilleloadscreen_21.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Strike Commander Camille"
+        },
+        {
+            "name": "北极星钢影 卡蜜尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/skin31/images/camille_splash_uncentered_31.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/skin31/camilleloadscreen_31.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Winterblessed Camille"
+        },
+        {
+            "name": "至臻 北极星钢影 卡蜜尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/skin32/images/camille_splash_uncentered_32.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/camille/skins/skin32/camilleloadscreen_32.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Winterblessed Camille"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": 107,
+    "name": "傲之追猎者",
+    "skins": [
+        {
+            "name": "铁血猎人 雷恩加尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rengar/skins/skin01/images/rengar_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rengar/skins/skin01/rengarloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Headhunter Rengar"
+        },
+        {
+            "name": "暗黑武士 雷恩加尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rengar/skins/skin02/images/rengar_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rengar/skins/skin02/rengarloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Night Hunter Rengar"
+        },
+        {
+            "name": "SSW 雷恩加尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rengar/skins/skin03/images/rengar_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rengar/skins/skin03/rengarloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "SSW Rengar"
+        },
+        {
+            "name": "霸天战士 雷恩加尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rengar/skins/skin08/images/rengar_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rengar/skins/skin08/rengarloadscreen_8.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Mecha Rengar"
+        },
+        {
+            "name": "雷喵喵尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rengar/skins/skin15/images/rengar_splash_uncentered_15.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rengar/skins/skin15/rengarloadscreen_15.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Pretty Kitty Rengar"
+        },
+        {
+            "name": "沙之守护 雷恩加尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rengar/skins/skin23/images/rengar_splash_uncentered_23.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rengar/skins/skin23/rengarloadscreen_23.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Guardian of the Sands Rengar"
+        },
+        {
+            "name": "光明哨兵 雷恩加尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rengar/skins/skin30/images/rengar_splash_uncentered_30.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rengar/skins/skin30/rengarloadscreen_30.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Sentinel Rengar"
+        },
+        {
+            "name": "妖怪艺术家 雷恩加尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rengar/skins/skin40/images/rengar_splash_uncentered_40.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rengar/skins/skin40/rengarloadscreen_40.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Street Demons Rengar"
+        }
+    ]
+}

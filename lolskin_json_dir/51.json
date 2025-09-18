@@ -1,0 +1,158 @@
+{
+    "id": 51,
+    "name": "皮城女警",
+    "skins": [
+        {
+            "name": "抵抗军天使 凯特琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin01/images/caitlyn_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin01/caitlynloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Resistance Caitlyn"
+        },
+        {
+            "name": "荒野治安官 凯特琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin02/images/caitlyn_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin02/caitlynloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Sheriff Caitlyn"
+        },
+        {
+            "name": "古墓丽影 凯特琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin03/images/caitlyn_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin03/caitlynloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Safari Caitlyn"
+        },
+        {
+            "name": "冰原狙击 凯特琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin04/images/caitlyn_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin04/caitlynloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Arctic Warfare Caitlyn"
+        },
+        {
+            "name": "女警狙击 凯特琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin05/images/caitlyn_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin05/caitlynloadscreen_5.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Officer Caitlyn"
+        },
+        {
+            "name": "铁血狙击手 凯特琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin06/images/caitlyn_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin06/caitlynloadscreen_6.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Headhunter Caitlyn"
+        },
+        {
+            "name": "玉净夜叉 凯特琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin10/images/caitlyn_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin10/caitlynloadscreen_10.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Lunar Wraith Caitlyn"
+        },
+        {
+            "name": "未来战士 凯特琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin11/images/caitlyn_splash_uncentered_11.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin11/caitlynloadscreen_11.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 5,
+            "name_en": "Pulsefire Caitlyn"
+        },
+        {
+            "name": "泳池派对 凯特琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin13/images/caitlyn_splash_uncentered_13.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin13/caitlynloadscreen_13.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Pool Party Caitlyn"
+        },
+        {
+            "name": "电玩女神 凯特琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin19/images/caitlyn_splash_uncentered_19.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin19/caitlynloadscreen_19.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Arcade Caitlyn"
+        },
+        {
+            "name": "至臻 电玩女神 凯特琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin20/images/caitlyn_splash_uncentered_20.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin20/caitlynloadscreen_20_le.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Arcade Caitlyn"
+        },
+        {
+            "name": "战斗学院 凯特琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin22/images/caitlyn_splash_uncentered_22.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin22/caitlynloadscreen_22.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Battle Academia Caitlyn"
+        },
+        {
+            "name": "双城之战 凯特琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin28/images/caitlyn_splash_uncentered_28.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin28/caitlynloadscreen_28.jpg",
+            "rarity": "kRare",
+            "regionRarityId": 0,
+            "name_en": "Arcane Enforcer Caitlyn"
+        },
+        {
+            "name": "至臻 电玩女神 凯特琳 (2022)",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin20/images/caitlyn_splash_uncentered_20.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin29/caitlynloadscreen_29.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Arcade Caitlyn"
+        },
+        {
+            "name": "净雪之月 凯特琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin30/images/caitlyn_splash_uncentered_30.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin30/caitlynloadscreen_30.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Snow Moon Caitlyn"
+        },
+        {
+            "name": "怦然心动 凯特琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin39/images/caitlyn_splash_uncentered_39.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin39/caitlynloadscreen_39.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Heartthrob Caitlyn"
+        },
+        {
+            "name": "DRX 凯特琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin48/images/caitlyn_splash_uncentered_48.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin48/caitlynloadscreen_48.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "DRX Caitlyn"
+        },
+        {
+            "name": "双城之战2 指挥官 凯特琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin50/images/caitlyn_splash_uncentered_50.skins_caitlyn_skin50.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin50/caitlynloadscreen_50.skins_caitlyn_skin50.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Arcane Commander Caitlyn"
+        },
+        {
+            "name": "至臻 双城之战2 指挥官 凯特琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin51/images/caitlyn_splash_uncentered_51.skins_caitlyn_skin51.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/caitlyn/skins/skin51/caitlynloadscreen_51.skins_caitlyn_skin51.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Arcane Commander Caitlyn"
+        }
+    ]
+}

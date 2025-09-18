@@ -1,0 +1,54 @@
+{
+    "id": 161,
+    "name": "虚空之眼",
+    "skins": [
+        {
+            "name": "战地机甲 维克兹",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/velkoz/skins/skin01/images/velkoz_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/velkoz/skins/skin01/velkozloadscreen_1.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Battlecast Vel'Koz"
+        },
+        {
+            "name": "苍穹之光 维克兹",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/velkoz/skins/skin02/images/velkoz_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/velkoz/skins/skin02/velkozloadscreen_2.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Arclight Vel'Koz"
+        },
+        {
+            "name": "这货不是维克兹",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/velkoz/skins/skin03/images/velkoz_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/velkoz/skins/skin03/velkozloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Definitely Not Vel'Koz"
+        },
+        {
+            "name": "地狱火 维克兹",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/velkoz/skins/skin04/images/velkoz_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/velkoz/skins/skin04/velkozloadscreen_4.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Infernal Vel'Koz"
+        },
+        {
+            "name": "黯晶之眼 维克兹",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/velkoz/skins/skin11/images/velkoz_splash_uncentered_11.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/velkoz/skins/skin11/velkozloadscreen_11.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Blackfrost Vel'Koz"
+        },
+        {
+            "name": "天才蜂 维克兹",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/velkoz/skins/skin20/images/velkoz_splash_uncentered_20.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/velkoz/skins/skin20/velkozloadscreen_20.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Bee'Koz"
+        }
+    ]
+}

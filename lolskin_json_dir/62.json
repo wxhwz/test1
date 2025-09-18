@@ -1,0 +1,70 @@
+{
+    "id": 62,
+    "name": "齐天大圣",
+    "skins": [
+        {
+            "name": "三昧真火 孙悟空",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/monkeyking/skins/skin01/images/monkeyking_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/monkeyking/skins/skin01/monkeykingloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Volcanic Wukong"
+        },
+        {
+            "name": "斗战胜佛 孙悟空",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/monkeyking/skins/skin02/images/monkeyking_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/monkeyking/skins/skin02/monkeykingloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "General Wukong"
+        },
+        {
+            "name": "定海神珍 孙悟空",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/monkeyking/skins/skin03/images/monkeyking_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/monkeyking/skins/skin03/monkeykingloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Jade Dragon Wukong"
+        },
+        {
+            "name": "地狱行者 孙悟空",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/monkeyking/skins/skin04/images/monkeyking_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/monkeyking/skins/skin04/monkeykingloadscreen_4.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Underworld Wukong"
+        },
+        {
+            "name": "美猴王 孙悟空",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/monkeyking/skins/skin05/images/monkeyking_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/monkeyking/skins/skin05/monkeykingloadscreen_5.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Radiant Wukong"
+        },
+        {
+            "name": "破空枪骑 孙悟空",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/monkeyking/skins/skin06/images/monkeyking_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/monkeyking/skins/skin06/monkeykingloadscreen_6.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Lancer Stratus Wukong"
+        },
+        {
+            "name": "战斗学院 孙悟空",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/monkeyking/skins/skin07/images/monkeyking_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/monkeyking/skins/skin07/monkeykingloadscreen_7.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Battle Academia Wukong"
+        },
+        {
+            "name": "永恒之森 孙悟空",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/monkeyking/skins/skin16/images/monkeyking_splash_uncentered_16.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/monkeyking/skins/skin16/monkeykingloadscreen_16.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Elderwood Wukong"
+        }
+    ]
+}

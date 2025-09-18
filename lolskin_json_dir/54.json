@@ -1,0 +1,118 @@
+{
+    "id": 54,
+    "name": "熔岩巨兽",
+    "skins": [
+        {
+            "name": "三叶草 墨菲特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin01/images/malphite_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin01/malphiteloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Shamrock Malphite"
+        },
+        {
+            "name": "珊瑚礁 墨菲特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin02/images/malphite_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin02/malphiteloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Coral Reef Malphite"
+        },
+        {
+            "name": "石破天惊 墨菲特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin03/images/malphite_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin03/malphiteloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Marble Malphite"
+        },
+        {
+            "name": "黑曜石守护者 墨菲特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin04/images/malphite_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin04/malphiteloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Obsidian Malphite"
+        },
+        {
+            "name": "冰川巨兽 墨菲特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin05/images/malphite_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin05/malphiteloadscreen_5.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Glacial Malphite"
+        },
+        {
+            "name": "霸天巨兽 墨菲特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin06/images/malphite_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin06/malphiteloadscreen_6.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Mecha Malphite"
+        },
+        {
+            "name": "无畏号 墨菲特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin07/images/malphite_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin07/malphiteloadscreen_7.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Ironside Malphite"
+        },
+        {
+            "name": "奥德赛 墨菲特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin16/images/malphite_splash_uncentered_16.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin16/malphiteloadscreen_16.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Odyssey Malphite"
+        },
+        {
+            "name": "暗星 墨菲特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin23/images/malphite_splash_uncentered_23.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin23/malphiteloadscreen_23.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Dark Star Malphite"
+        },
+        {
+            "name": "至臻 暗星 墨菲特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin24/images/malphite_splash_uncentered_24.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin24/malphiteloadscreen_24.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Dark Star Malphite"
+        },
+        {
+            "name": "FPX 墨菲特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin25/images/malphite_splash_uncentered_25.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin25/malphiteloadscreen_25.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "FPX Malphite"
+        },
+        {
+            "name": "古神 墨菲特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin27/images/malphite_splash_uncentered_27.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin27/malphiteloadscreen_27.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Old God Malphite"
+        },
+        {
+            "name": "春晖山神 墨菲特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin37/images/malphite_splash_uncentered_37.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin37/malphiteloadscreen_37.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Lunar Guardian Malphite"
+        },
+        {
+            "name": "沙碉 墨菲特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin48/images/malphite_splash_uncentered_48.skins_malphite_skin48.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/malphite/skins/skin48/malphiteloadscreen_48.skins_malphite_skin48.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Pool Party Malphite"
+        }
+    ]
+}

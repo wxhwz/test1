@@ -1,0 +1,86 @@
+{
+    "id": 14,
+    "name": "亡灵战神",
+    "skins": [
+        {
+            "name": "钢铁终结者 赛恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin01/images/sion_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin01/sionloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 1,
+            "name_en": "Hextech Sion"
+        },
+        {
+            "name": "武仙座海格力斯 赛恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin02/images/sion_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin02/sionloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Barbarian Sion"
+        },
+        {
+            "name": "原野伐木工 赛恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin03/images/sion_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin03/sionloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Lumberjack Sion"
+        },
+        {
+            "name": "战争机器 赛恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin04/images/sion_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin04/sionloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Warmonger Sion"
+        },
+        {
+            "name": "霸天零式 赛恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin05/images/sion_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin05/sionloadscreen_5.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Mecha Zero Sion"
+        },
+        {
+            "name": "创世之神 赛恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin14/images/sion_splash_uncentered_14.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin14/sionloadscreen_14.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Worldbreaker Sion"
+        },
+        {
+            "name": "黯晶战神 赛恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin22/images/sion_splash_uncentered_22.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin22/sionloadscreen_22.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Blackfrost Sion"
+        },
+        {
+            "name": "西部魔影 合成天使 赛恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin30/images/sion_splash_uncentered_30.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin30/sionloadscreen_30.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "High Noon Sion"
+        },
+        {
+            "name": "星界圣骑 赛恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin40/images/sion_splash_uncentered_40.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin40/sionloadscreen_40.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Cosmic Paladin Sion"
+        },
+        {
+            "name": "最高清算 赛恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin49/images/sion_splash_uncentered_49.skins_sion_skin49.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sion/skins/skin49/sionloadscreen_49.skins_sion_skin49.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Grand Reckoning Sion"
+        }
+    ]
+}

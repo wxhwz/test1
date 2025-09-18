@@ -1,0 +1,86 @@
+{
+    "id": 150,
+    "name": "迷失之牙",
+    "skins": [
+        {
+            "name": "最后一只恐龙 纳尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gnar/skins/skin01/images/gnar_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gnar/skins/skin01/gnarloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Dino Gnar"
+        },
+        {
+            "name": "萌侦探 喵尔摩斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gnar/skins/skin02/images/gnar_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gnar/skins/skin02/gnarloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Gentleman Gnar"
+        },
+        {
+            "name": "冰雪兽 纳尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gnar/skins/skin03/images/gnar_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gnar/skins/skin03/gnarloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Snow Day Gnar"
+        },
+        {
+            "name": "狂狮 纳尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gnar/skins/skin04/images/gnar_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gnar/skins/skin04/gnarloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "El León Gnar"
+        },
+        {
+            "name": "银河魔装机神 纳尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gnar/skins/skin13/images/gnar_splash_uncentered_13.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gnar/skins/skin13/gnarloadscreen_13.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Super Galaxy Gnar"
+        },
+        {
+            "name": "SSG 纳尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gnar/skins/skin14/images/gnar_splash_uncentered_14.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gnar/skins/skin14/gnarloadscreen_14.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "SSG Gnar"
+        },
+        {
+            "name": "宇航员 纳尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gnar/skins/skin15/images/gnar_splash_uncentered_15.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gnar/skins/skin15/gnarloadscreen_15.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Astronaut Gnar"
+        },
+        {
+            "name": "永恒之森 纳尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gnar/skins/skin22/images/gnar_splash_uncentered_22.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gnar/skins/skin22/gnarloadscreen_22.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Elderwood Gnar"
+        },
+        {
+            "name": "灵之菊 纳尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gnar/skins/skin31/images/gnar_splash_uncentered_31.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gnar/skins/skin31/gnarloadscreen_31.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "La Ilusión Gnar"
+        },
+        {
+            "name": "T1 纳尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gnar/skins/skin41/images/gnar_splash_uncentered_41.skins_gnar_skin41.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gnar/skins/skin41/gnarloadscreen_41.skins_gnar_skin41.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "T1 Gnar"
+        }
+    ]
+}

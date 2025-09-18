@@ -1,0 +1,86 @@
+{
+    "id": 56,
+    "name": "永恒梦魇",
+    "skins": [
+        {
+            "name": "蓝焰梦魔 魔腾",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nocturne/skins/skin01/images/nocturne_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nocturne/skins/skin01/nocturneloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Frozen Terror Nocturne"
+        },
+        {
+            "name": "幻影梦魔 魔腾",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nocturne/skins/skin02/images/nocturne_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nocturne/skins/skin02/nocturneloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Void Nocturne"
+        },
+        {
+            "name": "劫掠梦魇 魔腾",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nocturne/skins/skin03/images/nocturne_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nocturne/skins/skin03/nocturneloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Ravager Nocturne"
+        },
+        {
+            "name": "鬼影重重 魔腾",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nocturne/skins/skin04/images/nocturne_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nocturne/skins/skin04/nocturneloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Haunting Nocturne"
+        },
+        {
+            "name": "上古战魂 魔腾",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nocturne/skins/skin05/images/nocturne_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nocturne/skins/skin05/nocturneloadscreen_5.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Eternum Nocturne"
+        },
+        {
+            "name": "恶咒亡魂 魔腾",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nocturne/skins/skin06/images/nocturne_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nocturne/skins/skin06/nocturneloadscreen_6.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Cursed Revenant Nocturne"
+        },
+        {
+            "name": "古神 魔腾",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nocturne/skins/skin07/images/nocturne_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nocturne/skins/skin07/nocturneloadscreen_7.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Old God Nocturne"
+        },
+        {
+            "name": "海克斯科技 魔腾",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nocturne/skins/skin16/images/nocturne_splash_uncentered_16.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nocturne/skins/skin16/nocturneloadscreen_16.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Hextech Nocturne"
+        },
+        {
+            "name": "绝息圣堂 魔腾",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nocturne/skins/skin17/images/nocturne_splash_uncentered_17.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nocturne/skins/skin17/nocturneloadscreen_17.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Broken Covenant Nocturne"
+        },
+        {
+            "name": "至高天 魔腾",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nocturne/skins/skin26/images/nocturne_splash_uncentered_26.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nocturne/skins/skin26/nocturneloadscreen_26.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Empyrean Nocturne"
+        }
+    ]
+}

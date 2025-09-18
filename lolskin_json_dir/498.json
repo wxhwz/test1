@@ -1,0 +1,102 @@
+{
+    "id": 498,
+    "name": "逆羽",
+    "skins": [
+        {
+            "name": "暮星之羽 霞",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin01/images/xayah_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin01/xayahloadscreen_1.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Cosmic Dusk Xayah"
+        },
+        {
+            "name": "甜心之羽 霞",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin02/images/xayah_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin02/xayahloadscreen_2.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Sweetheart Xayah"
+        },
+        {
+            "name": "SSG 霞",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin03/images/xayah_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin03/xayahloadscreen_3.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "SSG Xayah"
+        },
+        {
+            "name": "星之守护者 霞",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin04/images/xayah_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin04/xayahloadscreen_4.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Star Guardian Xayah"
+        },
+        {
+            "name": "永恒之森 霞",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin08/images/xayah_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin08/xayahloadscreen_8.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Elderwood Xayah"
+        },
+        {
+            "name": "神凰行者 烈羽焰凰 霞",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin17/images/xayah_splash_uncentered_17.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin17/xayahloadscreen_17.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Brave Phoenix Xayah"
+        },
+        {
+            "name": "至臻 神凰行者 烈羽焰凰 霞",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin26/images/xayah_splash_uncentered_26.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin26/xayahloadscreen_26.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Brave Phoenix Xayah"
+        },
+        {
+            "name": "比翼之心 霞",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin28/images/xayah_splash_uncentered_28.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin28/xayahloadscreen_28.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Arcana Xayah"
+        },
+        {
+            "name": "绝息圣堂 霞",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin37/images/xayah_splash_uncentered_37.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin37/xayahloadscreen_37.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Broken Covenant Xayah"
+        },
+        {
+            "name": "星之守护者 净化之羽 霞",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin38/images/xayah_splash_uncentered_38.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin38/xayahloadscreen_38.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Redeemed Star Guardian Xayah"
+        },
+        {
+            "name": "幻灵蝙蝠 霞",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin47/images/xayah_splash_uncentered_47.skins_xayah_skin47.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin47/xayahloadscreen_47.skins_xayah_skin47.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Battle Bat Xayah"
+        },
+        {
+            "name": "战斗学院 霞",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin57/images/xayah_splash_uncentered_57.skins_xayah_skin57.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xayah/skins/skin57/xayahloadscreen_57.skins_xayah_skin57.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Battle Academia Xayah"
+        }
+    ]
+}

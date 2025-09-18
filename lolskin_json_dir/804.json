@@ -1,0 +1,14 @@
+{
+    "id": 804,
+    "name": "不破之誓",
+    "skins": [
+        {
+            "name": "莲华温泉 芸阿娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yunara/skins/skin01/images/yunara_splash_uncentered_1.yunara.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yunara/skins/skin01/yunaraloadscreen_1.yunara.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Spirit Blossom Springs Yunara"
+        }
+    ]
+}

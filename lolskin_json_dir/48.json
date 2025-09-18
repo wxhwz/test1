@@ -1,0 +1,70 @@
+{
+    "id": 48,
+    "name": "巨魔之王",
+    "skins": [
+        {
+            "name": "里尔击球手  特朗德尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/trundle/skins/skin01/images/trundle_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/trundle/skins/skin01/trundleloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Lil' Slugger Trundle"
+        },
+        {
+            "name": "垃圾场  特朗德尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/trundle/skins/skin02/images/trundle_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/trundle/skins/skin02/trundleloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Junkyard Trundle"
+        },
+        {
+            "name": "传统造型 特朗德尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/trundle/skins/skin03/images/trundle_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/trundle/skins/skin03/trundleloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Traditional Trundle"
+        },
+        {
+            "name": "巡逻警官 特朗德尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/trundle/skins/skin04/images/trundle_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/trundle/skins/skin04/trundleloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Constable Trundle"
+        },
+        {
+            "name": "创世之神 特朗德尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/trundle/skins/skin05/images/trundle_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/trundle/skins/skin05/trundleloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Worldbreaker Trundle"
+        },
+        {
+            "name": "屠龙勇士 特朗德尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/trundle/skins/skin06/images/trundle_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/trundle/skins/skin06/trundleloadscreen_6.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Dragonslayer Trundle"
+        },
+        {
+            "name": "魔域梦魇 特朗德尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/trundle/skins/skin12/images/trundle_splash_uncentered_12.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/trundle/skins/skin12/trundleloadscreen_12.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Fright Night Trundle"
+        },
+        {
+            "name": "超级电竞粉丝 特朗德尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/trundle/skins/skin21/images/trundle_splash_uncentered_21.skins_trundle_skin21.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/trundle/skins/skin21/trundleloadscreen_21.skins_trundle_skin21.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 8,
+            "name_en": "Esports Fan Trundle"
+        }
+    ]
+}

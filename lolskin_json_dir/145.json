@@ -1,0 +1,118 @@
+{
+    "id": 145,
+    "name": "虚空之女",
+    "skins": [
+        {
+            "name": "弹幕天使 卡莎",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin01/images/kaisa_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin01/kaisaloadscreen_1.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Bullet Angel Kai'Sa"
+        },
+        {
+            "name": "K/DA 卡莎",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin14/images/kaisa_splash_uncentered_14.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin14/kaisaloadscreen_14.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "K/DA Kai'Sa"
+        },
+        {
+            "name": "至臻 K/DA 卡莎",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin15/images/kaisa_splash_uncentered_15.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin15/kaisaloadscreen_15.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige K/DA Kai'Sa"
+        },
+        {
+            "name": "iG 卡莎",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin16/images/kaisa_splash_uncentered_16.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin16/kaisaloadscreen_16.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "iG Kai'Sa"
+        },
+        {
+            "name": "电玩女神 卡莎",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin17/images/kaisa_splash_uncentered_17.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin17/kaisaloadscreen_17.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Arcade Kai'Sa"
+        },
+        {
+            "name": "K/DA ALL OUT 卡莎",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin26/images/kaisa_splash_uncentered_26.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin26/kaisaloadscreen_26.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "K/DA ALL OUT Kai'Sa"
+        },
+        {
+            "name": "至臻 K/DA ALL OUT 卡莎",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin27/images/kaisa_splash_uncentered_27.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin27/kaisaloadscreen_27.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige K/DA ALL OUT Kai'Sa"
+        },
+        {
+            "name": "神龙尊者 玉境灵龙 卡莎",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin29/images/kaisa_splash_uncentered_29.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin29/kaisaloadscreen_29.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Lagoon Dragon Kai'Sa"
+        },
+        {
+            "name": "至臻 K/DA 卡莎 (2022)",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin15/images/kaisa_splash_uncentered_15.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin39/kaisaloadscreen_39.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige K/DA Kai'Sa"
+        },
+        {
+            "name": "星之守护者 卡莎",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin40/images/kaisa_splash_uncentered_40.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin40/kaisaloadscreen_40.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Star Guardian Kai'Sa"
+        },
+        {
+            "name": "墨之影武者 卡莎",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin48/images/kaisa_splash_uncentered_48.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin48/kaisaloadscreen_48.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Inkshadow Kai'Sa"
+        },
+        {
+            "name": "天龙之子 卡莎",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin59/images/kaisa_splash_uncentered_59.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin59/kaisaloadscreen_59.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Heavenscale Kai'Sa"
+        },
+        {
+            "name": "暗星 卡莎",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin69/images/kaisa_splash_uncentered_69.skins_kaisa_skin69.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin69/kaisaloadscreen_69.skins_kaisa_skin69.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Dark Star Kai'Sa"
+        },
+        {
+            "name": "殿堂传奇 卡莎",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin70/images/kaisa_splash_uncentered_70.skins_kaisa_hol.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kaisa/skins/skin70/kaisaloadscreen_70.skins_kaisa_hol.jpg",
+            "rarity": "kTranscendent",
+            "regionRarityId": 11,
+            "name_en": "Risen Legend Kai'Sa"
+        }
+    ]
+}

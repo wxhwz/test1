@@ -1,0 +1,118 @@
+{
+    "id": 32,
+    "name": "殇之木乃伊",
+    "skins": [
+        {
+            "name": "法老 阿木木",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/amumu/skins/skin01/images/amumu_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/amumu/skins/skin01/amumuloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 1,
+            "name_en": "Pharaoh Amumu"
+        },
+        {
+            "name": "狂欢 阿木木",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/amumu/skins/skin02/images/amumu_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/amumu/skins/skin02/amumuloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Vancouver Amumu"
+        },
+        {
+            "name": "情绪摇滚 阿木木",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/amumu/skins/skin03/images/amumu_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/amumu/skins/skin03/amumuloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Emumu"
+        },
+        {
+            "name": "阿木木:“主人不要我了”",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/amumu/skins/skin04/images/amumu_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/amumu/skins/skin04/amumuloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Re-Gifted Amumu"
+        },
+        {
+            "name": "王子不是我 阿木木",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/amumu/skins/skin05/images/amumu_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/amumu/skins/skin05/amumuloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Almost-Prom King Amumu"
+        },
+        {
+            "name": "小小骑士 阿木木",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/amumu/skins/skin06/images/amumu_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/amumu/skins/skin06/amumuloadscreen_6.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Little Knight Amumu"
+        },
+        {
+            "name": "殇之机器人 阿木木",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/amumu/skins/skin07/images/amumu_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/amumu/skins/skin07/amumuloadscreen_7.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Sad Robot Amumu"
+        },
+        {
+            "name": "惊悚派对 阿木木",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/amumu/skins/skin08/images/amumu_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/amumu/skins/skin08/amumuloadscreen_8.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Surprise Party Amumu"
+        },
+        {
+            "name": "地狱火 阿木木",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/amumu/skins/skin17/images/amumu_splash_uncentered_17.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/amumu/skins/skin17/amumuloadscreen_17.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Infernal Amumu"
+        },
+        {
+            "name": "海克斯科技 阿木木",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/amumu/skins/skin23/images/amumu_splash_uncentered_23.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/amumu/skins/skin23/amumuloadscreen_23.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Hextech Amumu"
+        },
+        {
+            "name": "南瓜头王子 阿木木",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/amumu/skins/skin24/images/amumu_splash_uncentered_24.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/amumu/skins/skin24/amumuloadscreen_24.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Pumpkin Prince Amumu"
+        },
+        {
+            "name": "青花瓷 阿木木",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/amumu/skins/skin34/images/amumu_splash_uncentered_34.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/amumu/skins/skin34/amumuloadscreen_34.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Porcelain Amumu"
+        },
+        {
+            "name": "黯然心伤 阿木木",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/amumu/skins/skin44/images/amumu_splash_uncentered_44.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/amumu/skins/skin44/amumuloadscreen_44.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Heartache Amumu"
+        },
+        {
+            "name": "点心宝贝 阿木木",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/amumu/skins/skin53/images/amumu_splash_uncentered_53.skins_amumu_skin53.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/amumu/skins/skin53/amumuloadscreen_53.skins_amumu_skin53.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Dumpling Darlings Amumu"
+        }
+    ]
+}

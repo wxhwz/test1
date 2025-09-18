@@ -1,0 +1,150 @@
+{
+    "id": 15,
+    "name": "战争女神",
+    "skins": [
+        {
+            "name": "战场公主 希维尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin01/images/sivir_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin01/sivirloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Warrior Princess Sivir"
+        },
+        {
+            "name": "亮丽女神 希维尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin02/images/sivir_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin02/sivirloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 2,
+            "name_en": "Spectacular Sivir"
+        },
+        {
+            "name": "女猎手 希维尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin03/images/sivir_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin03/sivirloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Huntress Sivir"
+        },
+        {
+            "name": "钢铁之心 希维尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin04/images/sivir_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin04/sivirloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Bandit Sivir"
+        },
+        {
+            "name": "创战纪 希维尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin05/images/sivir_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin05/sivirloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "PAX Sivir"
+        },
+        {
+            "name": "冰雪风暴 希维尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin06/images/sivir_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin06/sivirloadscreen_6.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Snowstorm Sivir"
+        },
+        {
+            "name": "光明骑士 希维尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin07/images/sivir_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin07/sivirloadscreen_7.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Warden Sivir"
+        },
+        {
+            "name": "胜利女神 希维尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin08/images/sivir_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin08/sivirloadscreen_8.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Victorious Sivir"
+        },
+        {
+            "name": "新创战纪 希维尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin09/images/sivir_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin09/sivirloadscreen_9.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 8,
+            "name_en": "Neo PAX Sivir"
+        },
+        {
+            "name": "送披萨的小姐姐 希维尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin10/images/sivir_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin10/sivirloadscreen_10.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Pizza Delivery Sivir"
+        },
+        {
+            "name": "腥红之月 希维尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin16/images/sivir_splash_uncentered_16.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin16/sivirloadscreen_16.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Blood Moon Sivir"
+        },
+        {
+            "name": "奥德赛 希维尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin25/images/sivir_splash_uncentered_25.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin25/sivirloadscreen_25.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Odyssey Sivir"
+        },
+        {
+            "name": "咖啡甜心 希维尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin34/images/sivir_splash_uncentered_34.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin34/sivirloadscreen_34.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Cafe Cuties Sivir"
+        },
+        {
+            "name": "日蚀骑士 希维尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin43/images/sivir_splash_uncentered_43.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin43/sivirloadscreen_43.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Solar Eclipse Sivir"
+        },
+        {
+            "name": "剪纸仙灵 希维尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin50/images/sivir_splash_uncentered_50.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin50/sivirloadscreen_50.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Mythmaker Sivir"
+        },
+        {
+            "name": "至臻 剪纸仙灵 希维尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin51/images/sivir_splash_uncentered_51.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin51/sivirloadscreen_51.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Mythmaker Sivir"
+        },
+        {
+            "name": "伏虎之力 希维尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin61/images/sivir_splash_uncentered_61.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin61/sivirloadscreen_61.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Primal Ambush Sivir"
+        },
+        {
+            "name": "十五周年纪念 希维尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin70/images/sivir_splash_uncentered_70.skins_sivir_skin70.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sivir/skins/skin70/sivirloadscreen_70.skins_sivir_skin70.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Ann-Sivir-sary"
+        }
+    ]
+}

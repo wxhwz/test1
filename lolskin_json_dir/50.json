@@ -1,0 +1,78 @@
+{
+    "id": 50,
+    "name": "诺克萨斯统领",
+    "skins": [
+        {
+            "name": "北领前线 斯维因",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/swain/skins/skin01/images/swain_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/swain/skins/skin01/swainloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Northern Front Swain"
+        },
+        {
+            "name": "海贼参谋 斯维因",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/swain/skins/skin02/images/swain_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/swain/skins/skin02/swainloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Bilgewater Swain"
+        },
+        {
+            "name": "绝代智将 斯维因",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/swain/skins/skin03/images/swain_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/swain/skins/skin03/swainloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Tyrant Swain"
+        },
+        {
+            "name": "驯龙大师 斯维因",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/swain/skins/skin04/images/swain_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/swain/skins/skin04/swainloadscreen_4.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Dragon Master Swain"
+        },
+        {
+            "name": "海克斯科技 斯维因",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/swain/skins/skin11/images/swain_splash_uncentered_11.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/swain/skins/skin11/swainloadscreen_11.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Hextech Swain"
+        },
+        {
+            "name": "水晶玫瑰 斯维因",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/swain/skins/skin12/images/swain_splash_uncentered_12.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/swain/skins/skin12/swainloadscreen_12.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Crystal Rose Swain"
+        },
+        {
+            "name": "北极星猎人 斯维因",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/swain/skins/skin21/images/swain_splash_uncentered_21.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/swain/skins/skin21/swainloadscreen_21.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Winterblessed Swain"
+        },
+        {
+            "name": "狼神英灵 斯维因",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/swain/skins/skin32/images/swain_splash_uncentered_32.skins_swain_skin32.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/swain/skins/skin32/swainloadscreen_32.skins_swain_skin32.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Chosen of the Wolf Swain"
+        },
+        {
+            "name": "至臻 狼神英灵 斯维因",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/swain/skins/skin33/images/swain_splash_uncentered_33.prestige2_matcha_swain.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/swain/skins/skin33/swainloadscreen_33.prestige2_matcha_swain.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Chosen of the Wolf Swain"
+        }
+    ]
+}

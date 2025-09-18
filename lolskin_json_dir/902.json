@@ -1,0 +1,22 @@
+{
+    "id": 902,
+    "name": "明烛",
+    "skins": [
+        {
+            "name": "花仙贤者 米利欧",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/milio/skins/skin01/images/milio_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/milio/skins/skin01/milioloadscreen_1.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Faerie Court Milio"
+        },
+        {
+            "name": "青蛙雨衣 米利欧",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/milio/skins/skin11/images/milio_splash_uncentered_11.skins_milio_skin11.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/milio/skins/skin11/milioloadscreen_11.skins_milio_skin11.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Rain Shepherd Milio"
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "id": 92,
+    "name": "放逐之刃",
+    "skins": [
+        {
+            "name": "刺客信条 锐雯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin01/images/riven_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin01/rivenloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Redeemed Riven"
+        },
+        {
+            "name": "血色精锐 锐雯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin02/images/riven_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin02/rivenloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Crimson Elite Riven"
+        },
+        {
+            "name": "兔女郎 锐雯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin03/images/riven_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin03/rivenloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Battle Bunny Riven"
+        },
+        {
+            "name": "冠军之刃 锐雯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin04/images/riven_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin04/rivenloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Worlds 2012 Riven"
+        },
+        {
+            "name": "替父从军 花木兰",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin05/images/riven_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin05/rivenloadscreen_5.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Dragonblade Riven"
+        },
+        {
+            "name": "电玩勇者 锐雯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin06/images/riven_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin06/rivenloadscreen_6.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Arcade Riven"
+        },
+        {
+            "name": "冠军之刃 锐雯 2016",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin07/images/riven_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin07/rivenloadscreen_7.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Reignited Worlds 2012 Riven"
+        },
+        {
+            "name": "黎明使者 锐雯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin16/images/riven_splash_uncentered_16.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin16/rivenloadscreen_16.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Dawnbringer Riven"
+        },
+        {
+            "name": "未来战士 锐雯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin18/images/riven_splash_uncentered_18.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin18/rivenloadscreen_18.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Pulsefire Riven"
+        },
+        {
+            "name": "玉剑传说 武剑仙",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin20/images/riven_splash_uncentered_20.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin20/rivenloadscreen_20.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Valiant Sword Riven"
+        },
+        {
+            "name": "至臻 玉剑传说 武剑仙",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin22/images/riven_splash_uncentered_22.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin22/rivenloadscreen_22.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Valiant Sword Riven"
+        },
+        {
+            "name": "灵魂莲华 锐雯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin23/images/riven_splash_uncentered_23.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin23/rivenloadscreen_23.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Spirit Blossom Riven"
+        },
+        {
+            "name": "光明哨兵 锐雯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin34/images/riven_splash_uncentered_34.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin34/rivenloadscreen_34.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Sentinel Riven"
+        },
+        {
+            "name": "幻灵战斗兔 锐雯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin44/images/riven_splash_uncentered_44.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin44/rivenloadscreen_44.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Battle Bunny Prime Riven"
+        },
+        {
+            "name": "至臻 玉剑传说 武剑仙 (2022)",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin22/images/riven_splash_uncentered_22.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin45/rivenloadscreen_45.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Valiant Sword Riven"
+        },
+        {
+            "name": "绝息圣堂 锐雯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin55/images/riven_splash_uncentered_55.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin55/rivenloadscreen_55.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Broken Covenant Riven"
+        },
+        {
+            "name": "伏虎之力 锐雯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin63/images/riven_splash_uncentered_63.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/riven/skins/skin63/rivenloadscreen_63.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Primal Ambush Riven"
+        }
+    ]
+}

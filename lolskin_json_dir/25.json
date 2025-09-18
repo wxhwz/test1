@@ -1,0 +1,134 @@
+{
+    "id": 25,
+    "name": "堕落天使",
+    "skins": [
+        {
+            "name": "杀戮天使昔拉 莫甘娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin01/images/morgana_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin01/morganaloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Exiled Morgana"
+        },
+        {
+            "name": "地狱厨房 莫甘娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin02/images/morgana_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin02/morganaloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Sinful Succulence Morgana"
+        },
+        {
+            "name": "刀锋女王 莫甘娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin03/images/morgana_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin03/morganaloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Blade Mistress Morgana"
+        },
+        {
+            "name": "黑色荆棘 莫甘娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin04/images/morgana_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin04/morganaloadscreen_4.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Blackthorn Morgana"
+        },
+        {
+            "name": "鬼魂新娘 莫甘娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin05/images/morgana_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin05/morganaloadscreen_5.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Ghost Bride Morgana"
+        },
+        {
+            "name": "胜利女神 莫甘娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin06/images/morgana_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin06/morganaloadscreen_6.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Victorious Morgana"
+        },
+        {
+            "name": "紫金罗刹 莫甘娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin10/images/morgana_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin10/morganaloadscreen_10.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Lunar Wraith Morgana"
+        },
+        {
+            "name": "魅惑女巫 莫甘娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin11/images/morgana_splash_uncentered_11.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin11/morganaloadscreen_11.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Bewitching Morgana"
+        },
+        {
+            "name": "玉剑传说 苍鸾",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin17/images/morgana_splash_uncentered_17.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin17/morganaloadscreen_17.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Majestic Empress Morgana"
+        },
+        {
+            "name": "至尊魔女 莫甘娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin26/images/morgana_splash_uncentered_26.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin26/morganaloadscreen_26.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Coven Morgana"
+        },
+        {
+            "name": "黎明使者 莫甘娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin39/images/morgana_splash_uncentered_39.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin39/morganaloadscreen_39.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Dawnbringer Morgana"
+        },
+        {
+            "name": "至臻 魅惑女巫 莫甘娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin41/images/morgana_splash_uncentered_41.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin41/morganaloadscreen_41.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Bewitching Morgana"
+        },
+        {
+            "name": "星之吞噬者 莫甘娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin50/images/morgana_splash_uncentered_50.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin50/morganaloadscreen_50.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Star Nemesis Morgana"
+        },
+        {
+            "name": "净雪之月 莫甘娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin60/images/morgana_splash_uncentered_60.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin60/morganaloadscreen_60.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Snow Moon Morgana"
+        },
+        {
+            "name": "青花瓷 莫甘娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin70/images/morgana_splash_uncentered_70.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin70/morganaloadscreen_70.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Porcelain Morgana"
+        },
+        {
+            "name": "灵魂莲华 莫甘娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin80/images/morgana_splash_uncentered_80.skins_morgana_skin80.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/morgana/skins/skin80/morganaloadscreen_80.skins_morgana_skin80.jpg",
+            "rarity": "kExalted",
+            "regionRarityId": 10,
+            "name_en": "Spirit Blossom Morgana"
+        }
+    ]
+}

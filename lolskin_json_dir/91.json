@@ -1,0 +1,102 @@
+{
+    "id": 91,
+    "name": "刀锋之影",
+    "skins": [
+        {
+            "name": "刺客信条 泰隆",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/skin01/images/talon_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/skin01/talonloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Renegade Talon"
+        },
+        {
+            "name": "血色精锐 泰隆",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/skin02/images/talon_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/skin02/talonloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Crimson Elite Talon"
+        },
+        {
+            "name": "银龙裁决 泰隆",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/skin03/images/talon_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/skin03/talonloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Dragonblade Talon"
+        },
+        {
+            "name": "SSW 泰隆",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/skin04/images/talon_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/skin04/talonloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "SSW Talon"
+        },
+        {
+            "name": "腥红之月 泰隆",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/skin05/images/talon_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/skin05/talonloadscreen_5.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Blood Moon Talon"
+        },
+        {
+            "name": "玉剑传说 无影",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/skin12/images/talon_splash_uncentered_12.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/skin12/talonloadscreen_12.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Enduring Sword Talon"
+        },
+        {
+            "name": "泰隆 · 黑木",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/skin20/images/talon_splash_uncentered_20.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/skin20/talonloadscreen_20.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Talon Blackwood"
+        },
+        {
+            "name": "幽梦玫瑰 泰隆",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/skin29/images/talon_splash_uncentered_29.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/skin29/talonloadscreen_29.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Withered Rose Talon"
+        },
+        {
+            "name": "西部魔影 猎天使恶魔 泰隆",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/skin38/images/talon_splash_uncentered_38.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/skin38/talonloadscreen_38.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "High Noon Talon"
+        },
+        {
+            "name": "至臻 西部魔影 猎天使恶魔 泰隆",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/skin39/images/talon_splash_uncentered_39.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/skin39/talonloadscreen_39.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige High Noon Talon"
+        },
+        {
+            "name": "伏虎之力 泰隆",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/skin49/images/talon_splash_uncentered_49.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/skin49/talonloadscreen_49.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Primal Ambush Talon"
+        },
+        {
+            "name": "最高清算 泰隆",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/skin59/images/talon_splash_uncentered_59.skins_talon_skin59.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/talon/skins/skin59/talonloadscreen_59.skins_talon_skin59.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Grand Reckoning Talon"
+        }
+    ]
+}

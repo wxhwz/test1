@@ -1,0 +1,102 @@
+{
+    "id": 202,
+    "name": "戏命师",
+    "skins": [
+        {
+            "name": "西部牛仔 烬",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin01/images/jhin_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin01/jhinloadscreen_1.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "High Noon Jhin"
+        },
+        {
+            "name": "腥红之月 烬",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin02/images/jhin_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin02/jhinloadscreen_2.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Blood Moon Jhin"
+        },
+        {
+            "name": "SKT T1 烬",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin03/images/jhin_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin03/jhinloadscreen_3.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "SKT T1 Jhin"
+        },
+        {
+            "name": "源计划：升华 烬",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin04/images/jhin_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin04/jhinloadscreen_4.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "PROJECT: Jhin"
+        },
+        {
+            "name": "暗星尊 烬",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin05/images/jhin_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin05/jhinloadscreen_5.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Dark Cosmic Jhin"
+        },
+        {
+            "name": "山海绘卷 烬",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin14/images/jhin_splash_uncentered_14.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin14/jhinloadscreen_14.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Shan Hai Scrolls Jhin"
+        },
+        {
+            "name": "DWG 烬",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin23/images/jhin_splash_uncentered_23.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin23/jhinloadscreen_23.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "DWG Jhin"
+        },
+        {
+            "name": "至高天 烬",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin25/images/jhin_splash_uncentered_25.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin25/jhinloadscreen_25.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Empyrean Jhin"
+        },
+        {
+            "name": "斗魂觉醒 烬",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin36/images/jhin_splash_uncentered_36.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin36/jhinloadscreen_36.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Soul Fighter Jhin"
+        },
+        {
+            "name": "暗星绝杀 烬",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin37/images/jhin_splash_uncentered_37.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin37/jhinloadscreen_37.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Dark Cosmic Erasure Jhin"
+        },
+        {
+            "name": "剪纸仙灵 烬",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin47/images/jhin_splash_uncentered_47.skins_jhin_skin47.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin47/jhinloadscreen_47.skins_jhin_skin47.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 7,
+            "name_en": "Mythmaker Jhin"
+        },
+        {
+            "name": "不谐之面 烬",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin55/images/jhin_splash_uncentered_55.skins_jhin_skin55.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jhin/skins/skin55/jhinloadscreen_55.skins_jhin_skin55.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Arcana Jhin"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "id": 30,
+    "name": "死亡颂唱者",
+    "skins": [
+        {
+            "name": "幽灵幻影 卡尔萨斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karthus/skins/skin01/images/karthus_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karthus/skins/skin01/karthusloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Phantom Karthus"
+        },
+        {
+            "name": "自由女神 卡尔萨斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karthus/skins/skin02/images/karthus_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karthus/skins/skin02/karthusloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Statue of Karthus"
+        },
+        {
+            "name": "死神 卡尔萨斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karthus/skins/skin03/images/karthus_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karthus/skins/skin03/karthusloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Grim Reaper Karthus"
+        },
+        {
+            "name": "五杀摇滚主唱 卡尔萨斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karthus/skins/skin04/images/karthus_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karthus/skins/skin04/karthusloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Pentakill Karthus"
+        },
+        {
+            "name": "Fnatic 卡尔萨斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karthus/skins/skin05/images/karthus_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karthus/skins/skin05/karthusloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Fnatic Karthus"
+        },
+        {
+            "name": "卡尔萨斯·祸害之光",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karthus/skins/skin09/images/karthus_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karthus/skins/skin09/karthusloadscreen_9.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Karthus Lightsbane"
+        },
+        {
+            "name": "地狱火 卡尔萨斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karthus/skins/skin10/images/karthus_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karthus/skins/skin10/karthusloadscreen_10.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Infernal Karthus"
+        },
+        {
+            "name": "五杀摇滚 III：遗失的章节 卡尔萨斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karthus/skins/skin17/images/karthus_splash_uncentered_17.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karthus/skins/skin17/karthusloadscreen_17.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Pentakill III: Lost Chapter Karthus"
+        },
+        {
+            "name": "永恒之森 卡尔萨斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karthus/skins/skin26/images/karthus_splash_uncentered_26.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karthus/skins/skin26/karthusloadscreen_26.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Elderwood Karthus"
+        },
+        {
+            "name": "永颂之歌 卡尔萨斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karthus/skins/skin35/images/karthus_splash_uncentered_35.skins_karthus_skin35.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karthus/skins/skin35/karthusloadscreen_35.skins_karthus_skin35.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Arcana Karthus"
+        }
+    ]
+}

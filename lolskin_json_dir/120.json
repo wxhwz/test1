@@ -1,0 +1,102 @@
+{
+    "id": 120,
+    "name": "战争之影",
+    "skins": [
+        {
+            "name": "血石骑士 赫卡里姆",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hecarim/skins/skin01/images/hecarim_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hecarim/skins/skin01/hecarimloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Blood Knight Hecarim"
+        },
+        {
+            "name": "幽魂骑士 赫卡里姆",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hecarim/skins/skin02/images/hecarim_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hecarim/skins/skin02/hecarimloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Reaper Hecarim"
+        },
+        {
+            "name": "无头骑士 赫卡里姆",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hecarim/skins/skin03/images/hecarim_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hecarim/skins/skin03/hecarimloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Headless Hecarim"
+        },
+        {
+            "name": "电玩战魂 赫卡里姆",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hecarim/skins/skin04/images/hecarim_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hecarim/skins/skin04/hecarimloadscreen_4.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Arcade Hecarim"
+        },
+        {
+            "name": "永恒之森 赫卡里姆",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hecarim/skins/skin05/images/hecarim_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hecarim/skins/skin05/hecarimloadscreen_5.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Elderwood Hecarim"
+        },
+        {
+            "name": "创世之神 赫卡里姆",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hecarim/skins/skin06/images/hecarim_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hecarim/skins/skin06/hecarimloadscreen_6.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Worldbreaker Hecarim"
+        },
+        {
+            "name": "零之枪骑 赫卡里姆",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hecarim/skins/skin07/images/hecarim_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hecarim/skins/skin07/hecarimloadscreen_7.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Lancer Zero Hecarim"
+        },
+        {
+            "name": "西部魔影 赫卡里姆",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hecarim/skins/skin08/images/hecarim_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hecarim/skins/skin08/hecarimloadscreen_8.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "High Noon Hecarim"
+        },
+        {
+            "name": "人马星神 赫卡里姆",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hecarim/skins/skin14/images/hecarim_splash_uncentered_14.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hecarim/skins/skin14/hecarimloadscreen_14.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Cosmic Charger Hecarim"
+        },
+        {
+            "name": "车骑之力 赫卡里姆",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hecarim/skins/skin22/images/hecarim_splash_uncentered_22.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hecarim/skins/skin22/hecarimloadscreen_22.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Arcana Hecarim"
+        },
+        {
+            "name": "北极星守护者 赫卡里姆",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hecarim/skins/skin31/images/hecarim_splash_uncentered_31.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hecarim/skins/skin31/hecarimloadscreen_31.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Winterblessed Hecarim"
+        },
+        {
+            "name": "黑夜使者 赫卡里姆",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hecarim/skins/skin41/images/hecarim_splash_uncentered_41.skins_hecarim_skin41.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hecarim/skins/skin41/hecarimloadscreen_41.skins_hecarim_skin41.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Nightbringer Hecarim"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "id": 82,
+    "name": "铁铠冥魂",
+    "skins": [
+        {
+            "name": "龙骑士 莫德凯撒",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin01/images/mordekaiser_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin01/mordekaiserloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Dragon Knight Mordekaiser"
+        },
+        {
+            "name": "地狱火 莫德凯撒",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin02/images/mordekaiser_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin02/mordekaiserloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Infernal Mordekaiser"
+        },
+        {
+            "name": "五杀摇滚吉他手  莫德凯撒",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin03/images/mordekaiser_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin03/mordekaiserloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Pentakill Mordekaiser"
+        },
+        {
+            "name": "死亡领主 莫德凯撒",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin04/images/mordekaiser_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin04/mordekaiserloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Lord Mordekaiser"
+        },
+        {
+            "name": "梅花国王 莫德凯撒",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin05/images/mordekaiser_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin05/mordekaiserloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "King of Clubs Mordekaiser"
+        },
+        {
+            "name": "暗星 莫德凯撒",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin06/images/mordekaiser_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin06/mordekaiserloadscreen_6.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Dark Star Mordekaiser"
+        },
+        {
+            "name": "源计划：超体 莫德凯撒",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin13/images/mordekaiser_splash_uncentered_13.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin13/mordekaiserloadscreen_13.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "PROJECT: Mordekaiser"
+        },
+        {
+            "name": "五杀摇滚 III：遗失的章节 莫德凯撒",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin23/images/mordekaiser_splash_uncentered_23.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin23/mordekaiserloadscreen_23.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Pentakill III: Lost Chapter Mordekaiser"
+        },
+        {
+            "name": "西部魔影 地狱列车长 莫德凯撒",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin32/images/mordekaiser_splash_uncentered_32.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin32/mordekaiserloadscreen_32.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "High Noon Mordekaiser"
+        },
+        {
+            "name": "灰烬骑士 莫德凯撒",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin42/images/mordekaiser_splash_uncentered_42.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin42/mordekaiserloadscreen_42.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Ashen Graveknight Mordekaiser"
+        },
+        {
+            "name": "古神 莫德凯撒",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin44/images/mordekaiser_splash_uncentered_44.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin44/mordekaiserloadscreen_44.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Old God Mordekaiser"
+        },
+        {
+            "name": "萨恩 · 乌祖尔 莫德凯撒",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin54/images/mordekaiser_splash_uncentered_54.skins_mordekaiser_skin54.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mordekaiser/skins/skin54/mordekaiserloadscreen_54.skins_mordekaiser_skin54.jpg",
+            "rarity": "kExalted",
+            "regionRarityId": 10,
+            "name_en": "Sahn-Uzal Mordekaiser"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "id": 33,
+    "name": "披甲龙龟",
+    "skins": [
+        {
+            "name": "国王 拉莫斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin01/images/rammus_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin01/rammusloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "King Rammus"
+        },
+        {
+            "name": "铬金铠甲 拉莫斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin02/images/rammus_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin02/rammusloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Chrome Rammus"
+        },
+        {
+            "name": "熔火之心 拉莫斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin03/images/rammus_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin03/rammusloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Molten Rammus"
+        },
+        {
+            "name": "极度深寒 拉莫斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin04/images/rammus_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin04/rammusloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Freljord Rammus"
+        },
+        {
+            "name": "忍龟 拉莫斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin05/images/rammus_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin05/rammusloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Ninja Rammus"
+        },
+        {
+            "name": "全金属狂潮 拉莫斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin06/images/rammus_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin06/rammusloadscreen_6.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Full Metal Rammus"
+        },
+        {
+            "name": "沙之守护 拉莫斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin07/images/rammus_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin07/rammusloadscreen_7.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Guardian of the Sands Rammus"
+        },
+        {
+            "name": "制胜金球 拉莫斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin08/images/rammus_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin08/rammusloadscreen_8.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Sweeper Rammus"
+        },
+        {
+            "name": "海克斯科技 拉莫斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin16/images/rammus_splash_uncentered_16.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin16/rammusloadscreen_16.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Hextech Rammus"
+        },
+        {
+            "name": "宇航员 拉莫斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin17/images/rammus_splash_uncentered_17.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin17/rammusloadscreen_17.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Astronaut Rammus"
+        },
+        {
+            "name": "榴莲龙龟 拉莫斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin26/images/rammus_splash_uncentered_26.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rammus/skins/skin26/rammusloadscreen_26.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Durian Defender Rammus"
+        }
+    ]
+}

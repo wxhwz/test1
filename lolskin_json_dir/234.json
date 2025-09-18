@@ -1,0 +1,54 @@
+{
+    "id": 234,
+    "name": "破败之王",
+    "skins": [
+        {
+            "name": "福牛守护者 佛耶戈",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin01/images/viego_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin01/viegoloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Lunar Beast Viego"
+        },
+        {
+            "name": "五杀摇滚之噪音 佛耶戈",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin10/images/viego_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin10/viegoloadscreen_10.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Dissonance of Pentakill Viego"
+        },
+        {
+            "name": "EDG 佛耶戈",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin19/images/viego_splash_uncentered_19.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin19/viegoloadscreen_19.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "EDG Viego"
+        },
+        {
+            "name": "国王 佛耶戈",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin21/images/viego_splash_uncentered_21.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin21/viegoloadscreen_21.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "King Viego"
+        },
+        {
+            "name": "斗魂觉醒 佛耶戈",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin30/images/viego_splash_uncentered_30.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin30/viegoloadscreen_30.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 7,
+            "name_en": "Soul Fighter Viego"
+        },
+        {
+            "name": "2024 全球总决赛 佛耶戈",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin37/images/viego_splash_uncentered_37.skins_viego_skin37.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/viego/skins/skin37/viegoloadscreen_37.skins_viego_skin37.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Worlds 2024 Viego"
+        }
+    ]
+}

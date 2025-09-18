@@ -1,0 +1,110 @@
+{
+    "id": 80,
+    "name": "不屈之枪",
+    "skins": [
+        {
+            "name": "斯巴达之魂 潘森",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/skin01/images/pantheon_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/skin01/pantheonloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Myrmidon Pantheon"
+        },
+        {
+            "name": "万人敌 潘森",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/skin02/images/pantheon_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/skin02/pantheonloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Ruthless Pantheon"
+        },
+        {
+            "name": "英仙座珀尔修斯 潘森",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/skin03/images/pantheon_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/skin03/pantheonloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Perseus Pantheon"
+        },
+        {
+            "name": "钢铁意志 潘森",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/skin04/images/pantheon_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/skin04/pantheonloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Full Metal Pantheon"
+        },
+        {
+            "name": "大夏武士 潘森",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/skin05/images/pantheon_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/skin05/pantheonloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Glaive Warrior Pantheon"
+        },
+        {
+            "name": "屠龙勇士 潘森",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/skin06/images/pantheon_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/skin06/pantheonloadscreen_6.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Dragonslayer Pantheon"
+        },
+        {
+            "name": "丧尸杀手 潘森",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/skin07/images/pantheon_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/skin07/pantheonloadscreen_7.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Zombie Slayer Pantheon"
+        },
+        {
+            "name": "面包之王 潘森",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/skin08/images/pantheon_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/skin08/pantheonloadscreen_8.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Baker Pantheon"
+        },
+        {
+            "name": "未来战士 潘森",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/skin16/images/pantheon_splash_uncentered_16.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/skin16/pantheonloadscreen_16.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Pulsefire Pantheon"
+        },
+        {
+            "name": "破败军团 潘森",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/skin25/images/pantheon_splash_uncentered_25.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/skin25/pantheonloadscreen_25.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Ruined Pantheon"
+        },
+        {
+            "name": "至臻 飞升战神 潘森",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/skin26/images/pantheon_splash_uncentered_26.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/skin26/pantheonloadscreen_26.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Ascended Pantheon"
+        },
+        {
+            "name": "灰烬征服者 潘森",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/skin36/images/pantheon_splash_uncentered_36.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/skin36/pantheonloadscreen_36.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Ashen Conqueror Pantheon"
+        },
+        {
+            "name": "狼神英灵 潘森",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/skin38/images/pantheon_splash_uncentered_38.skins_pantheon_skin38.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pantheon/skins/skin38/pantheonloadscreen_38.skins_pantheon_skin38.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Chosen of the Wolf Pantheon"
+        }
+    ]
+}

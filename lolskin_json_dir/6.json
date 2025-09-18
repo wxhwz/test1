@@ -1,0 +1,62 @@
+{
+    "id": 6,
+    "name": "无畏战车",
+    "skins": [
+        {
+            "name": "深渊巨蟹 厄加特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin01/images/urgot_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin01/urgotloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Giant Enemy Crabgot"
+        },
+        {
+            "name": "电锯狂人 厄加特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin02/images/urgot_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin02/urgotloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Butcher Urgot"
+        },
+        {
+            "name": "战地机甲 厄加特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin03/images/urgot_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin03/urgotloadscreen_3.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Battlecast Urgot"
+        },
+        {
+            "name": "西部魔影 厄加特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin09/images/urgot_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin09/urgotloadscreen_9.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "High Noon Urgot"
+        },
+        {
+            "name": "星之守护者COS 厄加特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin15/images/urgot_splash_uncentered_15.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin15/urgotloadscreen_15.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Pajama Guardian Cosplay Urgot"
+        },
+        {
+            "name": "魔域梦魇 厄加特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin23/images/urgot_splash_uncentered_23.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin23/urgotloadscreen_23.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Fright Night Urgot"
+        },
+        {
+            "name": "洗地教父 厄加特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin32/images/urgot_splash_uncentered_32.skins_urgot_skin32.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin32/urgotloadscreen_32.skins_urgot_skin32.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Urgot the Clogfather"
+        }
+    ]
+}

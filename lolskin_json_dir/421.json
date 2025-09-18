@@ -1,0 +1,46 @@
+{
+    "id": 421,
+    "name": "虚空遁地兽",
+    "skins": [
+        {
+            "name": "上古战魂 雷克塞",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/reksai/skins/skin01/images/reksai_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/reksai/skins/skin01/reksailoadscreen_1.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Eternum Rek'Sai"
+        },
+        {
+            "name": "泳池派对 雷克塞",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/reksai/skins/skin02/images/reksai_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/reksai/skins/skin02/reksailoadscreen_2.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Pool Party Rek'Sai"
+        },
+        {
+            "name": "黯晶巨兽 雷克塞",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/reksai/skins/skin09/images/reksai_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/reksai/skins/skin09/reksailoadscreen_9.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Blackfrost Rek'Sai"
+        },
+        {
+            "name": "永恒之森 雷克塞",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/reksai/skins/skin17/images/reksai_splash_uncentered_17.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/reksai/skins/skin17/reksailoadscreen_17.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Elderwood Rek'Sai"
+        },
+        {
+            "name": "海魔兽 雷克塞",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/reksai/skins/skin26/images/reksai_splash_uncentered_26.skins_reksai_skin26.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/reksai/skins/skin26/reksailoadscreen_26.skins_reksai_skin26.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Primordian Rek'Sai"
+        }
+    ]
+}

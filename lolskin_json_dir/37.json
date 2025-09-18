@@ -1,0 +1,126 @@
+{
+    "id": 37,
+    "name": "琴瑟仙女",
+    "skins": [
+        {
+            "name": "缪斯女神 娑娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin01/images/sona_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin01/sonaloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Muse Sona"
+        },
+        {
+            "name": "五杀摇滚键盘手 娑娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin02/images/sona_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin02/sonaloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Pentakill Sona"
+        },
+        {
+            "name": "平安夜女神 娑娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin03/images/sona_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin03/sonaloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Silent Night Sona"
+        },
+        {
+            "name": "古琴余韵 娑娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin04/images/sona_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin04/sonaloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Guqin Sona"
+        },
+        {
+            "name": "电玩女神 娑娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin05/images/sona_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin05/sonaloadscreen_5.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Arcade Sona"
+        },
+        {
+            "name": "DJ 娑娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin06/images/sona_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin06/sonaloadscreen_6.jpg",
+            "rarity": "kUltimate",
+            "regionRarityId": 9,
+            "name_en": "DJ Sona"
+        },
+        {
+            "name": "甜心宝贝 娑娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin07/images/sona_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin07/sonaloadscreen_7.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Sweetheart Sona"
+        },
+        {
+            "name": "奥德赛 娑娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin09/images/sona_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin09/sonaloadscreen_9.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Odyssey Sona"
+        },
+        {
+            "name": "灵能特工 娑娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin17/images/sona_splash_uncentered_17.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin17/sonaloadscreen_17.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "PsyOps Sona"
+        },
+        {
+            "name": "五杀摇滚 III：遗失的章节 娑娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin26/images/sona_splash_uncentered_26.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin26/sonaloadscreen_26.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Pentakill III: Lost Chapter Sona"
+        },
+        {
+            "name": "星之守护者 娑娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin35/images/sona_splash_uncentered_35.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin35/sonaloadscreen_35.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Star Guardian Sona"
+        },
+        {
+            "name": "玉剑传说 琴仙子",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin45/images/sona_splash_uncentered_45.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin45/sonaloadscreen_45.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Immortal Journey Sona"
+        },
+        {
+            "name": "至臻 玉剑传说 琴仙子",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin46/images/sona_splash_uncentered_46.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin46/sonaloadscreen_46.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Immortal Journey Sona"
+        },
+        {
+            "name": "胜利女神 娑娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin56/images/sona_splash_uncentered_56.skins_sona_skin56.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin56/sonaloadscreen_56.skins_sona_skin56.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Victorious Sona"
+        },
+        {
+            "name": "莲华温泉 娑娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin66/images/sona_splash_uncentered_66.skins_sona_skin66.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sona/skins/skin66/sonaloadscreen_66.skins_sona_skin66.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Spirit Blossom Springs Sona"
+        }
+    ]
+}

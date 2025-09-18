@@ -1,0 +1,22 @@
+{
+    "id": 893,
+    "name": "双界灵兔",
+    "skins": [
+        {
+            "name": "幻灵战斗兔 阿萝拉",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurora/skins/skin01/images/aurora_splash_uncentered_1.aurora.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurora/skins/skin01/auroraloadscreen_1.aurora.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Battle Bunny Aurora"
+        },
+        {
+            "name": "慧理之贤 阿萝拉",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurora/skins/skin11/images/aurora_splash_uncentered_11.skins_aurora_skin11.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurora/skins/skin11/auroraloadscreen_11.skins_aurora_skin11.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Arcana Aurora"
+        }
+    ]
+}

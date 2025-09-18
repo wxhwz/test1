@@ -1,0 +1,142 @@
+{
+    "id": 1,
+    "name": "黑暗之女",
+    "skins": [
+        {
+            "name": "哥特萝莉 安妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin01/images/annie_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin01/annieloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Goth Annie"
+        },
+        {
+            "name": "小红帽 安妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin02/images/annie_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin02/annieloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Red Riding Annie"
+        },
+        {
+            "name": "安妮梦游仙境",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin03/images/annie_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin03/annieloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Annie in Wonderland"
+        },
+        {
+            "name": "舞会公主 安妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin04/images/annie_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin04/annieloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Prom Queen Annie"
+        },
+        {
+            "name": "冰霜烈焰 安妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin05/images/annie_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin05/annieloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Frostfire Annie"
+        },
+        {
+            "name": "安伯斯与提妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin06/images/annie_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin06/annieloadscreen_6.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Reverse Annie"
+        },
+        {
+            "name": "科学怪熊的新娘 安妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin07/images/annie_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin07/annieloadscreen_7.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "FrankenTibbers Annie"
+        },
+        {
+            "name": "“你看见过我的熊猫吗？”安妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin08/images/annie_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin08/annieloadscreen_8.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Panda Annie"
+        },
+        {
+            "name": "甜心宝贝 安妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin09/images/annie_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin09/annieloadscreen_9.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Sweetheart Annie"
+        },
+        {
+            "name": "海克斯科技 安妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin10/images/annie_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin10/annieloadscreen_10.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Hextech Annie"
+        },
+        {
+            "name": "银河魔装机神 安妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin11/images/annie_splash_uncentered_11.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin11/annieloadscreen_11.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Super Galaxy Annie"
+        },
+        {
+            "name": "十周年纪念 安妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin12/images/annie_splash_uncentered_12.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin12/annieloadscreen_12.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Annie-Versary"
+        },
+        {
+            "name": "福牛守护者 安妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin13/images/annie_splash_uncentered_13.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin13/annieloadscreen_13.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Lunar Beast Annie"
+        },
+        {
+            "name": "咖啡甜心 安妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin22/images/annie_splash_uncentered_22.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin22/annieloadscreen_22.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Cafe Cuties Annie"
+        },
+        {
+            "name": "魔域梦魇 安妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin31/images/annie_splash_uncentered_31.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin31/annieloadscreen_31.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Fright Night Annie"
+        },
+        {
+            "name": "北极星使者 安妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin40/images/annie_splash_uncentered_40.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin40/annieloadscreen_40.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Winterblessed Annie"
+        },
+        {
+            "name": "战斗公主 安妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin50/images/annie_splash_uncentered_50.skins_annie_skin50.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/annie/skins/skin50/annieloadscreen_50.skins_annie_skin50.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Battle Princess Annie"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "id": 5,
+    "name": "德邦总管",
+    "skins": [
+        {
+            "name": "特战先锋 赵信",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin01/images/xinzhaorework_splash_uncentered_1.xinzhaorework.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin01/xinzhaoreworkloadscreen_1.xinzhaorework.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Commando Xin Zhao"
+        },
+        {
+            "name": "皇家守卫 赵信",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin02/images/xinzhao_splash_uncentered_2.xinzhaorework.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin02/xinzhaoloadscreen_2.xinzhaorework.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Imperial Xin Zhao"
+        },
+        {
+            "name": "绞肉机角斗士 赵信",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin03/images/xinzhaorework_splash_uncentered_3.xinzhaorework.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin03/xinzhaoreworkloadscreen_3.xinzhaorework.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Viscero Xin Zhao"
+        },
+        {
+            "name": "翼骑统领 赵信",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin04/images/xinzhao_splash_uncentered_4.xinzhaorework.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin04/xinzhaoloadscreen_4.xinzhaorework.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Winged Hussar Xin Zhao"
+        },
+        {
+            "name": "赵云 子龙",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin05/images/xinzhaorework_splash_uncentered_5.xinzhaorework.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin05/xinzhaoreworkloadscreen_5.xinzhaorework.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Warring Kingdoms Xin Zhao"
+        },
+        {
+            "name": "秘密特工 赵信",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin06/images/xinzhaorework_splash_uncentered_6.xinzhaorework.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin06/xinzhaoreworkloadscreen_6.xinzhaorework.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Secret Agent Xin Zhao"
+        },
+        {
+            "name": "屠龙勇士 赵信",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin13/images/xinzhaorework_splash_uncentered_13.xinzhaorework.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin13/xinzhaoreworkloadscreen_13.xinzhaorework.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Dragonslayer Xin Zhao"
+        },
+        {
+            "name": "穿星魔锋 赵信",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin20/images/xinzhaorework_splash_uncentered_20.xinzhaorework.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin20/xinzhaoreworkloadscreen_20.xinzhaorework.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Cosmic Defender Xin Zhao"
+        },
+        {
+            "name": "黑暗骑士 赵信",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin27/images/xinzhaorework_splash_uncentered_27.xinzhaorework.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin27/xinzhaoreworkloadscreen_27.xinzhaorework.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Marauder Xin Zhao"
+        },
+        {
+            "name": "猛虎下山 赵信",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin36/images/xinzhaorework_splash_uncentered_36.xinzhaorework.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/xinzhao/skins/skin36/xinzhaoreworkloadscreen_36.xinzhaorework.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Firecracker Xin Zhao"
+        }
+    ]
+}

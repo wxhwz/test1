@@ -1,0 +1,78 @@
+{
+    "id": 38,
+    "name": "虚空行者",
+    "skins": [
+        {
+            "name": "寒冰王座 卡萨丁",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kassadin/skins/skin01/images/kassadin_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kassadin/skins/skin01/kassadinloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Festival Kassadin"
+        },
+        {
+            "name": "深海一号 卡萨丁",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kassadin/skins/skin02/images/kassadin_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kassadin/skins/skin02/kassadinloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Deep One Kassadin"
+        },
+        {
+            "name": "虚空前世 卡萨丁",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kassadin/skins/skin03/images/kassadin_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kassadin/skins/skin03/kassadinloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Pre-Void Kassadin"
+        },
+        {
+            "name": "先驱行者 卡萨丁",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kassadin/skins/skin04/images/kassadin_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kassadin/skins/skin04/kassadinloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Harbinger Kassadin"
+        },
+        {
+            "name": "掠星魔刃 卡萨丁",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kassadin/skins/skin05/images/kassadin_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kassadin/skins/skin05/kassadinloadscreen_5.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Cosmic Reaver Kassadin"
+        },
+        {
+            "name": "伯爵 卡萨丁",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kassadin/skins/skin06/images/kassadin_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kassadin/skins/skin06/kassadinloadscreen_6.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Count Kassadin"
+        },
+        {
+            "name": "海克斯科技 卡萨丁",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kassadin/skins/skin14/images/kassadin_splash_uncentered_14.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kassadin/skins/skin14/kassadinloadscreen_14.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Hextech Kassadin"
+        },
+        {
+            "name": "冲击之刃 卡萨丁",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kassadin/skins/skin15/images/kassadin_splash_uncentered_15.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kassadin/skins/skin15/kassadinloadscreen_15.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Shockblade Kassadin"
+        },
+        {
+            "name": "神龙尊者 星界之龙 卡萨丁",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kassadin/skins/skin24/images/kassadin_splash_uncentered_24.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kassadin/skins/skin24/kassadinloadscreen_24.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Dragonmancer Kassadin"
+        }
+    ]
+}

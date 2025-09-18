@@ -1,0 +1,94 @@
+{
+    "id": 36,
+    "name": "祖安狂人",
+    "skins": [
+        {
+            "name": "战栗之毒 蒙多",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/drmundo/skins/skin01/images/drmundo_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/drmundo/skins/skin01/drmundoloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Toxic Dr. Mundo"
+        },
+        {
+            "name": "健美教练 蒙多",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/drmundo/skins/skin02/images/drmundo_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/drmundo/skins/skin02/drmundoloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Mr. Mundoverse"
+        },
+        {
+            "name": "律政大亨 蒙多",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/drmundo/skins/skin03/images/drmundo_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/drmundo/skins/skin03/drmundoloadscreen_3.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Corporate Mundo"
+        },
+        {
+            "name": "蒙多蒙多",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/drmundo/skins/skin04/images/drmundo_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/drmundo/skins/skin04/drmundoloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Mundo Mundo"
+        },
+        {
+            "name": "嗜血行刑 蒙多",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/drmundo/skins/skin05/images/drmundo_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/drmundo/skins/skin05/drmundoloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Executioner Mundo"
+        },
+        {
+            "name": "战争血统 蒙多",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/drmundo/skins/skin06/images/drmundo_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/drmundo/skins/skin06/drmundoloadscreen_6.jpg",
+            "rarity": "kRare",
+            "regionRarityId": 4,
+            "name_en": "Rageborn Mundo"
+        },
+        {
+            "name": "暗杀星 蒙多",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/drmundo/skins/skin07/images/drmundo_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/drmundo/skins/skin07/drmundoloadscreen_7.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "TPA Mundo"
+        },
+        {
+            "name": "泳池派对 蒙多",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/drmundo/skins/skin08/images/drmundo_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/drmundo/skins/skin08/drmundoloadscreen_8.jpg",
+            "rarity": "kRare",
+            "regionRarityId": 0,
+            "name_en": "Pool Party Mundo"
+        },
+        {
+            "name": "硬汉 蒙多",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/drmundo/skins/skin09/images/drmundo_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/drmundo/skins/skin09/drmundoloadscreen_9.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "El Macho Mundo"
+        },
+        {
+            "name": "冰封王子 蒙多",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/drmundo/skins/skin10/images/drmundo_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/drmundo/skins/skin10/drmundoloadscreen_10.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Frozen Prince Mundo"
+        },
+        {
+            "name": "妖怪艺术家 蒙多医生",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/drmundo/skins/skin21/images/drmundo_splash_uncentered_21.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/drmundo/skins/skin21/drmundoloadscreen_21.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Street Demons Dr. Mundo"
+        }
+    ]
+}

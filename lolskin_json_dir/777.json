@@ -1,0 +1,94 @@
+{
+    "id": 777,
+    "name": "封魔剑魂",
+    "skins": [
+        {
+            "name": "灵魂莲华 永恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin01/images/yone_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin01/yoneloadscreen_1.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Spirit Blossom Yone"
+        },
+        {
+            "name": "战斗学院 永恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin10/images/yone_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin10/yoneloadscreen_10.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Battle Academia Yone"
+        },
+        {
+            "name": "黎明使者 永恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin19/images/yone_splash_uncentered_19.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin19/yoneloadscreen_19.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Dawnbringer Yone"
+        },
+        {
+            "name": "海之歌 永恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin26/images/yone_splash_uncentered_26.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin26/yoneloadscreen_26.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Ocean Song Yone"
+        },
+        {
+            "name": "墨之影武者 永恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin35/images/yone_splash_uncentered_35.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin35/yoneloadscreen_35.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Inkshadow Yone"
+        },
+        {
+            "name": "心之钢 永恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin45/images/yone_splash_uncentered_45.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin45/yoneloadscreen_45.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "HEARTSTEEL Yone"
+        },
+        {
+            "name": "至臻 心之钢 永恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin46/images/yone_splash_uncentered_46.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin46/yoneloadscreen_46.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige HEARTSTEEL Yone"
+        },
+        {
+            "name": "西部魔影 永恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin55/images/yone_splash_uncentered_55.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin55/yoneloadscreen_55.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "High Noon Yone"
+        },
+        {
+            "name": "西部魔影 炽天使 永恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin58/images/yone_splash_uncentered_58.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin58/yoneloadscreen_58.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Peacemaker High Noon Yone"
+        },
+        {
+            "name": "正义假面 永恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin65/images/yone_splash_uncentered_65.skins_yone_skin65.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin65/yoneloadscreen_65.skins_yone_skin65.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Masked Justice Yone"
+        },
+        {
+            "name": "T1 永恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin74/images/yone_splash_uncentered_74.skins_yone_skin74.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yone/skins/skin74/yoneloadscreen_74.skins_yone_skin74.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "T1 Yone"
+        }
+    ]
+}

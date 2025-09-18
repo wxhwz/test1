@@ -1,0 +1,54 @@
+{
+    "id": 523,
+    "name": "残月之肃",
+    "skins": [
+        {
+            "name": "黑夜使者 厄斐琉斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aphelios/skins/skin01/images/aphelios_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aphelios/skins/skin01/apheliosloadscreen_1.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Nightbringer Aphelios"
+        },
+        {
+            "name": "福牛守护者 厄斐琉斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aphelios/skins/skin09/images/aphelios_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aphelios/skins/skin09/apheliosloadscreen_9.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Lunar Beast Aphelios"
+        },
+        {
+            "name": "EDG 厄斐琉斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aphelios/skins/skin18/images/aphelios_splash_uncentered_18.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aphelios/skins/skin18/apheliosloadscreen_18.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "EDG Aphelios"
+        },
+        {
+            "name": "灵魂莲华 厄斐琉斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aphelios/skins/skin20/images/aphelios_splash_uncentered_20.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aphelios/skins/skin20/apheliosloadscreen_20.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Spirit Blossom Aphelios"
+        },
+        {
+            "name": "心之钢 厄斐琉斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aphelios/skins/skin30/images/aphelios_splash_uncentered_30.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aphelios/skins/skin30/apheliosloadscreen_30.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "HEARTSTEEL Aphelios"
+        },
+        {
+            "name": "至臻 莲华温泉 厄斐琉斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aphelios/skins/skin40/images/aphelios_splash_uncentered_40.prestige2_onsen_aphelios.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aphelios/skins/skin40/apheliosloadscreen_40.prestige2_onsen_aphelios.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Spirit Blossom Springs Aphelios"
+        }
+    ]
+}

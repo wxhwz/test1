@@ -1,0 +1,102 @@
+{
+    "id": 41,
+    "name": "海洋之灾",
+    "skins": [
+        {
+            "name": "幽灵船长 普朗克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin01/images/gangplank_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin01/gangplankloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Spooky Gangplank"
+        },
+        {
+            "name": "老兵 普朗克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin02/images/gangplank_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin02/gangplankloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Minuteman Gangplank"
+        },
+        {
+            "name": "大力水手 普朗克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin03/images/gangplank_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin03/gangplankloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Sailor Gangplank"
+        },
+        {
+            "name": "英勇玩具兵 普朗克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin04/images/gangplank_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin04/gangplankloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Toy Soldier Gangplank"
+        },
+        {
+            "name": "特种部队 普朗克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin05/images/gangplank_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin05/gangplankloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Special Forces Gangplank"
+        },
+        {
+            "name": "奥斯曼大帝 普朗克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin06/images/gangplank_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin06/gangplankloadscreen_6.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Sultan Gangplank"
+        },
+        {
+            "name": "昔日霸主 普朗克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin07/images/gangplank_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin07/gangplankloadscreen_7.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Captain Gangplank"
+        },
+        {
+            "name": "恐惧新星 普朗克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin08/images/gangplank_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin08/gangplankloadscreen_8.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Dreadnova Gangplank"
+        },
+        {
+            "name": "泳池派对 普朗克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin14/images/gangplank_splash_uncentered_14.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin14/gangplankloadscreen_14.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Pool Party Gangplank"
+        },
+        {
+            "name": "FPX 普朗克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin21/images/gangplank_splash_uncentered_21.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin21/gangplankloadscreen_21.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "FPX Gangplank"
+        },
+        {
+            "name": "背叛之刃 普朗克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin23/images/gangplank_splash_uncentered_23.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin23/gangplankloadscreen_23.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Gangplank the Betrayer"
+        },
+        {
+            "name": "源计划：铁腕 普朗克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin33/images/gangplank_splash_uncentered_33.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin33/gangplankloadscreen_33.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "PROJECT: Gangplank"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "id": 60,
+    "name": "蜘蛛女皇",
+    "skins": [
+        {
+            "name": "死亡绽放 伊莉丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin01/images/elise_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin01/eliseloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Death Blossom Elise"
+        },
+        {
+            "name": "胜利女神 伊莉丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin02/images/elise_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin02/eliseloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Victorious Elise"
+        },
+        {
+            "name": "腥红之月 伊莉丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin03/images/elise_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin03/eliseloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Blood Moon Elise"
+        },
+        {
+            "name": "SKT T1 伊莉丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin04/images/elise_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin04/eliseloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "SKT T1 Elise"
+        },
+        {
+            "name": "银河魔装机神 伊莉丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin05/images/elise_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin05/eliseloadscreen_5.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Super Galaxy Elise"
+        },
+        {
+            "name": "魅惑女巫 伊莉丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin06/images/elise_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin06/eliseloadscreen_6.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Bewitching Elise"
+        },
+        {
+            "name": "幽梦玫瑰 伊莉丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin15/images/elise_splash_uncentered_15.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin15/eliseloadscreen_15.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Withered Rose Elise"
+        },
+        {
+            "name": "魔女 伊莉丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin24/images/elise_splash_uncentered_24.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin24/eliseloadscreen_24.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Coven Elise"
+        },
+        {
+            "name": "黑色玫瑰假面舞会 伊莉丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin34/images/elise_splash_uncentered_34.skins_elise_care_skin34.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/elise/skins/skin34/eliseloadscreen_34.skins_elise_care_skin34.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Masque of the Black Rose Elise"
+        }
+    ]
+}

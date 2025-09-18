@@ -1,0 +1,86 @@
+{
+    "id": 235,
+    "name": "涤魂圣枪",
+    "skins": [
+        {
+            "name": "真实伤害 赛娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin01/images/senna_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin01/sennaloadscreen_1.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "True Damage Senna"
+        },
+        {
+            "name": "至臻 真实伤害 赛娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin09/images/senna_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin09/sennaloadscreen_9.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige True Damage Senna"
+        },
+        {
+            "name": "西部天使 赛娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin10/images/senna_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin10/sennaloadscreen_10.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "High Noon Senna"
+        },
+        {
+            "name": "源计划：魅灵 赛娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin16/images/senna_splash_uncentered_16.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin16/sennaloadscreen_16.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "PROJECT: Senna"
+        },
+        {
+            "name": "月蚀骑士 赛娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin26/images/senna_splash_uncentered_26.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin26/sennaloadscreen_26.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Lunar Eclipse Senna"
+        },
+        {
+            "name": "至臻 月蚀骑士 赛娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin27/images/senna_splash_uncentered_27.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin27/sennaloadscreen_27.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Lunar Eclipse Senna"
+        },
+        {
+            "name": "魅惑女巫 赛娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin36/images/senna_splash_uncentered_36.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin36/sennaloadscreen_36.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Bewitching Senna"
+        },
+        {
+            "name": "星之守护者 赛娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin46/images/senna_splash_uncentered_46.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin46/sennaloadscreen_46.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Star Guardian Senna"
+        },
+        {
+            "name": "北极星神 赛娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin56/images/senna_splash_uncentered_56.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin56/sennaloadscreen_56.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 7,
+            "name_en": "Winterblessed Senna"
+        },
+        {
+            "name": "正义假面 赛娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin63/images/senna_splash_uncentered_63.skins_senna_skin63.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/senna/skins/skin63/sennaloadscreen_63.skins_senna_skin63.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Masked Justice Senna"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "id": 245,
+    "name": "时间刺客",
+    "skins": [
+        {
+            "name": "时之砂 艾克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin01/images/ekko_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin01/ekkoloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Sandstorm Ekko"
+        },
+        {
+            "name": "任性学霸 艾克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin02/images/ekko_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin02/ekkoloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Academy Ekko"
+        },
+        {
+            "name": "源计划：自由 艾克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin03/images/ekko_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin03/ekkoloadscreen_3.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "PROJECT: Ekko"
+        },
+        {
+            "name": "SKT T1 艾克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin11/images/ekko_splash_uncentered_11.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin11/ekkoloadscreen_11.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "SKT T1 Ekko"
+        },
+        {
+            "name": "不给糖就捣蛋 艾克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin12/images/ekko_splash_uncentered_12.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin12/ekkoloadscreen_12.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 7,
+            "name_en": "Trick or Treat Ekko"
+        },
+        {
+            "name": "真实伤害 艾克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin19/images/ekko_splash_uncentered_19.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin19/ekkoloadscreen_19.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "True Damage Ekko"
+        },
+        {
+            "name": "未来战士 艾克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin28/images/ekko_splash_uncentered_28.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin28/ekkoloadscreen_28.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Pulsefire Ekko"
+        },
+        {
+            "name": "野火首领 艾克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin36/images/ekko_splash_uncentered_36.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin36/ekkoloadscreen_36.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Arcane Firelight Ekko"
+        },
+        {
+            "name": "星之守护者 艾克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin45/images/ekko_splash_uncentered_45.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin45/ekkoloadscreen_45.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Star Guardian Ekko"
+        },
+        {
+            "name": "至臻 星之守护者 艾克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin46/images/ekko_splash_uncentered_46.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin46/ekkoloadscreen_46.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Star Guardian Ekko"
+        },
+        {
+            "name": "真实伤害 突破界限 艾克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin56/images/ekko_splash_uncentered_56.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin56/ekkoloadscreen_56.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Breakout True Damage Ekko"
+        },
+        {
+            "name": "双城之战2 孤勇者 艾克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin57/images/ekko_splash_uncentered_57.skins_ekko_skin57.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ekko/skins/skin57/ekkoloadscreen_57.skins_ekko_skin57.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Arcane Last Stand Ekko"
+        }
+    ]
+}

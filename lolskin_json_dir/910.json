@@ -1,0 +1,22 @@
+{
+    "id": 910,
+    "name": "异画师",
+    "skins": [
+        {
+            "name": "北极星使者 彗",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hwei/skins/skin1/images/hwei_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hwei/skins/skin1/hweiloadscreen_1.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Winterblessed Hwei"
+        },
+        {
+            "name": "灵魂莲华 彗",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hwei/skins/skin11/images/hwei_splash_uncentered_11.skins_hwei_skin11.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/hwei/skins/skin11/hweiloadscreen_11.skins_hwei_skin11.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Spirit Blossom Hwei"
+        }
+    ]
+}

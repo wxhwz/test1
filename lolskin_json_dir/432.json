@@ -1,0 +1,70 @@
+{
+    "id": 432,
+    "name": "星界游神",
+    "skins": [
+        {
+            "name": "永恒之森 巴德",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/bard/skins/skin01/images/bard_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/bard/skins/skin01/bardloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Elderwood Bard"
+        },
+        {
+            "name": "冰雪游神 巴德",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/bard/skins/skin05/images/bard_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/bard/skins/skin05/bardloadscreen_5.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Snow Day Bard"
+        },
+        {
+            "name": "巴德·吟游诗人",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/bard/skins/skin06/images/bard_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/bard/skins/skin06/bardloadscreen_6.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Bard Bard"
+        },
+        {
+            "name": "宇航员 巴德",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/bard/skins/skin08/images/bard_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/bard/skins/skin08/bardloadscreen_8.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Astronaut Bard"
+        },
+        {
+            "name": "咖啡甜心 巴德",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/bard/skins/skin17/images/bard_splash_uncentered_17.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/bard/skins/skin17/bardloadscreen_17.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Cafe Cuties Bard"
+        },
+        {
+            "name": "山海绘卷 巴德",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/bard/skins/skin26/images/bard_splash_uncentered_26.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/bard/skins/skin26/bardloadscreen_26.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Shan Hai Scrolls Bard"
+        },
+        {
+            "name": "T1 巴德",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/bard/skins/skin35/images/bard_splash_uncentered_35.skins_bard_skin35.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/bard/skins/skin35/bardloadscreen_35.skins_bard_skin35.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "T1 Bard"
+        },
+        {
+            "name": "灵魂莲华 巴德",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/bard/skins/skin37/images/bard_splash_uncentered_37.skins_bard_skin37.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/bard/skins/skin37/bardloadscreen_37.skins_bard_skin37.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Spirit Blossom Bard"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": 888,
+    "name": "炼金男爵",
+    "skins": [
+        {
+            "name": "舰队司令 烈娜塔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/skin01/images/renata_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/skin01/renataloadscreen_1.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Admiral Glasc"
+        },
+        {
+            "name": "魔域梦魇 烈娜塔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/skin10/images/renata_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/skin10/renataloadscreen_10.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Fright Night Renata Glasc"
+        },
+        {
+            "name": "魂蔷薇 烈娜塔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/skin20/images/renata_splash_uncentered_20.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/skin20/renataloadscreen_20.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "La Ilusión Renata Glasc"
+        },
+        {
+            "name": "至臻 魂蔷薇 烈娜塔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/skin21/images/renata_splash_uncentered_21.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/skin21/renataloadscreen_21.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige La Ilusión Renata Glasc"
+        },
+        {
+            "name": "黑色玫瑰假面舞会 烈娜塔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/skin31/images/renata_splash_uncentered_31.skins_renata_care_skin31.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/skin31/renataloadscreen_31.skins_renata_care_skin31.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Masque of the Black Rose Renata Glasc"
+        }
+    ]
+}

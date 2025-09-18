@@ -1,0 +1,62 @@
+{
+    "id": 268,
+    "name": "沙漠皇帝",
+    "skins": [
+        {
+            "name": "星际之门 阿兹尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/azir/skins/skin01/images/azir_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/azir/skins/skin01/azirloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Galactic Azir"
+        },
+        {
+            "name": "幽冥领主 阿兹尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/azir/skins/skin02/images/azir_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/azir/skins/skin02/azirloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Gravelord Azir"
+        },
+        {
+            "name": "SKT T1 阿兹尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/azir/skins/skin03/images/azir_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/azir/skins/skin03/azirloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "SKT T1 Azir"
+        },
+        {
+            "name": "司马懿 仲达",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/azir/skins/skin04/images/azir_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/azir/skins/skin04/azirloadscreen_4.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Warring Kingdoms Azir"
+        },
+        {
+            "name": "永恒之森 阿兹尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/azir/skins/skin05/images/azir_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/azir/skins/skin05/azirloadscreen_5.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Elderwood Azir"
+        },
+        {
+            "name": "2022 全球总决赛 阿兹尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/azir/skins/skin14/images/azir_splash_uncentered_14.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/azir/skins/skin14/azirloadscreen_14.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Worlds 2022 Azir"
+        },
+        {
+            "name": "精英律师 阿兹尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/azir/skins/skin19/images/azir_splash_uncentered_19.skins_azir_skin19.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/azir/skins/skin19/azirloadscreen_19.skins_azir_skin19.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Attorney Azir"
+        }
+    ]
+}

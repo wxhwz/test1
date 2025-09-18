@@ -1,0 +1,126 @@
+{
+    "id": 17,
+    "name": "迅捷斥候",
+    "skins": [
+        {
+            "name": "圣诞开心鬼 提莫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin01/images/teemo_splash_uncentered_1.asu_teemo.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin01/teemoloadscreen_1.asu_teemo.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Happy Elf Teemo"
+        },
+        {
+            "name": "军情五处 提莫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin02/images/teemo_splash_uncentered_2.asu_teemo.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin02/teemoloadscreen_2.asu_teemo.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Recon Teemo"
+        },
+        {
+            "name": "密林猎手 提莫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin03/images/teemo_splash_uncentered_3.asu_teemo.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin03/teemoloadscreen_3.asu_teemo.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Badger Teemo"
+        },
+        {
+            "name": "提莫:'约德尔人的一大步'",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin04/images/teemo_splash_uncentered_4.asu_teemo.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin04/teemoloadscreen_4.asu_teemo.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Astronaut Teemo"
+        },
+        {
+            "name": "兔宝宝 提莫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin05/images/teemo_splash_uncentered_5.asu_teemo.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin05/teemoloadscreen_5.asu_teemo.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Cottontail Teemo"
+        },
+        {
+            "name": "约德尔国队长 提莫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin06/images/teemo_splash_uncentered_6.asu_teemo.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin06/teemoloadscreen_6.asu_teemo.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Super Teemo"
+        },
+        {
+            "name": "熊猫 提莫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin07/images/teemo_splash_uncentered_7.asu_teemo.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin07/teemoloadscreen_7.asu_teemo.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Panda Teemo"
+        },
+        {
+            "name": "欧米伽小队 幽灵特工",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin08/images/teemo_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin08/teemoloadscreen_8.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Omega Squad Teemo"
+        },
+        {
+            "name": "大魔王 提莫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin14/images/teemo_splash_uncentered_14.asu_teemo.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin14/teemoloadscreen_14.asu_teemo.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Little Devil Teemo"
+        },
+        {
+            "name": "小蜜蜂 提莫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin18/images/teemo_splash_uncentered_18.asu_teemo.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin18/teemoloadscreen_18.asu_teemo.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Beemo"
+        },
+        {
+            "name": "灵魂莲华 提莫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin25/images/teemo_splash_uncentered_25.asu_teemo.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin25/teemoloadscreen_25.asu_teemo.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Spirit Blossom Teemo"
+        },
+        {
+            "name": "至臻 灵魂莲华 提莫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin27/images/teemo_splash_uncentered_27.asu_teemo.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin27/teemoloadscreen_27.asu_teemo.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Spirit Blossom Teemo"
+        },
+        {
+            "name": "招财进宝 提莫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin37/images/teemo_splash_uncentered_37.asu_teemo.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin37/teemoloadscreen_37.asu_teemo.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Firecracker Teemo"
+        },
+        {
+            "name": "太空律动 “律动队长” 提莫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin47/images/teemo_splash_uncentered_47.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin47/teemoloadscreen_47.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Space Groove Teemo"
+        },
+        {
+            "name": "莲华温泉 提莫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin54/images/teemo_splash_uncentered_54.skins_teemo_skin54.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/teemo/skins/skin54/teemoloadscreen_54.skins_teemo_skin54.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Spirit Blossom Springs Teemo"
+        }
+    ]
+}

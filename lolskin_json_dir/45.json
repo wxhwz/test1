@@ -1,0 +1,126 @@
+{
+    "id": 45,
+    "name": "邪恶小法师",
+    "skins": [
+        {
+            "name": "白魔法师 维迦",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin01/images/veigar_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin01/veigarloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "White Mage Veigar"
+        },
+        {
+            "name": "冰壶选手 维迦",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin02/images/veigar_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin02/veigarloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Curling Veigar"
+        },
+        {
+            "name": "灰胡子魔法师 维迦",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin03/images/veigar_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin03/veigarloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Veigar Greybeard"
+        },
+        {
+            "name": "绿野仙踪 维迦",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin04/images/veigar_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin04/veigarloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Leprechaun Veigar"
+        },
+        {
+            "name": "魔导绅士 维迦",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin05/images/veigar_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin05/veigarloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 1,
+            "name_en": "Baron Von Veigar"
+        },
+        {
+            "name": "穿着正装的恶魔 维迦",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin06/images/veigar_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin06/veigarloadscreen_6.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Superb Villain Veigar"
+        },
+        {
+            "name": "邪恶圣诞老人 维迦",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin07/images/veigar_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin07/veigarloadscreen_7.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Bad Santa Veigar"
+        },
+        {
+            "name": "最终BOSS 维迦",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin08/images/veigar_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin08/veigarloadscreen_8.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 5,
+            "name_en": "Final Boss Veigar"
+        },
+        {
+            "name": "欧米伽小队 天雷爆破手",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin09/images/veigar_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin09/veigarloadscreen_9.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Omega Squad Veigar"
+        },
+        {
+            "name": "永恒之森 维迦",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin13/images/veigar_splash_uncentered_13.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin13/veigarloadscreen_13.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Elderwood Veigar"
+        },
+        {
+            "name": "我，怒角 维迦",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin23/images/veigar_splash_uncentered_23.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin23/veigarloadscreen_23.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Furyhorn Cosplay Veigar"
+        },
+        {
+            "name": "宇航员 维迦",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin32/images/veigar_splash_uncentered_32.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin32/veigarloadscreen_32.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Astronaut Veigar"
+        },
+        {
+            "name": "小怪兽训练师 维迦",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin41/images/veigar_splash_uncentered_41.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin41/veigarloadscreen_41.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Monster Tamer Veigar"
+        },
+        {
+            "name": "蜂大王 维迦",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin51/images/veigar_splash_uncentered_51.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin51/veigarloadscreen_51.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "King Beegar"
+        },
+        {
+            "name": "魔域梦魇 维迦",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin60/images/veigar_splash_uncentered_60.skins_veigar_skin60.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/veigar/skins/skin60/veigarloadscreen_60.skins_veigar_skin60.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Fright Night Veigar"
+        }
+    ]
+}

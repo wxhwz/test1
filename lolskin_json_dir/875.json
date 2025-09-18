@@ -1,0 +1,86 @@
+{
+    "id": 875,
+    "name": "腕豪",
+    "skins": [
+        {
+            "name": "王国机神苍狼 瑟提",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/skin01/images/sett_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/skin01/settloadscreen_1.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Mecha Kingdoms Sett"
+        },
+        {
+            "name": "神龙尊者 炎龙瑟提",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/skin08/images/sett_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/skin08/settloadscreen_8.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Obsidian Dragon Sett"
+        },
+        {
+            "name": "至臻 神龙尊者 炎龙瑟提",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/skin09/images/sett_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/skin09/settloadscreen_9.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Obsidian Dragon Sett"
+        },
+        {
+            "name": "泳池派对 瑟提",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/skin10/images/sett_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/skin10/settloadscreen_10.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Pool Party Sett"
+        },
+        {
+            "name": "龙腾虎跃 瑟提",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/skin19/images/sett_splash_uncentered_19.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/skin19/settloadscreen_19.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Firecracker Sett"
+        },
+        {
+            "name": "灵魂莲华 瑟提",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/skin38/images/sett_splash_uncentered_38.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/skin38/settloadscreen_38.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Spirit Blossom Sett"
+        },
+        {
+            "name": "斗魂觉醒 瑟提",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/skin45/images/sett_splash_uncentered_45.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/skin45/settloadscreen_45.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Soul Fighter Sett"
+        },
+        {
+            "name": "心之钢 瑟提",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/skin56/images/sett_splash_uncentered_56.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/skin56/settloadscreen_56.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "HEARTSTEEL Sett"
+        },
+        {
+            "name": "金蛇巨星 瑟提",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/skin66/images/sett_splash_uncentered_66.skins_sett_skin66.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/skin66/settloadscreen_66.skins_sett_skin66.jpg",
+            "rarity": "kExalted",
+            "regionRarityId": 10,
+            "name_en": "Radiant Serpent Sett"
+        },
+        {
+            "name": "莲华温泉 瑟提",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/skin67/images/sett_splash_uncentered_67.skins_sett_skin67.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sett/skins/skin67/settloadscreen_67.skins_sett_skin67.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Spirit Blossom Springs Sett"
+        }
+    ]
+}

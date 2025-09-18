@@ -1,0 +1,134 @@
+{
+    "id": 412,
+    "name": "魂锁典狱长",
+    "skins": [
+        {
+            "name": "深渊恐惧 锤石",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin01/images/thresh_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin01/threshloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Deep Terror Thresh"
+        },
+        {
+            "name": "冠军典狱长 锤石",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin02/images/thresh_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin02/threshloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Worlds 2013 Thresh"
+        },
+        {
+            "name": "腥红之月 锤石",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin03/images/thresh_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin03/threshloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Blood Moon Thresh"
+        },
+        {
+            "name": "SSW 锤石",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin04/images/thresh_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin04/threshloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "SSW Thresh"
+        },
+        {
+            "name": "暗星 锤石",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin05/images/thresh_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin05/threshloadscreen_5.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Dark Star Thresh"
+        },
+        {
+            "name": "西部魔影 锤石",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin06/images/thresh_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin06/threshloadscreen_6.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "High Noon Thresh"
+        },
+        {
+            "name": "未来战士 锤石",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin13/images/thresh_splash_uncentered_13.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin13/threshloadscreen_13.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Pulsefire Thresh"
+        },
+        {
+            "name": "至臻 未来战士 锤石",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin14/images/thresh_splash_uncentered_14.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin14/threshloadscreen_14.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Pulsefire Thresh"
+        },
+        {
+            "name": "FPX 锤石",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin15/images/thresh_splash_uncentered_15.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin15/threshloadscreen_15.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "FPX Thresh"
+        },
+        {
+            "name": "灵魂莲华 锤石",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin17/images/thresh_splash_uncentered_17.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin17/threshloadscreen_17.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Spirit Blossom Thresh"
+        },
+        {
+            "name": "破败解封 锤石",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin27/images/thresh_splash_uncentered_27.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin27/threshloadscreen_27.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Unbound Thresh"
+        },
+        {
+            "name": "神龙尊者 钢铁之龙 锤石",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin28/images/thresh_splash_uncentered_28.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin28/threshloadscreen_28.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Steel Dragon Thresh"
+        },
+        {
+            "name": "至臻 未来战士 锤石 (2022)",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin14/images/thresh_splash_uncentered_14.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin38/threshloadscreen_38.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Pulsefire Thresh"
+        },
+        {
+            "name": "春晖大帝 锤石",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin39/images/thresh_splash_uncentered_39.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin39/threshloadscreen_39.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Lunar Emperor Thresh"
+        },
+        {
+            "name": "北极星典狱长 锤石",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin49/images/thresh_splash_uncentered_49.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin49/threshloadscreen_49.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Winterblessed Thresh"
+        },
+        {
+            "name": "洗地专家 锤石",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin59/images/thresh_splash_uncentered_59.skins_thresh_skin59.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin59/threshloadscreen_59.skins_thresh_skin59.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Janitor Thresh"
+        }
+    ]
+}

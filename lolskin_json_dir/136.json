@@ -1,0 +1,46 @@
+{
+    "id": 136,
+    "name": "铸星龙王",
+    "skins": [
+        {
+            "name": "灰烬领主 奥瑞利安·索尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/skin01/images/aurelionsol_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/skin01/aurelionsolloadscreen_1.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Ashen Lord Aurelion Sol"
+        },
+        {
+            "name": "霸天龙神 奥瑞利安 · 索尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/skin02/images/aurelionsol_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/skin02/aurelionsolloadscreen_2.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Mecha Aurelion Sol"
+        },
+        {
+            "name": "圣龙 奥瑞利安 · 索尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/skin11/images/aurelionsol_splash_uncentered_11.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/skin11/aurelionsolloadscreen_11.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Storm Dragon Aurelion Sol"
+        },
+        {
+            "name": "墨影之灵 奥瑞利安 · 索尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/skin21/images/aurelionsol_splash_uncentered_21.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/skin21/aurelionsolloadscreen_21.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Inkshadow Aurelion Sol"
+        },
+        {
+            "name": "青花瓷 奥瑞利安 · 索尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/skin31/images/aurelionsol_splash_uncentered_31.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aurelionsol/skins/skin31/aurelionsolloadscreen_31.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Porcelain Protector Aurelion Sol"
+        }
+    ]
+}

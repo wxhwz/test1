@@ -1,0 +1,70 @@
+{
+    "id": 127,
+    "name": "冰霜女巫",
+    "skins": [
+        {
+            "name": "血石妖后 丽桑卓",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lissandra/skins/skin01/images/lissandra_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lissandra/skins/skin01/lissandraloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Bloodstone Lissandra"
+        },
+        {
+            "name": "刀锋女王 丽桑卓",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lissandra/skins/skin02/images/lissandra_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lissandra/skins/skin02/lissandraloadscreen_2.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Blade Queen Lissandra"
+        },
+        {
+            "name": "源代码 丽桑卓",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lissandra/skins/skin03/images/lissandra_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lissandra/skins/skin03/lissandraloadscreen_3.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Program Lissandra"
+        },
+        {
+            "name": "魔女 丽桑卓",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lissandra/skins/skin04/images/lissandra_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lissandra/skins/skin04/lissandraloadscreen_4.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Coven Lissandra"
+        },
+        {
+            "name": "暗星女王 丽桑卓",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lissandra/skins/skin12/images/lissandra_splash_uncentered_12.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lissandra/skins/skin12/lissandraloadscreen_12.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Dark Cosmic Lissandra"
+        },
+        {
+            "name": "青花瓷 丽桑卓",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lissandra/skins/skin23/images/lissandra_splash_uncentered_23.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lissandra/skins/skin23/lissandraloadscreen_23.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Porcelain Lissandra"
+        },
+        {
+            "name": "至臻 青花瓷 丽桑卓",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lissandra/skins/skin33/images/lissandra_splash_uncentered_33.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lissandra/skins/skin33/lissandraloadscreen_33.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Porcelain Lissandra"
+        },
+        {
+            "name": "太空律动 “噪音女王” 丽桑卓",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lissandra/skins/skin34/images/lissandra_splash_uncentered_34.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lissandra/skins/skin34/lissandraloadscreen_34.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Space Groove Lissandra"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": 950,
+    "name": "百裂冥犬",
+    "skins": [
+        {
+            "name": "斗魂觉醒 纳亚菲利",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/naafiri/skins/skin01/images/naafiri_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/naafiri/skins/skin01/naafiriloadscreen_1.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Soul Fighter Naafiri"
+        },
+        {
+            "name": "源计划：狂猎 纳亚菲利",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/naafiri/skins/skin11/images/naafiri_splash_uncentered_11.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/naafiri/skins/skin11/naafiriloadscreen_11.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "PROJECT: Naafiri"
+        },
+        {
+            "name": "热狗 纳亚菲利",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/naafiri/skins/skin20/images/naafiri_splash_uncentered_20.skins_naafiri_skin20.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/naafiri/skins/skin20/naafiriloadscreen_20.skins_naafiri_skin20.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Glizzy Naafiri"
+        }
+    ]
+}

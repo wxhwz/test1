@@ -1,0 +1,30 @@
+{
+    "id": 711,
+    "name": "愁云使者",
+    "skins": [
+        {
+            "name": "黎明使者 薇古丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vex/skins/skin01/images/vex_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vex/skins/skin01/vexloadscreen_1.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Dawnbringer Vex"
+        },
+        {
+            "name": "至高天 薇古丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vex/skins/skin10/images/vex_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vex/skins/skin10/vexloadscreen_10.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Empyrean Vex"
+        },
+        {
+            "name": "观星者 薇古丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vex/skins/skin20/images/vex_splash_uncentered_20.skins_vex_skin20.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/vex/skins/skin20/vexloadscreen_20.skins_vex_skin20.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Stargazer Vex"
+        }
+    ]
+}

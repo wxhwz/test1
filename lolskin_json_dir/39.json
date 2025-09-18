@@ -1,0 +1,126 @@
+{
+    "id": 39,
+    "name": "刀锋舞者",
+    "skins": [
+        {
+            "name": "夜刃 艾瑞莉娅",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin01/images/irelia_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin01/irelialoadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Nightblade Irelia"
+        },
+        {
+            "name": "凌云之翼 艾瑞莉娅",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin02/images/irelia_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin02/irelialoadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Aviator Irelia"
+        },
+        {
+            "name": "夜行义贼 艾瑞莉娅",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin03/images/irelia_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin03/irelialoadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Infiltrator Irelia"
+        },
+        {
+            "name": "冰霜之刃 艾瑞莉娅",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin04/images/irelia_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin04/irelialoadscreen_4.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Frostblade Irelia"
+        },
+        {
+            "name": "莲花之令 艾瑞莉娅",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin05/images/irelia_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin05/irelialoadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Order of the Lotus Irelia"
+        },
+        {
+            "name": "玉剑传说 舞剑仙",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin06/images/irelia_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin06/irelialoadscreen_6.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Divine Sword Irelia"
+        },
+        {
+            "name": "iG 艾瑞莉娅",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin15/images/irelia_splash_uncentered_15.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin15/irelialoadscreen_15.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "iG Irelia"
+        },
+        {
+            "name": "源计划：正义 艾瑞莉娅",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin16/images/irelia_splash_uncentered_16.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin16/irelialoadscreen_16.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "PROJECT: Irelia"
+        },
+        {
+            "name": "至臻 源计划：正义 艾瑞莉娅",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin17/images/irelia_splash_uncentered_17.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin17/irelialoadscreen_17.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige PROJECT: Irelia"
+        },
+        {
+            "name": "西部天使 艾瑞莉娅",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin18/images/irelia_splash_uncentered_18.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin18/irelialoadscreen_18.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "High Noon Irelia"
+        },
+        {
+            "name": "光明哨兵 艾瑞莉娅",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin26/images/irelia_splash_uncentered_26.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin26/irelialoadscreen_26.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Sentinel Irelia"
+        },
+        {
+            "name": "至臻 源计划：正义 艾瑞莉娅 (2022)",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin17/images/irelia_splash_uncentered_17.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin36/irelialoadscreen_36.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige PROJECT: Irelia"
+        },
+        {
+            "name": "剪纸仙灵 艾瑞莉娅",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin37/images/irelia_splash_uncentered_37.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin37/irelialoadscreen_37.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 7,
+            "name_en": "Mythmaker Irelia"
+        },
+        {
+            "name": "青花瓷 艾瑞莉娅",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin45/images/irelia_splash_uncentered_45.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin45/irelialoadscreen_45.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Porcelain Irelia"
+        },
+        {
+            "name": "灵魂莲华 艾瑞莉娅",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin55/images/irelia_splash_uncentered_55.skins_irelia_skin55.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/irelia/skins/skin55/irelialoadscreen_55.skins_irelia_skin55.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Spirit Blossom Irelia"
+        }
+    ]
+}

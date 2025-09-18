@@ -1,0 +1,38 @@
+{
+    "id": 887,
+    "name": "灵罗娃娃",
+    "skins": [
+        {
+            "name": "太空律动 “百万调音” 格温",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin01/images/gwen_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin01/gwenloadscreen_1.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Space Groove Gwen"
+        },
+        {
+            "name": "咖啡甜心 格温",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin11/images/gwen_splash_uncentered_11.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin11/gwenloadscreen_11.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Cafe Cuties Gwen"
+        },
+        {
+            "name": "斗魂觉醒 格温",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin20/images/gwen_splash_uncentered_20.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin20/gwenloadscreen_20.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Soul Fighter Gwen"
+        },
+        {
+            "name": "女帝 格温",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin30/images/gwen_splash_uncentered_30.skins_gwen_skin30.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gwen/skins/skin30/gwenloadscreen_30.skins_gwen_skin30.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Battle Queen Gwen"
+        }
+    ]
+}

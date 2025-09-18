@@ -1,0 +1,102 @@
+{
+    "id": 266,
+    "name": "暗裔剑魔",
+    "skins": [
+        {
+            "name": "仲裁圣骑 亚托克斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin01/images/aatrox_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin01/aatroxloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Justicar Aatrox"
+        },
+        {
+            "name": "霸天剑魔 亚托克斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin02/images/aatrox_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin02/aatroxloadscreen_2.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Mecha Aatrox"
+        },
+        {
+            "name": "狂鲨 亚托克斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin03/images/aatrox_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin03/aatroxloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Sea Hunter Aatrox"
+        },
+        {
+            "name": "腥红之月 亚托克斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin07/images/aatrox_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin07/aatroxloadscreen_7.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Blood Moon Aatrox"
+        },
+        {
+            "name": "至臻 腥红之月 亚托克斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin08/images/aatrox_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin08/aatroxloadscreen_8.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Blood Moon Aatrox"
+        },
+        {
+            "name": "胜利之剑 亚托克斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin09/images/aatrox_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin09/aatroxloadscreen_9.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Victorious Aatrox"
+        },
+        {
+            "name": "奥德赛 亚托克斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin11/images/aatrox_splash_uncentered_11.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin11/aatroxloadscreen_11.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Odyssey Aatrox"
+        },
+        {
+            "name": "至臻 腥红之月 亚托克斯 (2022)",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin08/images/aatrox_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin20/aatroxloadscreen_20.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Blood Moon Aatrox"
+        },
+        {
+            "name": "月蚀骑士 亚托克斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin21/images/aatrox_splash_uncentered_21.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin21/aatroxloadscreen_21.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Lunar Eclipse Aatrox"
+        },
+        {
+            "name": "DRX 亚托克斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin30/images/aatrox_splash_uncentered_30.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin30/aatroxloadscreen_30.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "DRX Aatrox"
+        },
+        {
+            "name": "至臻 DRX 亚托克斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin31/images/aatrox_splash_uncentered_31.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin31/aatroxloadscreen_31.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige DRX Aatrox"
+        },
+        {
+            "name": "海魔至尊 亚托克斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin33/images/aatrox_splash_uncentered_33.skins_aatrox_skin33.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin33/aatroxloadscreen_33.skins_aatrox_skin33.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Primordian Aatrox"
+        }
+    ]
+}

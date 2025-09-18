@@ -1,0 +1,126 @@
+{
+    "id": 96,
+    "name": "深渊巨口",
+    "skins": [
+        {
+            "name": "毛毛虫 克格莫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/skin01/images/kogmaw_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/skin01/kogmawloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Caterpillar Kog'Maw"
+        },
+        {
+            "name": "索诺拉沙虫 克格莫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/skin02/images/kogmaw_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/skin02/kogmawloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Sonoran Kog'Maw"
+        },
+        {
+            "name": "帝王斑蝶 克格莫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/skin03/images/kogmaw_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/skin03/kogmawloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Monarch Kog'Maw"
+        },
+        {
+            "name": "圣诞驯鹿 克格莫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/skin04/images/kogmaw_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/skin04/kogmawloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Reindeer Kog'Maw"
+        },
+        {
+            "name": "醒狮 克格莫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/skin05/images/kogmaw_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/skin05/kogmawloadscreen_5.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Lion Dance Kog'Maw"
+        },
+        {
+            "name": "深海怪鱼 克格莫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/skin06/images/kogmaw_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/skin06/kogmawloadscreen_6.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Deep Sea Kog'Maw"
+        },
+        {
+            "name": "侏罗纪化石 克格莫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/skin07/images/kogmaw_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/skin07/kogmawloadscreen_7.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Jurassic Kog'Maw"
+        },
+        {
+            "name": "战地机甲 克格莫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/skin08/images/kogmaw_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/skin08/kogmawloadscreen_8.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Battlecast Kog'Maw"
+        },
+        {
+            "name": "克格汪",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/skin09/images/kogmaw_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/skin09/kogmawloadscreen_9.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Pug'Maw"
+        },
+        {
+            "name": "海克斯科技 克格莫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/skin10/images/kogmaw_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/skin10/kogmawloadscreen_10.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Hextech Kog'Maw"
+        },
+        {
+            "name": "奥术师 克格莫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/skin19/images/kogmaw_splash_uncentered_19.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/skin19/kogmawloadscreen_19.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Arcanist Kog'Maw"
+        },
+        {
+            "name": "小蜜蜂 克格莫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/skin28/images/kogmaw_splash_uncentered_28.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/skin28/kogmawloadscreen_28.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Bee'Maw"
+        },
+        {
+            "name": "电格莫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/skin37/images/kogmaw_splash_uncentered_37.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/skin37/kogmawloadscreen_37.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Zap'Maw"
+        },
+        {
+            "name": "山海绘卷 克格莫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/skin46/images/kogmaw_splash_uncentered_46.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/skin46/kogmawloadscreen_46.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Shan Hai Scrolls Kog'Maw"
+        },
+        {
+            "name": "胜利巨口 克格莫",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/skin55/images/kogmaw_splash_uncentered_55.skins_kogmaw_skin55.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kogmaw/skins/skin55/kogmawloadscreen_55.skins_kogmaw_skin55.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Victorious Kog'Maw"
+        }
+    ]
+}

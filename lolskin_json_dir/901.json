@@ -1,0 +1,14 @@
+{
+    "id": 901,
+    "name": "炽炎雏龙",
+    "skins": [
+        {
+            "name": "天龙之子 斯莫德",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/smolder/skins/skin01/images/smolder_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/smolder/skins/skin01/smolderloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Heavenscale Smolder"
+        }
+    ]
+}

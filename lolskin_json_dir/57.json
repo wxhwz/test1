@@ -1,0 +1,86 @@
+{
+    "id": 57,
+    "name": "扭曲树精",
+    "skins": [
+        {
+            "name": "烈焰古树 茂凯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/maokai/skins/skin01/images/maokai_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/maokai/skins/skin01/maokailoadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Charred Maokai"
+        },
+        {
+            "name": "图腾古树 茂凯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/maokai/skins/skin02/images/maokai_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/maokai/skins/skin02/maokailoadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Totemic Maokai"
+        },
+        {
+            "name": "喜庆之树 茂凯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/maokai/skins/skin03/images/maokai_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/maokai/skins/skin03/maokailoadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Festive Maokai"
+        },
+        {
+            "name": "鬼影森森 茂凯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/maokai/skins/skin04/images/maokai_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/maokai/skins/skin04/maokailoadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Haunted Maokai"
+        },
+        {
+            "name": "绿茵门神 茂凯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/maokai/skins/skin05/images/maokai_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/maokai/skins/skin05/maokailoadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Goalkeeper Maokai"
+        },
+        {
+            "name": "喵凯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/maokai/skins/skin06/images/maokai_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/maokai/skins/skin06/maokailoadscreen_6.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Meowkai"
+        },
+        {
+            "name": "胜利之树 茂凯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/maokai/skins/skin07/images/maokai_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/maokai/skins/skin07/maokailoadscreen_7.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Victorious Maokai"
+        },
+        {
+            "name": "创世之神 茂凯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/maokai/skins/skin16/images/maokai_splash_uncentered_16.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/maokai/skins/skin16/maokailoadscreen_16.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Worldbreaker Maokai"
+        },
+        {
+            "name": "宇航员 茂凯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/maokai/skins/skin24/images/maokai_splash_uncentered_24.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/maokai/skins/skin24/maokailoadscreen_24.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Astronaut Maokai"
+        },
+        {
+            "name": "DRX 茂凯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/maokai/skins/skin33/images/maokai_splash_uncentered_33.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/maokai/skins/skin33/maokailoadscreen_33.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "DRX Maokai"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": 203,
+    "name": "永猎双子",
+    "skins": [
+        {
+            "name": "黯焰双魂 千珏",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin01/images/kindred_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin01/kindredloadscreen_1.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Shadowfire Kindred"
+        },
+        {
+            "name": "银河魔装机神 千珏",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin02/images/kindred_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin02/kindredloadscreen_2.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Super Galaxy Kindred"
+        },
+        {
+            "name": "灵魂莲华 千珏",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin03/images/kindred_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin03/kindredloadscreen_3.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Spirit Blossom Kindred"
+        },
+        {
+            "name": "青花瓷 千珏",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin12/images/kindred_splash_uncentered_12.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin12/kindredloadscreen_12.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Porcelain Kindred"
+        },
+        {
+            "name": "猫狗大战 千珏",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin22/images/kindred_splash_uncentered_22.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin22/kindredloadscreen_22.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Woof and Lamb Kindred"
+        },
+        {
+            "name": "DRX 千珏",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin23/images/kindred_splash_uncentered_23.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin23/kindredloadscreen_23.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "DRX Kindred"
+        },
+        {
+            "name": "至臻 青花瓷 千珏",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin33/images/kindred_splash_uncentered_33.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin33/kindredloadscreen_33.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Porcelain Kindred"
+        },
+        {
+            "name": "狼神英灵 千珏",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin34/images/kindred_splash_uncentered_34.skins_kindred_skin34.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kindred/skins/skin34/kindredloadscreen_34.skins_kindred_skin34.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Chosen of the Wolf Kindred"
+        }
+    ]
+}

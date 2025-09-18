@@ -1,0 +1,118 @@
+{
+    "id": 222,
+    "name": "暴走萝莉",
+    "skins": [
+        {
+            "name": "黑帮狂花 金克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin01/images/jinx_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin01/jinxloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Crime City Jinx"
+        },
+        {
+            "name": "神龙烈焰 金克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin02/images/jinx_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin02/jinxloadscreen_2.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Firecracker Jinx"
+        },
+        {
+            "name": "丧尸杀手 金克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin03/images/jinx_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin03/jinxloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Zombie Slayer Jinx"
+        },
+        {
+            "name": "星之守护者 金克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin04/images/jinx_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin04/jinxloadscreen_4.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Star Guardian Jinx"
+        },
+        {
+            "name": "圣诞捣蛋鬼 金克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin12/images/jinx_splash_uncentered_12.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin12/jinxloadscreen_12.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Ambitious Elf Jinx"
+        },
+        {
+            "name": "奥德赛 金克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin13/images/jinx_splash_uncentered_13.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin13/jinxloadscreen_13.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Odyssey Jinx"
+        },
+        {
+            "name": "源计划：疯狂 金克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin20/images/jinx_splash_uncentered_20.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin20/jinxloadscreen_20.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "PROJECT: Jinx"
+        },
+        {
+            "name": "觅心萝莉 金克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin29/images/jinx_splash_uncentered_29.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin29/jinxloadscreen_29.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Heartseeker Jinx"
+        },
+        {
+            "name": "双城之战 金克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin37/images/jinx_splash_uncentered_37.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin37/jinxloadscreen_37.jpg",
+            "rarity": "kRare",
+            "regionRarityId": 0,
+            "name_en": "Arcane Enemy Jinx"
+        },
+        {
+            "name": "幻灵战斗猫 金克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin38/images/jinx_splash_uncentered_38.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin38/jinxloadscreen_38.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Battle Cat Jinx"
+        },
+        {
+            "name": "至臻 幻灵战斗猫 金克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin40/images/jinx_splash_uncentered_40.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin40/jinxloadscreen_40.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Battle Cat Jinx"
+        },
+        {
+            "name": "咖啡甜心 金克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin51/images/jinx_splash_uncentered_51.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin51/jinxloadscreen_51.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Cafe Cuties Jinx"
+        },
+        {
+            "name": "双城之战2 破碎者 金克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin60/images/jinx_splash_uncentered_60.skins_jinx_skin60.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin60/jinxloadscreen_60.skins_jinx_skin60.jpg",
+            "rarity": "kExalted",
+            "regionRarityId": 10,
+            "name_en": "Arcane Fractured Jinx"
+        },
+        {
+            "name": "T1 金克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin62/images/jinx_splash_uncentered_62.skins_jinx_skin62.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin62/jinxloadscreen_62.skins_jinx_skin62.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "T1 Jinx"
+        }
+    ]
+}

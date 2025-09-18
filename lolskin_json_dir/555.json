@@ -1,0 +1,102 @@
+{
+    "id": 555,
+    "name": "血港鬼影",
+    "skins": [
+        {
+            "name": "怨之砂 派克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pyke/skins/skin01/images/pyke_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pyke/skins/skin01/pykeloadscreen_1.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Sand Wraith Pyke"
+        },
+        {
+            "name": "腥红之月 派克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pyke/skins/skin09/images/pyke_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pyke/skins/skin09/pykeloadscreen_9.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Blood Moon Pyke"
+        },
+        {
+            "name": "源计划：毁灭 派克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pyke/skins/skin16/images/pyke_splash_uncentered_16.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pyke/skins/skin16/pykeloadscreen_16.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "PROJECT: Pyke"
+        },
+        {
+            "name": "灵能特工 派克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pyke/skins/skin25/images/pyke_splash_uncentered_25.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pyke/skins/skin25/pykeloadscreen_25.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "PsyOps Pyke"
+        },
+        {
+            "name": "光明哨兵 派克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pyke/skins/skin34/images/pyke_splash_uncentered_34.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pyke/skins/skin34/pykeloadscreen_34.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Sentinel Pyke"
+        },
+        {
+            "name": "灰烬骑士 派克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pyke/skins/skin44/images/pyke_splash_uncentered_44.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pyke/skins/skin44/pykeloadscreen_44.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Ashen Knight Pyke"
+        },
+        {
+            "name": "至高天 派克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pyke/skins/skin45/images/pyke_splash_uncentered_45.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pyke/skins/skin45/pykeloadscreen_45.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Empyrean Pyke"
+        },
+        {
+            "name": "斗魂觉醒 派克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pyke/skins/skin53/images/pyke_splash_uncentered_53.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pyke/skins/skin53/pykeloadscreen_53.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Soul Fighter Pyke"
+        },
+        {
+            "name": "至臻 斗魂觉醒 派克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pyke/skins/skin54/images/pyke_splash_uncentered_54.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pyke/skins/skin54/pykeloadscreen_54.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Soul Fighter Pyke"
+        },
+        {
+            "name": "魔域梦魇 派克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pyke/skins/skin64/images/pyke_splash_uncentered_64.skins_pyke_skin64.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pyke/skins/skin64/pykeloadscreen_64.skins_pyke_skin64.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Fright Night Pyke"
+        },
+        {
+            "name": "墨之影 派克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pyke/skins/skin74/images/pyke_splash_uncentered_74.skins_pyke_skin74.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pyke/skins/skin74/pykeloadscreen_74.skins_pyke_skin74.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Inkshadow Pyke"
+        },
+        {
+            "name": "T1 派克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pyke/skins/skin75/images/pyke_splash_uncentered_75.skins_pyke_skin75.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/pyke/skins/skin75/pykeloadscreen_75.skins_pyke_skin75.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "T1 Pyke"
+        }
+    ]
+}

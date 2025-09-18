@@ -1,0 +1,134 @@
+{
+    "id": 28,
+    "name": "痛苦之拥",
+    "skins": [
+        {
+            "name": "黑暗女王 伊芙琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin01/images/evelynn_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin01/evelynnloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Shadow Evelynn"
+        },
+        {
+            "name": "假面女皇 伊芙琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin02/images/evelynn_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin02/evelynnloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Masquerade Evelynn"
+        },
+        {
+            "name": "探戈灵魂 伊芙琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin03/images/evelynn_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin03/evelynnloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Tango Evelynn"
+        },
+        {
+            "name": "惊天魔盗 伊芙琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin04/images/evelynn_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin04/evelynnloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Safecracker Evelynn"
+        },
+        {
+            "name": "腥红之月 伊芙琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin05/images/evelynn_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin05/evelynnloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Blood Moon Evelynn"
+        },
+        {
+            "name": "K/DA 伊芙琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin06/images/evelynn_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin06/evelynnloadscreen_6.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "K/DA Evelynn"
+        },
+        {
+            "name": "至臻 K/DA 伊芙琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin07/images/evelynn_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin07/evelynnloadscreen_7.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige K/DA Evelynn"
+        },
+        {
+            "name": "糖果大战 伊芙琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin08/images/evelynn_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin08/evelynnloadscreen_8.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Sugar Rush Evelynn"
+        },
+        {
+            "name": "K/DA ALL OUT 伊芙琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin15/images/evelynn_splash_uncentered_15.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin15/evelynnloadscreen_15.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "K/DA ALL OUT Evelynn"
+        },
+        {
+            "name": "魔女 伊芙琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin24/images/evelynn_splash_uncentered_24.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin24/evelynnloadscreen_24.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Coven Evelynn"
+        },
+        {
+            "name": "至臻 K/DA 伊芙琳 (2022)",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin07/images/evelynn_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin31/evelynnloadscreen_31.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige K/DA Evelynn"
+        },
+        {
+            "name": "灵魂莲华 伊芙琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin32/images/evelynn_splash_uncentered_32.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin32/evelynnloadscreen_32.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Spirit Blossom Evelynn"
+        },
+        {
+            "name": "斗魂觉醒 伊芙琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin42/images/evelynn_splash_uncentered_42.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin42/evelynnloadscreen_42.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Soul Fighter Evelynn"
+        },
+        {
+            "name": "西部魔影 伊芙琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin52/images/evelynn_splash_uncentered_52.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin52/evelynnloadscreen_52.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "High Noon Evelynn"
+        },
+        {
+            "name": "至臻 西部魔影 伊芙琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin53/images/evelynn_splash_uncentered_53.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin53/evelynnloadscreen_53.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige High Noon Evelynn"
+        },
+        {
+            "name": "黑夜使者 伊芙琳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin64/images/evelynn_splash_uncentered_64.skins_evelynn_skin64.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin64/evelynnloadscreen_64.skins_evelynn_skin64.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Nightbringer Evelynn"
+        }
+    ]
+}

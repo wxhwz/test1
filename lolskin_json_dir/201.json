@@ -1,0 +1,70 @@
+{
+    "id": 201,
+    "name": "弗雷尔卓德之心",
+    "skins": [
+        {
+            "name": "屠龙勇士 布隆",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin01/images/braum_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin01/braumloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Dragonslayer Braum"
+        },
+        {
+            "name": "猛虎 布隆",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin02/images/braum_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin02/braumloadscreen_2.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "El Tigre Braum"
+        },
+        {
+            "name": "布隆·狮心",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin03/images/braum_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin03/braumloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Braum Lionheart"
+        },
+        {
+            "name": "圣诞老人 布隆",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin10/images/braum_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin10/braumloadscreen_10.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Santa Braum"
+        },
+        {
+            "name": "黑帮管家 布隆",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin11/images/braum_splash_uncentered_11.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin11/braumloadscreen_11.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Crime City Braum"
+        },
+        {
+            "name": "糖果大战 布隆",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin24/images/braum_splash_uncentered_24.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin24/braumloadscreen_24.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Sugar Rush Braum"
+        },
+        {
+            "name": "泳池派对 布隆",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin33/images/braum_splash_uncentered_33.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin33/braumloadscreen_33.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Pool Party Braum"
+        },
+        {
+            "name": "烤肉大师 布隆",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin42/images/braum_splash_uncentered_42.skins_braum_skin42.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/braum/skins/skin42/braumloadscreen_42.skins_braum_skin42.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Grill Master Braum"
+        }
+    ]
+}

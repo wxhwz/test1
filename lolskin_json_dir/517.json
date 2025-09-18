@@ -1,0 +1,78 @@
+{
+    "id": 517,
+    "name": "解脱者",
+    "skins": [
+        {
+            "name": "窃魂修罗 塞拉斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sylas/skins/skin01/images/sylas_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sylas/skins/skin01/sylasloadscreen_1.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Lunar Wraith Sylas"
+        },
+        {
+            "name": "弗雷尔卓德 塞拉斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sylas/skins/skin08/images/sylas_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sylas/skins/skin08/sylasloadscreen_8.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Freljord Sylas"
+        },
+        {
+            "name": "源计划：逆流 塞拉斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sylas/skins/skin13/images/sylas_splash_uncentered_13.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sylas/skins/skin13/sylasloadscreen_13.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "PROJECT: Sylas"
+        },
+        {
+            "name": "至臻 源计划：逆流 塞拉斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sylas/skins/skin14/images/sylas_splash_uncentered_14.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sylas/skins/skin14/sylasloadscreen_14.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige PROJECT: Sylas"
+        },
+        {
+            "name": "幻灵战斗狼 塞拉斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sylas/skins/skin24/images/sylas_splash_uncentered_24.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sylas/skins/skin24/sylasloadscreen_24.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Battle Wolf Sylas"
+        },
+        {
+            "name": "灰烬杀手 塞拉斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sylas/skins/skin34/images/sylas_splash_uncentered_34.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sylas/skins/skin34/sylasloadscreen_34.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Ashen Slayer Sylas"
+        },
+        {
+            "name": "北极星发明家 塞拉斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sylas/skins/skin36/images/sylas_splash_uncentered_36.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sylas/skins/skin36/sylasloadscreen_36.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Winterblessed Sylas"
+        },
+        {
+            "name": "暗星 塞拉斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sylas/skins/skin46/images/sylas_splash_uncentered_46.skins_sylas_skin46.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sylas/skins/skin46/sylasloadscreen_46.skins_sylas_skin46.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Dark Star Sylas"
+        },
+        {
+            "name": "至臻 T1 塞拉斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sylas/skins/skin53/images/sylas_splash_uncentered_53.skins_sylas_skin53.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sylas/skins/skin53/sylasloadscreen_53.skins_sylas_skin53.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige T1 Sylas"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "id": 105,
+    "name": "潮汐海灵",
+    "skins": [
+        {
+            "name": "失落大陆 菲兹",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin01/images/fizz_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin01/fizzloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Atlantean Fizz"
+        },
+        {
+            "name": "苔原猎手 菲兹",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin02/images/fizz_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin02/fizzloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Tundra Fizz"
+        },
+        {
+            "name": "海牛猎手 菲兹",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin03/images/fizz_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin03/fizzloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Fisherman Fizz"
+        },
+        {
+            "name": "虚空海灵 菲兹",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin04/images/fizz_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin04/fizzloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Void Fizz"
+        },
+        {
+            "name": "兔宝宝 菲兹",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin08/images/fizz_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin08/fizzloadscreen_8.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Cottontail Fizz"
+        },
+        {
+            "name": "银河魔装机神 菲兹",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin09/images/fizz_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin09/fizzloadscreen_9.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Super Galaxy Fizz"
+        },
+        {
+            "name": "欧米伽小队 鬼影蛙人",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin10/images/fizz_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin10/fizzloadscreen_10.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Omega Squad Fizz"
+        },
+        {
+            "name": "绒毛菲兹",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin14/images/fizz_splash_uncentered_14.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin14/fizzloadscreen_14.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Fuzz Fizz"
+        },
+        {
+            "name": "至臻 绒毛菲兹",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin15/images/fizz_splash_uncentered_15.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin15/fizzloadscreen_15.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Fuzz Fizz"
+        },
+        {
+            "name": "小恶魔 菲兹",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin16/images/fizz_splash_uncentered_16.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin16/fizzloadscreen_16.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Little Devil Fizz"
+        },
+        {
+            "name": "至臻 绒毛菲兹 (2022)",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin15/images/fizz_splash_uncentered_15.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin25/fizzloadscreen_25.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Fuzz Fizz"
+        },
+        {
+            "name": "宇航员 菲兹",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin26/images/fizz_splash_uncentered_26.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin26/fizzloadscreen_26.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Astronaut Fizz"
+        },
+        {
+            "name": "青蛙雨衣 菲兹",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin35/images/fizz_splash_uncentered_35.skins_fizz_skin35.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fizz/skins/skin35/fizzloadscreen_35.skins_fizz_skin35.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Rain Shepherd Fizz"
+        }
+    ]
+}

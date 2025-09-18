@@ -1,0 +1,102 @@
+{
+    "id": 143,
+    "name": "荆棘之兴",
+    "skins": [
+        {
+            "name": "野火之藤 婕拉",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin01/images/zyra_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin01/zyraloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Wildfire Zyra"
+        },
+        {
+            "name": "鬼影森森 婕拉",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin02/images/zyra_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin02/zyraloadscreen_2.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Haunted Zyra"
+        },
+        {
+            "name": "SKT T1 婕拉",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin03/images/zyra_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin03/zyraloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "SKT T1 Zyra"
+        },
+        {
+            "name": "驯龙女巫 婕拉",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin04/images/zyra_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin04/zyraloadscreen_4.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Dragon Sorceress Zyra"
+        },
+        {
+            "name": "魔女 婕拉",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin05/images/zyra_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin05/zyraloadscreen_5.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Coven Zyra"
+        },
+        {
+            "name": "至臻 魔女 婕拉",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin06/images/zyra_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin06/zyraloadscreen_6.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Coven Zyra"
+        },
+        {
+            "name": "水晶玫瑰 婕拉",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin07/images/zyra_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin07/zyraloadscreen_7.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Crystal Rose Zyra"
+        },
+        {
+            "name": "地下都市 梦魇 婕拉",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin16/images/zyra_splash_uncentered_16.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin16/zyraloadscreen_16.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Crime City Nightmare Zyra"
+        },
+        {
+            "name": "剪纸仙灵 婕拉",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin36/images/zyra_splash_uncentered_36.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin36/zyraloadscreen_36.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Mythmaker Zyra"
+        },
+        {
+            "name": "妖怪艺术家 婕拉",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin46/images/zyra_splash_uncentered_46.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin46/zyraloadscreen_46.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Street Demons Zyra"
+        },
+        {
+            "name": "腥红之月 婕拉",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin55/images/zyra_splash_uncentered_55.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin55/zyraloadscreen_55.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Blood Moon Zyra"
+        },
+        {
+            "name": "灵魂莲华 婕拉",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin64/images/zyra_splash_uncentered_64.skins_zyra_skin64.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zyra/skins/skin64/zyraloadscreen_64.skins_zyra_skin64.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Spirit Blossom Zyra"
+        }
+    ]
+}

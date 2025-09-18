@@ -1,0 +1,46 @@
+{
+    "id": 72,
+    "name": "上古领主",
+    "skins": [
+        {
+            "name": "沙暴巨蝎 斯卡纳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/skarner/skins/skin01/images/skarner_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/skarner/skins/skin01/skarnerloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Sandscourge Skarner"
+        },
+        {
+            "name": "远土之灵 斯卡纳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/skarner/skins/skin02/images/skarner_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/skarner/skins/skin02/skarnerloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Earthrune Skarner"
+        },
+        {
+            "name": "战地机甲 斯卡纳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/skarner/skins/skin03/images/skarner_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/skarner/skins/skin03/skarnerloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Battlecast Alpha Skarner"
+        },
+        {
+            "name": "沙之守护 斯卡纳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/skarner/skins/skin04/images/skarner_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/skarner/skins/skin04/skarnerloadscreen_4.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Guardian of the Sands Skarner"
+        },
+        {
+            "name": "天蝎星神 斯卡纳",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/skarner/skins/skin05/images/skarner_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/skarner/skins/skin05/skarnerloadscreen_5.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Cosmic Sting Skarner"
+        }
+    ]
+}

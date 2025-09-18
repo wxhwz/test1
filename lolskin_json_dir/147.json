@@ -1,0 +1,70 @@
+{
+    "id": 147,
+    "name": "星籁歌姬",
+    "skins": [
+        {
+            "name": "K/DA ALL OUT 萨勒芬妮 独立音乐人",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin01/images/seraphine_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin01/seraphineloadscreen_1.jpg",
+            "rarity": "kUltimate",
+            "regionRarityId": 9,
+            "name_en": "K/DA ALL OUT Seraphine Indie"
+        },
+        {
+            "name": "神凰行者 幽羽玄凰 萨勒芬妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin04/images/seraphine_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin04/seraphineloadscreen_4.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Graceful Phoenix Seraphine"
+        },
+        {
+            "name": "海之歌 萨勒芬妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin14/images/seraphine_splash_uncentered_14.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin14/seraphineloadscreen_14.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Ocean Song Seraphine"
+        },
+        {
+            "name": "至臻 海之歌 萨勒芬妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin15/images/seraphine_splash_uncentered_15.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin15/seraphineloadscreen_15.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 8,
+            "name_en": "Prestige Ocean Song Seraphine"
+        },
+        {
+            "name": "花仙子 萨勒芬妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin24/images/seraphine_splash_uncentered_24.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin24/seraphineloadscreen_24.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Faerie Court Seraphine"
+        },
+        {
+            "name": "星之守护者 萨勒芬妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin34/images/seraphine_splash_uncentered_34.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin34/seraphineloadscreen_34.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Star Guardian Seraphine"
+        },
+        {
+            "name": "幻灵白鸽 萨勒芬妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin43/images/seraphine_splash_uncentered_43.skins_seraphine_skin43.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin43/seraphineloadscreen_43.skins_seraphine_skin43.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Battle Dove Seraphine"
+        },
+        {
+            "name": "点心宝贝 萨勒芬妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin50/images/seraphine_splash_uncentered_50.skins_seraphine_skin50.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/seraphine/skins/skin50/seraphineloadscreen_50.skins_seraphine_skin50.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Dumpling Darlings Seraphine"
+        }
+    ]
+}

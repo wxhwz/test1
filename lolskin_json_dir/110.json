@@ -1,0 +1,126 @@
+{
+    "id": 110,
+    "name": "惩戒之箭",
+    "skins": [
+        {
+            "name": "夜魔水晶 韦鲁斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin01/images/varus_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin01/varusloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Blight Crystal Varus"
+        },
+        {
+            "name": "苍穹之光 韦鲁斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin02/images/varus_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin02/varusloadscreen_2.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Arclight Varus"
+        },
+        {
+            "name": "白色死神 韦鲁斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin03/images/varus_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin03/varusloadscreen_3.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Arctic Ops Varus"
+        },
+        {
+            "name": "觅心射手 韦鲁斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin04/images/varus_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin04/varusloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Heartseeker Varus"
+        },
+        {
+            "name": "韦鲁斯·迅箭",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin05/images/varus_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin05/varusloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Varus Swiftbolt"
+        },
+        {
+            "name": "暗星 韦鲁斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin06/images/varus_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin06/varusloadscreen_6.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Dark Star Varus"
+        },
+        {
+            "name": "征服者 韦鲁斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin07/images/varus_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin07/varusloadscreen_7.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Conqueror Varus"
+        },
+        {
+            "name": "地狱火 韦鲁斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin09/images/varus_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin09/varusloadscreen_9.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Infernal Varus"
+        },
+        {
+            "name": "源计划：天眼 韦鲁斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin16/images/varus_splash_uncentered_16.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin16/varusloadscreen_16.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "PROJECT: Varus"
+        },
+        {
+            "name": "猎户星神 韦鲁斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin17/images/varus_splash_uncentered_17.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin17/varusloadscreen_17.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Cosmic Hunter Varus"
+        },
+        {
+            "name": "西部魔影 天使 韦鲁斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin34/images/varus_splash_uncentered_34.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin34/varusloadscreen_34.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "High Noon Varus"
+        },
+        {
+            "name": "净雪之月 韦鲁斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin44/images/varus_splash_uncentered_44.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin44/varusloadscreen_44.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Snow Moon Varus"
+        },
+        {
+            "name": "至高天 韦鲁斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin53/images/varus_splash_uncentered_53.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin53/varusloadscreen_53.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Empyrean Varus"
+        },
+        {
+            "name": "灵魂莲华 韦鲁斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin60/images/varus_splash_uncentered_60.skins_varus_skin60.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin60/varusloadscreen_60.skins_varus_skin60.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Spirit Blossom Varus"
+        },
+        {
+            "name": "T1 韦鲁斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin69/images/varus_splash_uncentered_69.skins_varus_skin69.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/varus/skins/skin69/varusloadscreen_69.skins_varus_skin69.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "T1 Varus"
+        }
+    ]
+}

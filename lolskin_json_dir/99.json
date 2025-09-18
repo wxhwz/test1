@@ -1,0 +1,174 @@
+{
+    "id": 99,
+    "name": "光辉女郎",
+    "skins": [
+        {
+            "name": "奥术光辉 拉克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin01/images/lux_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin01/luxloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Sorceress Lux"
+        },
+        {
+            "name": "游侠法师 拉克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin02/images/lux_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin02/luxloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Spellthief Lux"
+        },
+        {
+            "name": "ODST地狱伞兵 拉克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin03/images/lux_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin03/luxloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Commando Lux"
+        },
+        {
+            "name": "星际迷航 拉克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin04/images/lux_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin04/luxloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Imperial Lux"
+        },
+        {
+            "name": "钢铁军团 拉克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin05/images/lux_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin05/luxloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Steel Legion Lux"
+        },
+        {
+            "name": "星之守护者 拉克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin06/images/lux_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin06/luxloadscreen_6.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Star Guardian Lux"
+        },
+        {
+            "name": "大元素使 拉克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin07/images/lux_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin07/luxloadscreen_7.jpg",
+            "rarity": "kUltimate",
+            "regionRarityId": 9,
+            "name_en": "Elementalist Lux"
+        },
+        {
+            "name": "春晖神女 拉克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin08/images/lux_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin08/luxloadscreen_8.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Lunar Empress Lux"
+        },
+        {
+            "name": "睡衣守护者 拉克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin14/images/lux_splash_uncentered_14.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin14/luxloadscreen_14.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Pajama Guardian Lux"
+        },
+        {
+            "name": "战斗学院 拉克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin15/images/lux_splash_uncentered_15.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin15/luxloadscreen_15.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Battle Academia Lux"
+        },
+        {
+            "name": "至臻 战斗学院 拉克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin16/images/lux_splash_uncentered_16.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin16/luxloadscreen_16.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Battle Academia Lux"
+        },
+        {
+            "name": "暗星女王 拉克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin17/images/lux_splash_uncentered_17.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin17/luxloadscreen_17.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Dark Cosmic Lux"
+        },
+        {
+            "name": "耀星女神 拉克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin18/images/lux_splash_uncentered_18.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin18/luxloadscreen_18.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Cosmic Lux"
+        },
+        {
+            "name": "太空律动 “闪耀灯球” 拉克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin19/images/lux_splash_uncentered_19.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin19/luxloadscreen_19.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Space Groove Lux"
+        },
+        {
+            "name": "青花瓷 拉克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin29/images/lux_splash_uncentered_29.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin29/luxloadscreen_29.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Porcelain Lux"
+        },
+        {
+            "name": "斗魂觉醒 拉克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin38/images/lux_splash_uncentered_38.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin38/luxloadscreen_38.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Soul Fighter Lux"
+        },
+        {
+            "name": "至臻 战斗学院 拉克丝 (2022)",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin16/images/lux_splash_uncentered_16.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin39/luxloadscreen_39.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Battle Academia Lux"
+        },
+        {
+            "name": "至臻 青花瓷 拉克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin40/images/lux_splash_uncentered_40.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin40/luxloadscreen_40.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Porcelain Lux"
+        },
+        {
+            "name": "至高天 拉克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin42/images/lux_splash_uncentered_42.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin42/luxloadscreen_42.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Empyrean Lux"
+        },
+        {
+            "name": "花仙子 拉克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin61/images/lux_splash_uncentered_61.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin61/luxloadscreen_61.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Faerie Court Lux"
+        },
+        {
+            "name": "至臻 灵魂莲华 拉克丝",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin70/images/lux_splash_uncentered_70.skins_lux_skin70.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin70/luxloadscreen_70.skins_lux_skin70.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Spirit Blossom Lux"
+        }
+    ]
+}

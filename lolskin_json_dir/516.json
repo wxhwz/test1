@@ -1,0 +1,38 @@
+{
+    "id": 516,
+    "name": "山隐之焰",
+    "skins": [
+        {
+            "name": "雷霆领主 奥恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ornn/skins/skin01/images/ornn_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ornn/skins/skin01/ornnloadscreen_1.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Thunder Lord Ornn"
+        },
+        {
+            "name": "永恒之森 奥恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ornn/skins/skin02/images/ornn_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ornn/skins/skin02/ornnloadscreen_2.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Elderwood Ornn"
+        },
+        {
+            "name": "太空律动 “创乐之神” 奥恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ornn/skins/skin11/images/ornn_splash_uncentered_11.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ornn/skins/skin11/ornnloadscreen_11.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Space Groove Ornn"
+        },
+        {
+            "name": "嘟！嘟 ！奥恩",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ornn/skins/skin20/images/ornn_splash_uncentered_20.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ornn/skins/skin20/ornnloadscreen_20.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Choo-Choo Ornn"
+        }
+    ]
+}

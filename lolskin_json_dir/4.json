@@ -1,0 +1,134 @@
+{
+    "id": 4,
+    "name": "卡牌大师",
+    "skins": [
+        {
+            "name": "蓝色忧郁 崔斯特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin01/images/twistedfate_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin01/twistedfateloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "PAX Twisted Fate"
+        },
+        {
+            "name": "红桃杰克 崔斯特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin02/images/twistedfate_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin02/twistedfateloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Jack of Hearts Twisted Fate"
+        },
+        {
+            "name": "魔幻卡牌 崔斯特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin03/images/twistedfate_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin03/twistedfateloadscreen_3.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "The Magnificent Twisted Fate"
+        },
+        {
+            "name": "探戈灵魂 崔斯特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin04/images/twistedfate_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin04/twistedfateloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Tango Twisted Fate"
+        },
+        {
+            "name": "西部牛仔 崔斯特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin05/images/twistedfate_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin05/twistedfateloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 3,
+            "name_en": "High Noon Twisted Fate"
+        },
+        {
+            "name": "皇家火枪手 崔斯特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin06/images/twistedfate_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin06/twistedfateloadscreen_6.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Musketeer Twisted Fate"
+        },
+        {
+            "name": "地底世界 崔斯特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin07/images/twistedfate_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin07/twistedfateloadscreen_7.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Underworld Twisted Fate"
+        },
+        {
+            "name": "逆转裁判 崔斯特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin08/images/twistedfate_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin08/twistedfateloadscreen_8.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Red Card Twisted Fate"
+        },
+        {
+            "name": "逍遥赌侠 崔斯特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin09/images/twistedfate_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin09/twistedfateloadscreen_9.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Cutpurse Twisted Fate"
+        },
+        {
+            "name": "腥红之月 崔斯特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin10/images/twistedfate_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin10/twistedfateloadscreen_10.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Blood Moon Twisted Fate"
+        },
+        {
+            "name": "未来战士 崔斯特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin11/images/twistedfate_splash_uncentered_11.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin11/twistedfateloadscreen_11.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Pulsefire Twisted Fate"
+        },
+        {
+            "name": "奥德赛 崔斯特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin13/images/twistedfate_splash_uncentered_13.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin13/twistedfateloadscreen_13.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Odyssey Twisted Fate"
+        },
+        {
+            "name": "DWG 崔斯特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin23/images/twistedfate_splash_uncentered_23.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin23/twistedfateloadscreen_23.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "DWG Twisted Fate"
+        },
+        {
+            "name": "地下都市 梦魇 崔斯特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin25/images/twistedfate_splash_uncentered_25.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin25/twistedfateloadscreen_25.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Crime City Nightmare Twisted Fate"
+        },
+        {
+            "name": "太空律动 “万能舞王” 崔斯特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin36/images/twistedfate_splash_uncentered_36.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin36/twistedfateloadscreen_36.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Space Groove Twisted Fate"
+        },
+        {
+            "name": "胜利之运 崔斯特",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin45/images/twistedfate_splash_uncentered_45.skins_twistedfate_skin45.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/twistedfate/skins/skin45/twistedfateloadscreen_45.skins_twistedfate_skin45.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Victorious Twisted Fate"
+        }
+    ]
+}

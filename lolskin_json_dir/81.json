@@ -1,0 +1,174 @@
+{
+    "id": 81,
+    "name": "探险家",
+    "skins": [
+        {
+            "name": "冒险精神 伊泽瑞尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin01/images/ezreal_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin01/ezrealloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Nottingham Ezreal"
+        },
+        {
+            "name": "足球先生 伊泽瑞尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin02/images/ezreal_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin02/ezrealloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Striker Ezreal"
+        },
+        {
+            "name": "冰川勇者 伊泽瑞尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin03/images/ezreal_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin03/ezrealloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Frosted Ezreal"
+        },
+        {
+            "name": "失落的世界 伊泽瑞尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin04/images/ezreal_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin04/ezrealloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Explorer Ezreal"
+        },
+        {
+            "name": "未来战士 伊泽瑞尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin05/images/ezreal_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin05/ezrealloadscreen_5.jpg",
+            "rarity": "kUltimate",
+            "regionRarityId": 9,
+            "name_en": "Pulsefire Ezreal"
+        },
+        {
+            "name": "暗杀星 伊泽瑞尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin06/images/ezreal_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin06/ezrealloadscreen_6.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "TPA Ezreal"
+        },
+        {
+            "name": "光执事 伊泽瑞尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin07/images/ezreal_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin07/ezrealloadscreen_7.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Debonair Ezreal"
+        },
+        {
+            "name": "黑桃皇牌 伊泽瑞尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin08/images/ezreal_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin08/ezrealloadscreen_8.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Ace of Spades Ezreal"
+        },
+        {
+            "name": "电玩勇者 伊泽瑞尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin09/images/ezreal_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin09/ezrealloadscreen_9.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Arcade Ezreal"
+        },
+        {
+            "name": "星之守护者 伊泽瑞尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin18/images/ezreal_splash_uncentered_18.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin18/ezrealloadscreen_18.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Star Guardian Ezreal"
+        },
+        {
+            "name": "SSG 伊泽瑞尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin19/images/ezreal_splash_uncentered_19.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin19/ezrealloadscreen_19.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "SSG Ezreal"
+        },
+        {
+            "name": "睡衣守护者 伊泽瑞尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin20/images/ezreal_splash_uncentered_20.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin20/ezrealloadscreen_20.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Pajama Guardian Ezreal"
+        },
+        {
+            "name": "战斗学院 伊泽瑞尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin21/images/ezreal_splash_uncentered_21.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin21/ezrealloadscreen_21.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Battle Academia Ezreal"
+        },
+        {
+            "name": "灵能特工 伊泽瑞尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin22/images/ezreal_splash_uncentered_22.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin22/ezrealloadscreen_22.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "PsyOps Ezreal"
+        },
+        {
+            "name": "至臻 灵能特工 伊泽瑞尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin23/images/ezreal_splash_uncentered_23.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin23/ezrealloadscreen_23.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige PsyOps Ezreal"
+        },
+        {
+            "name": "青花瓷 伊泽瑞尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin25/images/ezreal_splash_uncentered_25.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin25/ezrealloadscreen_25.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Porcelain Protector Ezreal"
+        },
+        {
+            "name": "花仙贵族 伊泽瑞尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin33/images/ezreal_splash_uncentered_33.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin33/ezrealloadscreen_33.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Faerie Court Ezreal"
+        },
+        {
+            "name": "心之钢 伊泽瑞尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin43/images/ezreal_splash_uncentered_43.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin43/ezrealloadscreen_43.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "HEARTSTEEL Ezreal"
+        },
+        {
+            "name": "天龙之子 伊泽瑞尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin44/images/ezreal_splash_uncentered_44.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin44/ezrealloadscreen_44.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Heavenscale Ezreal"
+        },
+        {
+            "name": "至臻 天龙之子 伊泽瑞尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin54/images/ezreal_splash_uncentered_54.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin54/ezrealloadscreen_54.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Heavenscale Ezreal"
+        },
+        {
+            "name": "黑色玫瑰假面舞会 伊泽瑞尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin65/images/ezreal_splash_uncentered_65.skins_ezreal_skin65.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ezreal/skins/skin65/ezrealloadscreen_65.skins_ezreal_skin65.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Masque of the Black Rose Ezreal"
+        }
+    ]
+}

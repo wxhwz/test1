@@ -1,0 +1,14 @@
+{
+    "id": 799,
+    "name": "铁血狼母",
+    "skins": [
+        {
+            "name": "狼神英灵 安蓓萨",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ambessa/skins/skin01/images/ambessa_splash_uncentered_1.matcha_ambessa.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ambessa/skins/skin01/ambessaloadscreen_1.matcha_ambessa.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Chosen of the Wolf Ambessa"
+        }
+    ]
+}

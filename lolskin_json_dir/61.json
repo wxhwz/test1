@@ -1,0 +1,102 @@
+{
+    "id": 61,
+    "name": "发条魔灵",
+    "skins": [
+        {
+            "name": "哥特女仆 奥莉安娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin01/images/orianna_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin01/oriannaloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Gothic Orianna"
+        },
+        {
+            "name": "恶灵布偶 奥莉安娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin02/images/orianna_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin02/oriannaloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Sewn Chaos Orianna"
+        },
+        {
+            "name": "灵骨工匠 奥莉安娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin03/images/orianna_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin03/oriannaloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Bladecraft Orianna"
+        },
+        {
+            "name": "暗杀星 奥莉安娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin04/images/orianna_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin04/oriannaloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "TPA Orianna"
+        },
+        {
+            "name": "冬季仙境 奥莉安娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin05/images/orianna_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin05/oriannaloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Winter Wonder Orianna"
+        },
+        {
+            "name": "觅心魔灵 奥莉安娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin06/images/orianna_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin06/oriannaloadscreen_6.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Heartseeker Orianna"
+        },
+        {
+            "name": "暗星 奥莉安娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin07/images/orianna_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin07/oriannaloadscreen_7.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Dark Star Orianna"
+        },
+        {
+            "name": "胜利女神 奥莉安娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin08/images/orianna_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin08/oriannaloadscreen_8.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Victorious Orianna"
+        },
+        {
+            "name": "泳池派对 奥莉安娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin11/images/orianna_splash_uncentered_11.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin11/oriannaloadscreen_11.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Pool Party Orianna"
+        },
+        {
+            "name": "小蜜蜂 奥莉安娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin20/images/orianna_splash_uncentered_20.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin20/oriannaloadscreen_20.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Orbeeanna"
+        },
+        {
+            "name": "星之守护者 奥莉安娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin29/images/orianna_splash_uncentered_29.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin29/oriannaloadscreen_29.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Star Guardian Orianna"
+        },
+        {
+            "name": "T1 奥莉安娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin38/images/orianna_splash_uncentered_38.skins_orianna_skin38.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/orianna/skins/skin38/oriannaloadscreen_38.skins_orianna_skin38.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "T1 Orianna"
+        }
+    ]
+}

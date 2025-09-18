@@ -1,0 +1,94 @@
+{
+    "id": 9,
+    "name": "远古恐惧",
+    "skins": [
+        {
+            "name": "幽魂 费德提克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin01/images/fiddlesticks_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin01/fiddlesticksloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Spectral Fiddlesticks"
+        },
+        {
+            "name": "联合王国 费德提克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin02/images/fiddlesticks_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin02/fiddlesticksloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Union Jack Fiddlesticks"
+        },
+        {
+            "name": "荒野幽灵 费德提克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin03/images/fiddlesticks_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin03/fiddlesticksloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Bandito Fiddlesticks"
+        },
+        {
+            "name": "南瓜头 费德提克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin04/images/fiddlesticks_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin04/fiddlesticksloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Pumpkinhead Fiddlesticks"
+        },
+        {
+            "name": "铁钩船长 费德提克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin05/images/fiddlesticks_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin05/fiddlesticksloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Fiddle Me Timbers"
+        },
+        {
+            "name": "惊悚派对 费德提克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin06/images/fiddlesticks_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin06/fiddlesticksloadscreen_6.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Surprise Party Fiddlesticks"
+        },
+        {
+            "name": "糖果使徒 费德提克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin07/images/fiddlesticks_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin07/fiddlesticksloadscreen_7.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Dark Candy Fiddlesticks"
+        },
+        {
+            "name": "重生之沙 费德提克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin08/images/fiddlesticks_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin08/fiddlesticksloadscreen_8.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Risen Fiddlesticks"
+        },
+        {
+            "name": "禁卫机甲 费德提克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin09/images/fiddlesticks_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin09/fiddlesticksloadscreen_9.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Praetorian Fiddlesticks"
+        },
+        {
+            "name": "星之吞噬者 费德提克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin27/images/fiddlesticks_splash_uncentered_27.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin27/fiddlesticksloadscreen_27.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Star Nemesis Fiddlesticks"
+        },
+        {
+            "name": "腥红之月 费德提克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin37/images/fiddlesticks_splash_uncentered_37.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/fiddlesticks/skins/skin37/fiddlesticksloadscreen_37.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Blood Moon Fiddlesticks"
+        }
+    ]
+}

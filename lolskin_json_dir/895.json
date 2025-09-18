@@ -1,0 +1,30 @@
+{
+    "id": 895,
+    "name": "不羁之悦",
+    "skins": [
+        {
+            "name": "星之守护者 尼菈",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nilah/skins/skin01/images/nilah_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nilah/skins/skin01/nilahloadscreen_1.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Star Guardian Nilah"
+        },
+        {
+            "name": "魔女 尼菈",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nilah/skins/skin11/images/nilah_splash_uncentered_11.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nilah/skins/skin11/nilahloadscreen_11.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Coven Nilah"
+        },
+        {
+            "name": "墨之影 尼菈",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nilah/skins/skin21/images/nilah_splash_uncentered_21.skins_nilah_skin21.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nilah/skins/skin21/nilahloadscreen_21.skins_nilah_skin21.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Inkshadow Nilah"
+        }
+    ]
+}

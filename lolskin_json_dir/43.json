@@ -1,0 +1,126 @@
+{
+    "id": 43,
+    "name": "天启者",
+    "skins": [
+        {
+            "name": "日冕女神 卡尔玛",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin01/images/karma_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin01/karmaloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Sun Goddess Karma"
+        },
+        {
+            "name": "樱花乱舞 卡尔玛",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin02/images/karma_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin02/karmaloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Sakura Karma"
+        },
+        {
+            "name": "传统服饰 卡尔玛",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin03/images/karma_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin03/karmaloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Traditional Karma"
+        },
+        {
+            "name": "莲花之令 卡尔玛",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin04/images/karma_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin04/karmaloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Order of the Lotus Karma"
+        },
+        {
+            "name": "光明骑士 卡尔玛",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin05/images/karma_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin05/karmaloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Warden Karma"
+        },
+        {
+            "name": "冬季仙境 卡尔玛",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin06/images/karma_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin06/karmaloadscreen_6.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Winter Wonder Karma"
+        },
+        {
+            "name": "征服者 卡尔玛",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin07/images/karma_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin07/karmaloadscreen_7.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Conqueror Karma"
+        },
+        {
+            "name": "暗星 卡尔玛",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin08/images/karma_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin08/karmaloadscreen_8.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Dark Star Karma"
+        },
+        {
+            "name": "黎明使者 卡尔玛",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin19/images/karma_splash_uncentered_19.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin19/karmaloadscreen_19.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Dawnbringer Karma"
+        },
+        {
+            "name": "奥德赛 卡尔玛",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin26/images/karma_splash_uncentered_26.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin26/karmaloadscreen_26.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Odyssey Karma"
+        },
+        {
+            "name": "破败军团 卡尔玛",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin27/images/karma_splash_uncentered_27.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin27/karmaloadscreen_27.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Ruined Karma"
+        },
+        {
+            "name": "神龙尊者 宁静之龙 卡尔玛",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin44/images/karma_splash_uncentered_44.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin44/karmaloadscreen_44.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Tranquility Dragon Karma"
+        },
+        {
+            "name": "花仙女王 卡尔玛",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin54/images/karma_splash_uncentered_54.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin54/karmaloadscreen_54.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Faerie Queen Karma"
+        },
+        {
+            "name": "地狱火 卡尔玛",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin61/images/karma_splash_uncentered_61.skins_karma_skin61.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin61/karmaloadscreen_61.skins_karma_skin61.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Infernal Karma"
+        },
+        {
+            "name": "灵魂莲华 卡尔玛",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin70/images/karma_splash_uncentered_70.skins_karma_skin70.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/karma/skins/skin70/karmaloadscreen_70.skins_karma_skin70.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Spirit Blossom Karma"
+        }
+    ]
+}

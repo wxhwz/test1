@@ -1,0 +1,62 @@
+{
+    "id": 44,
+    "name": "瓦洛兰之盾",
+    "skins": [
+        {
+            "name": "绿水晶光辉 塔里克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/taric/skins/skin01/images/taric_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/taric/skins/skin01/taricloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Emerald Taric"
+        },
+        {
+            "name": "紫水晶意志 塔里克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/taric/skins/skin02/images/taric_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/taric/skins/skin02/taricloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Armor of the Fifth Age Taric"
+        },
+        {
+            "name": "血石诅咒 塔里克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/taric/skins/skin03/images/taric_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/taric/skins/skin03/taricloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Bloodstone Taric"
+        },
+        {
+            "name": "泳池派对 塔里克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/taric/skins/skin04/images/taric_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/taric/skins/skin04/taricloadscreen_4.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Pool Party Taric"
+        },
+        {
+            "name": "塔里克 · 辉盾",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/taric/skins/skin09/images/taric_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/taric/skins/skin09/taricloadscreen_9.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Taric Luminshield"
+        },
+        {
+            "name": "太空律动 “爱乐之子” 塔里克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/taric/skins/skin18/images/taric_splash_uncentered_18.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/taric/skins/skin18/taricloadscreen_18.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Space Groove Taric"
+        },
+        {
+            "name": "逆命 塔里克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/taric/skins/skin27/images/taric_splash_uncentered_27.skins_taric_skin27.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/taric/skins/skin27/taricloadscreen_27.skins_taric_skin27.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Fatebreaker Taric"
+        }
+    ]
+}

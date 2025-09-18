@@ -1,0 +1,158 @@
+{
+    "id": 22,
+    "name": "寒冰射手",
+    "skins": [
+        {
+            "name": "极地女神 艾希",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin01/images/ashe_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin01/asheloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Freljord Ashe"
+        },
+        {
+            "name": "丛林侠盗 艾希",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin02/images/ashe_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin02/asheloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Sherwood Forest Ashe"
+        },
+        {
+            "name": "勇敢的心 艾希",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin03/images/ashe_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin03/asheloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Woad Ashe"
+        },
+        {
+            "name": "女皇 艾希",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin04/images/ashe_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin04/asheloadscreen_4.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Queen Ashe"
+        },
+        {
+            "name": "紫晶射手 艾希",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin05/images/ashe_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin05/asheloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Amethyst Ashe"
+        },
+        {
+            "name": "觅心女王 艾希",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin06/images/ashe_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin06/asheloadscreen_6.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Heartseeker Ashe"
+        },
+        {
+            "name": "黑暗骑士 艾希",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin07/images/ashe_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin07/asheloadscreen_7.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Marauder Ashe"
+        },
+        {
+            "name": "源计划：联合 艾希",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin08/images/ashe_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin08/asheloadscreen_8.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "PROJECT: Ashe"
+        },
+        {
+            "name": "冠军之箭 艾希",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin09/images/ashe_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin09/asheloadscreen_9.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Worlds 2017 Ashe"
+        },
+        {
+            "name": "御星魔矢 艾希",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin11/images/ashe_splash_uncentered_11.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin11/asheloadscreen_11.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Cosmic Queen Ashe"
+        },
+        {
+            "name": "西部天使 艾希",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin17/images/ashe_splash_uncentered_17.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin17/asheloadscreen_17.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "High Noon Ashe"
+        },
+        {
+            "name": "神龙尊者 苍龙艾希",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin23/images/ashe_splash_uncentered_23.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin23/asheloadscreen_23.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Fae Dragon Ashe"
+        },
+        {
+            "name": "魔女 艾希",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin32/images/ashe_splash_uncentered_32.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin32/asheloadscreen_32.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Coven Ashe"
+        },
+        {
+            "name": "海之歌 艾希",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin43/images/ashe_splash_uncentered_43.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin43/asheloadscreen_43.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Ocean Song Ashe"
+        },
+        {
+            "name": "春晖神女 艾希",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin52/images/ashe_splash_uncentered_52.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin52/asheloadscreen_52.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Lunar Empress Ashe"
+        },
+        {
+            "name": "DRX 艾希",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin63/images/ashe_splash_uncentered_63.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin63/asheloadscreen_63.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "DRX Ashe"
+        },
+        {
+            "name": "水晶圣骑 艾希",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin65/images/ashe_splash_uncentered_65.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin65/asheloadscreen_65.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Crystalis Motus Ashe"
+        },
+        {
+            "name": "地狱火 艾希",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin67/images/ashe_splash_uncentered_67.skins_ashe_skin67.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin67/asheloadscreen_67.skins_ashe_skin67.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Infernal Ashe"
+        },
+        {
+            "name": "灵魂莲华 艾希",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin76/images/ashe_splash_uncentered_76.skins_ashe_skin76.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ashe/skins/skin76/asheloadscreen_76.skins_ashe_skin76.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Spirit Blossom Ashe"
+        }
+    ]
+}

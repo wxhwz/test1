@@ -1,0 +1,134 @@
+{
+    "id": 86,
+    "name": "德玛西亚之力",
+    "skins": [
+        {
+            "name": "战神阿瑞斯 盖伦",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin01/images/garen_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin01/garenloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Sanguine Garen"
+        },
+        {
+            "name": "黄金骑士 盖伦",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin02/images/garen_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin02/garenloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Desert Trooper Garen"
+        },
+        {
+            "name": "铁甲雄心 盖伦",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin03/images/garen_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin03/garenloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Commando Garen"
+        },
+        {
+            "name": "死亡骑士 盖伦",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin04/images/garen_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin04/garenloadscreen_4.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Dreadknight Garen"
+        },
+        {
+            "name": "孤高游侠 盖伦",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin05/images/garen_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin05/garenloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Rugged Garen"
+        },
+        {
+            "name": "钢铁军团 盖伦",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin06/images/garen_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin06/garenloadscreen_6.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Steel Legion Garen"
+        },
+        {
+            "name": "海上霸主 盖伦",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin10/images/garen_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin10/garenloadscreen_10.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Rogue Admiral Garen"
+        },
+        {
+            "name": "张辽 文远",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin11/images/garen_splash_uncentered_11.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin11/garenloadscreen_11.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Warring Kingdoms Garen"
+        },
+        {
+            "name": "神王 盖伦",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin13/images/garen_splash_uncentered_13.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin13/garenloadscreen_13.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "God-King Garen"
+        },
+        {
+            "name": "德玛西亚警官 盖伦",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin14/images/garen_splash_uncentered_14.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin14/garenloadscreen_14.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Demacia Vice Garen"
+        },
+        {
+            "name": "王国机神玄武 盖伦",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin22/images/garen_splash_uncentered_22.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin22/garenloadscreen_22.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Mecha Kingdoms Garen"
+        },
+        {
+            "name": "至臻 王国机神玄武 盖伦",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin23/images/garen_splash_uncentered_23.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin23/garenloadscreen_23.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Mecha Kingdoms Garen"
+        },
+        {
+            "name": "战斗学院 盖伦",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin24/images/garen_splash_uncentered_24.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin24/garenloadscreen_24.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Battle Academia Garen"
+        },
+        {
+            "name": "剪纸仙灵 盖伦",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin33/images/garen_splash_uncentered_33.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin33/garenloadscreen_33.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Mythmaker Garen"
+        },
+        {
+            "name": "堕落神王 盖伦",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin44/images/garen_splash_uncentered_44.skins_garen_skin44.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin44/garenloadscreen_44.skins_garen_skin44.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Fallen God-King Garen"
+        },
+        {
+            "name": "暗裔英雄 盖伦",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin46/images/garen_splash_uncentered_46.skins_garen_skin46.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin46/garenloadscreen_46.skins_garen_skin46.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Visions of the Fallen Garen"
+        }
+    ]
+}

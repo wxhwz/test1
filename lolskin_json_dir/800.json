@@ -1,0 +1,14 @@
+{
+    "id": 800,
+    "name": "流光镜影",
+    "skins": [
+        {
+            "name": "皮城议员 梅尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin01/images/mel_splash_uncentered_1.mel.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/mel/skins/skin01/melloadscreen_1.mel.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Arcane Councilor Mel"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "id": 7,
+    "name": "诡术妖姬",
+    "skins": [
+        {
+            "name": "潮流女王 乐芙兰",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin01/images/leblanc_splash_uncentered_1.leblanc_rework.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin01/leblancloadscreen_1.leblanc_rework.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Wicked LeBlanc"
+        },
+        {
+            "name": "社会名流 乐芙兰",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin02/images/leblanc_splash_uncentered_2.leblanc_rework.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin02/leblancloadscreen_2.leblanc_rework.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Prestigious LeBlanc"
+        },
+        {
+            "name": "幸福女神 乐芙兰",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin03/images/leblanc_splash_uncentered_3.leblanc_rework.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin03/leblancloadscreen_3.leblanc_rework.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Mistletoe LeBlanc"
+        },
+        {
+            "name": "邪鸦魅影 乐芙兰",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin04/images/leblanc_splash_uncentered_4.leblanc_rework.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin04/leblancloadscreen_4.leblanc_rework.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Ravenborn LeBlanc"
+        },
+        {
+            "name": "永恒之森 乐芙兰",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin05/images/leblanc_splash_uncentered_5.leblanc_rework.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin05/leblancloadscreen_5.leblanc_rework.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Elderwood LeBlanc"
+        },
+        {
+            "name": "源代码 乐芙兰",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin12/images/leblanc_splash_uncentered_12.leblanc_rework.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin12/leblancloadscreen_12.leblanc_rework.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Program LeBlanc"
+        },
+        {
+            "name": "iG 乐芙兰",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin19/images/leblanc_splash_uncentered_19.leblanc_rework.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin19/leblancloadscreen_19.leblanc_rework.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "iG LeBlanc"
+        },
+        {
+            "name": "魔女 乐芙兰",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin20/images/leblanc_splash_uncentered_20.leblanc_rework.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin20/leblancloadscreen_20.leblanc_rework.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Coven LeBlanc"
+        },
+        {
+            "name": "冠军蔷薇 乐芙兰",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin29/images/leblanc_splash_uncentered_29.leblanc_rework.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin29/leblancloadscreen_29.leblanc_rework.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Worlds 2020 LeBlanc"
+        },
+        {
+            "name": "至臻 魔女 乐芙兰",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin33/images/leblanc_splash_uncentered_33.leblanc_rework.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin33/leblancloadscreen_33.leblanc_rework.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Coven LeBlanc"
+        },
+        {
+            "name": "幻执事 乐芙兰",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin35/images/leblanc_splash_uncentered_35.leblanc_rework.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin35/leblancloadscreen_35.leblanc_rework.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Debonair LeBlanc"
+        },
+        {
+            "name": "魅惑女巫 乐芙兰",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin45/images/leblanc_splash_uncentered_45.leblanc_rework.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin45/leblancloadscreen_45.leblanc_rework.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Bewitching LeBlanc"
+        },
+        {
+            "name": "殿堂传奇 乐芙兰",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin55/images/leblanc_splash_uncentered_55.leblanc_rework.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leblanc/skins/skin55/leblancloadscreen_55.leblanc_rework.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Risen Legend LeBlanc"
+        }
+    ]
+}

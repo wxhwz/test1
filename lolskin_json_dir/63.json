@@ -1,0 +1,102 @@
+{
+    "id": 63,
+    "name": "复仇焰魂",
+    "skins": [
+        {
+            "name": "末日余生 布兰德",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin01/images/brand_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin01/brandloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Apocalyptic Brand"
+        },
+        {
+            "name": "V字仇杀者 布兰德",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin02/images/brand_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin02/brandloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Vandal Brand"
+        },
+        {
+            "name": "冰晶之核 布兰德",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin03/images/brand_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin03/brandloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Cryocore Brand"
+        },
+        {
+            "name": "丧尸 布兰德",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin04/images/brand_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin04/brandloadscreen_4.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Zombie Brand"
+        },
+        {
+            "name": "灵魂烈焰 布兰德",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin05/images/brand_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin05/brandloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Spirit Fire Brand"
+        },
+        {
+            "name": "战场BOSS 布兰德",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin06/images/brand_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin06/brandloadscreen_6.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Battle Boss Brand"
+        },
+        {
+            "name": "苍穹之光 布兰德",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin07/images/brand_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin07/brandloadscreen_7.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Arclight Brand"
+        },
+        {
+            "name": "神龙尊者 魔龙布兰德",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin08/images/brand_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin08/brandloadscreen_8.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Eternal Dragon Brand"
+        },
+        {
+            "name": "焰执事 布兰德",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin21/images/brand_splash_uncentered_21.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin21/brandloadscreen_21.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Debonair Brand"
+        },
+        {
+            "name": "至臻 焰执事 布兰德",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin22/images/brand_splash_uncentered_22.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin22/brandloadscreen_22.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Debonair Brand"
+        },
+        {
+            "name": "妖怪艺术家 布兰德",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin33/images/brand_splash_uncentered_33.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin33/brandloadscreen_33.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Street Demons Brand"
+        },
+        {
+            "name": "至高天 布兰德",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin42/images/brand_splash_uncentered_42.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/brand/skins/skin42/brandloadscreen_42.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Empyrean Brand"
+        }
+    ]
+}

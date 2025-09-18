@@ -1,0 +1,126 @@
+{
+    "id": 58,
+    "name": "荒漠屠夫",
+    "skins": [
+        {
+            "name": "星河战队 雷克顿",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/skin01/images/renekton_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/skin01/renektonloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Galactic Renekton"
+        },
+        {
+            "name": "荒野之咬 雷克顿",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/skin02/images/renekton_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/skin02/renektonloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Outback Renekton"
+        },
+        {
+            "name": "血石战神 雷克顿",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/skin03/images/renekton_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/skin03/renektonloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Bloodfury Renekton"
+        },
+        {
+            "name": "符文战神 雷克顿",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/skin04/images/renekton_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/skin04/renektonloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Rune Wars Renekton"
+        },
+        {
+            "name": "枯萎之壤 雷克顿",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/skin05/images/renekton_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/skin05/renektonloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Scorched Earth Renekton"
+        },
+        {
+            "name": "泳池派对 雷克顿",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/skin06/images/renekton_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/skin06/renektonloadscreen_6.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Pool Party Renekton"
+        },
+        {
+            "name": "猛龙 雷克顿",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/skin07/images/renekton_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/skin07/renektonloadscreen_7.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Prehistoric Renekton"
+        },
+        {
+            "name": "SKT T1 雷克顿",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/skin08/images/renekton_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/skin08/renektonloadscreen_8.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "SKT T1 Renekton"
+        },
+        {
+            "name": "鳄霸 雷克顿",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/skin09/images/renekton_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/skin09/renektonloadscreen_9.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Renektoy"
+        },
+        {
+            "name": "海克斯科技 雷克顿",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/skin17/images/renekton_splash_uncentered_17.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/skin17/renektonloadscreen_17.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Hextech Renekton"
+        },
+        {
+            "name": "黯晶巨鳄 雷克顿",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/skin18/images/renekton_splash_uncentered_18.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/skin18/renektonloadscreen_18.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Blackfrost Renekton"
+        },
+        {
+            "name": "源计划：泯灭 雷克顿",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/skin26/images/renekton_splash_uncentered_26.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/skin26/renektonloadscreen_26.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "PROJECT: Renekton"
+        },
+        {
+            "name": "黎明使者 雷克顿",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/skin33/images/renekton_splash_uncentered_33.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/skin33/renektonloadscreen_33.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Dawnbringer Renekton"
+        },
+        {
+            "name": "2023 全球总决赛 雷克顿",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/skin42/images/renekton_splash_uncentered_42.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/skin42/renektonloadscreen_42.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Worlds 2023 Renekton"
+        },
+        {
+            "name": "墨之影 雷克顿",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/skin48/images/renekton_splash_uncentered_48.skins_renekton_skin48.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renekton/skins/skin48/renektonloadscreen_48.skins_renekton_skin48.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Inkshadow Renekton"
+        }
+    ]
+}

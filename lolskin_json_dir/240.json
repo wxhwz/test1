@@ -1,0 +1,38 @@
+{
+    "id": 240,
+    "name": "暴怒骑士",
+    "skins": [
+        {
+            "name": "爵士 克烈",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kled/skins/skin01/images/kled_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kled/skins/skin01/kledloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Sir Kled"
+        },
+        {
+            "name": "克烈古拉伯爵",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kled/skins/skin02/images/kled_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kled/skins/skin02/kledloadscreen_2.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Count Kledula"
+        },
+        {
+            "name": "黑暗骑士 克烈",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kled/skins/skin09/images/kled_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kled/skins/skin09/kledloadscreen_9.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Marauder Kled"
+        },
+        {
+            "name": "狗粮克烈",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kled/skins/skin18/images/kled_splash_uncentered_18.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kled/skins/skin18/kledloadscreen_18.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Kibble-Head Kled"
+        }
+    ]
+}

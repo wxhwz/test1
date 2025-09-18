@@ -1,0 +1,78 @@
+{
+    "id": 69,
+    "name": "魔蛇之拥",
+    "skins": [
+        {
+            "name": "荒漠之咬 卡西奥佩娅",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/cassiopeia/skins/skin01/images/cassiopeia_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/cassiopeia/skins/skin01/cassiopeialoadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Desperada Cassiopeia"
+        },
+        {
+            "name": "深海妖姬 卡西奥佩娅",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/cassiopeia/skins/skin02/images/cassiopeia_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/cassiopeia/skins/skin02/cassiopeialoadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Siren Cassiopeia"
+        },
+        {
+            "name": "蛇发女妖 卡西奥佩娅",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/cassiopeia/skins/skin03/images/cassiopeia_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/cassiopeia/skins/skin03/cassiopeialoadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Mythic Cassiopeia"
+        },
+        {
+            "name": "碧玉之牙 卡西奥佩娅",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/cassiopeia/skins/skin04/images/cassiopeia_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/cassiopeia/skins/skin04/cassiopeialoadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Jade Fang Cassiopeia"
+        },
+        {
+            "name": "上古魔蛇 卡西奥佩娅",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/cassiopeia/skins/skin08/images/cassiopeia_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/cassiopeia/skins/skin08/cassiopeialoadscreen_8.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Eternum Cassiopeia"
+        },
+        {
+            "name": "灵魂莲华 卡西奥佩娅",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/cassiopeia/skins/skin09/images/cassiopeia_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/cassiopeia/skins/skin09/cassiopeialoadscreen_9.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Spirit Blossom Cassiopeia"
+        },
+        {
+            "name": "魔女 卡西奥佩娅",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/cassiopeia/skins/skin18/images/cassiopeia_splash_uncentered_18.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/cassiopeia/skins/skin18/cassiopeialoadscreen_18.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Coven Cassiopeia"
+        },
+        {
+            "name": "魅惑女巫 卡西奥佩娅",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/cassiopeia/skins/skin28/images/cassiopeia_splash_uncentered_28.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/cassiopeia/skins/skin28/cassiopeialoadscreen_28.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Bewitching Cassiopeia"
+        },
+        {
+            "name": "至臻 剪纸仙灵 卡西奥佩娅",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/cassiopeia/skins/skin38/images/cassiopeia_splash_uncentered_38.skins_cassiopeia_skin38.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/cassiopeia/skins/skin38/cassiopeialoadscreen_38.skins_cassiopeia_skin38.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Mythmaker Cassiopeia"
+        }
+    ]
+}

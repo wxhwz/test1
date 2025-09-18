@@ -1,0 +1,134 @@
+{
+    "id": 76,
+    "name": "狂野女猎手",
+    "skins": [
+        {
+            "name": "雪装 奈德丽",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin01/images/nidalee_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin01/nidaleeloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Snow Bunny Nidalee"
+        },
+        {
+            "name": "丛林猎豹 奈德丽",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin02/images/nidalee_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin02/nidaleeloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Leopard Nidalee"
+        },
+        {
+            "name": "法国女仆 奈德丽",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin03/images/nidalee_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin03/nidaleeloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "French Maid Nidalee"
+        },
+        {
+            "name": "艳后 奈德丽",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin04/images/nidalee_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin04/nidaleeloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Pharaoh Nidalee"
+        },
+        {
+            "name": "魅惑女巫 奈德丽",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin05/images/nidalee_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin05/nidaleeloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Bewitching Nidalee"
+        },
+        {
+            "name": "铁血猎手 奈德丽",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin06/images/nidalee_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin06/nidaleeloadscreen_6.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Headhunter Nidalee"
+        },
+        {
+            "name": "枭姬 孙尚香",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin07/images/nidalee_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin07/nidaleeloadscreen_7.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Warring Kingdoms Nidalee"
+        },
+        {
+            "name": "勇者 奈德丽",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin08/images/nidalee_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin08/nidaleeloadscreen_8.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Challenger Nidalee"
+        },
+        {
+            "name": "银河魔装机神 奈德丽",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin09/images/nidalee_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin09/nidaleeloadscreen_9.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Super Galaxy Nidalee"
+        },
+        {
+            "name": "黎明使者 奈德丽",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin11/images/nidalee_splash_uncentered_11.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin11/nidaleeloadscreen_11.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Dawnbringer Nidalee"
+        },
+        {
+            "name": "狮子星神 奈德丽",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin18/images/nidalee_splash_uncentered_18.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin18/nidaleeloadscreen_18.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Cosmic Huntress Nidalee"
+        },
+        {
+            "name": "DWG 奈德丽",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin27/images/nidalee_splash_uncentered_27.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin27/nidaleeloadscreen_27.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "DWG Nidalee"
+        },
+        {
+            "name": "海之歌 奈德丽",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin29/images/nidalee_splash_uncentered_29.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin29/nidaleeloadscreen_29.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Ocean Song Nidalee"
+        },
+        {
+            "name": "喵大力",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin39/images/nidalee_splash_uncentered_39.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin39/nidaleeloadscreen_39.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Kittalee"
+        },
+        {
+            "name": "灵之菊 奈德丽",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin48/images/nidalee_splash_uncentered_48.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin48/nidaleeloadscreen_48.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "La Ilusión Nidalee"
+        },
+        {
+            "name": "灵魂莲华 奈德丽",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin58/images/nidalee_splash_uncentered_58.skins_nidalee_skin58.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nidalee/skins/skin58/nidaleeloadscreen_58.skins_nidalee_skin58.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Spirit Blossom Nidalee"
+        }
+    ]
+}

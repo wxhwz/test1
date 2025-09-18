@@ -1,0 +1,78 @@
+{
+    "id": 350,
+    "name": "魔法猫咪",
+    "skins": [
+        {
+            "name": "战斗校长 悠米",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin01/images/yuumi_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin01/yuumiloadscreen_1.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Battle Principal Yuumi"
+        },
+        {
+            "name": "觅心猫猫 悠米",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin11/images/yuumi_splash_uncentered_11.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin11/yuumiloadscreen_11.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Heartseeker Yuumi"
+        },
+        {
+            "name": "小蜜蜂 悠米",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin19/images/yuumi_splash_uncentered_19.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin19/yuumiloadscreen_19.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Yuubee"
+        },
+        {
+            "name": "魅惑女巫 悠米",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin28/images/yuumi_splash_uncentered_28.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin28/yuumiloadscreen_28.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Bewitching Yuumi"
+        },
+        {
+            "name": "EDG 悠米",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin37/images/yuumi_splash_uncentered_37.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin37/yuumiloadscreen_37.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "EDG Yuumi"
+        },
+        {
+            "name": "狗头猫咪 悠米",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin39/images/yuumi_splash_uncentered_39.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin39/yuumiloadscreen_39.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Shiba Yuumi"
+        },
+        {
+            "name": "人工智能 悠米",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin49/images/yuumi_splash_uncentered_49.skins_yuumi_skin49.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin49/yuumiloadscreen_49.skins_yuumi_skin49.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Cyber Cat Yuumi"
+        },
+        {
+            "name": "至臻 人工智能 悠米",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin50/images/yuumi_splash_uncentered_50.skins_yuumi_skin50.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin50/yuumiloadscreen_50.skins_yuumi_skin50.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Cyber Cat Yuumi"
+        },
+        {
+            "name": "黑夜使者 悠米",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin61/images/yuumi_splash_uncentered_61.skins_yuumi_skin61.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yuumi/skins/skin61/yuumiloadscreen_61.skins_yuumi_skin61.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Nightbringer Yuumi"
+        }
+    ]
+}

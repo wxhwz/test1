@@ -1,0 +1,38 @@
+{
+    "id": 526,
+    "name": "镕铁少女",
+    "skins": [
+        {
+            "name": "女帝 芮尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rell/skins/skin01/images/rell_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rell/skins/skin01/rellloadscreen_1.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Battle Queen Rell"
+        },
+        {
+            "name": "星之守护者 芮尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rell/skins/skin10/images/rell_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rell/skins/skin10/rellloadscreen_10.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Star Guardian Rell"
+        },
+        {
+            "name": "西部魔影 芮尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rell/skins/skin20/images/rell_splash_uncentered_20.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rell/skins/skin20/rellloadscreen_20.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "High Noon Rell"
+        },
+        {
+            "name": "最高清算 芮尔",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rell/skins/skin30/images/rell_splash_uncentered_30.skins_rell_skin30.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/rell/skins/skin30/rellloadscreen_30.skins_rell_skin30.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Grand Reckoning Rell"
+        }
+    ]
+}

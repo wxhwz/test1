@@ -1,0 +1,62 @@
+{
+    "id": 141,
+    "name": "影流之镰",
+    "skins": [
+        {
+            "name": "摄魂猎手 凯隐",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayn/skins/skin01/images/kayn_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayn/skins/skin01/kaynloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Soulhunter Kayn"
+        },
+        {
+            "name": "奥德赛 凯隐",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayn/skins/skin02/images/kayn_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayn/skins/skin02/kaynloadscreen_2.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Odyssey Kayn"
+        },
+        {
+            "name": "黑夜使者 凯隐",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayn/skins/skin08/images/kayn_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayn/skins/skin08/kaynloadscreen_8.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Nightbringer Kayn"
+        },
+        {
+            "name": "至臻 黑夜使者 凯隐",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayn/skins/skin09/images/kayn_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayn/skins/skin09/kaynloadscreen_9.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Nightbringer Kayn"
+        },
+        {
+            "name": "净雪之月 凯隐",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayn/skins/skin15/images/kayn_splash_uncentered_15.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayn/skins/skin15/kaynloadscreen_15.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Snow Moon Kayn"
+        },
+        {
+            "name": "心之钢 凯隐",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayn/skins/skin20/images/kayn_splash_uncentered_20.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayn/skins/skin20/kaynloadscreen_20.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "HEARTSTEEL Kayn"
+        },
+        {
+            "name": "战斗学院 凯隐",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayn/skins/skin26/images/kayn_splash_uncentered_26.skins_kayn_skin26.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/kayn/skins/skin26/kaynloadscreen_26.skins_kayn_skin26.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Battle Academia Kayn"
+        }
+    ]
+}

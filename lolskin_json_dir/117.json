@@ -1,0 +1,110 @@
+{
+    "id": 117,
+    "name": "仙灵女巫",
+    "skins": [
+        {
+            "name": "糖果女巫 璐璐",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin01/images/lulu_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin01/lululoadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Bittersweet Lulu"
+        },
+        {
+            "name": "邪恶女巫 璐璐",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin02/images/lulu_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin02/lululoadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Wicked Lulu"
+        },
+        {
+            "name": "驯龙女巫 璐璐",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin03/images/lulu_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin03/lululoadscreen_3.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Dragon Trainer Lulu"
+        },
+        {
+            "name": "寒冬精灵 璐璐",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin04/images/lulu_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin04/lululoadscreen_4.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Winter Wonder Lulu"
+        },
+        {
+            "name": "泳池派对 璐璐",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin05/images/lulu_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin05/lululoadscreen_5.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Pool Party Lulu"
+        },
+        {
+            "name": "星之守护者 璐璐",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin06/images/lulu_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin06/lululoadscreen_6.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Star Guardian Lulu"
+        },
+        {
+            "name": "创星之灵 璐璐",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin14/images/lulu_splash_uncentered_14.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin14/lululoadscreen_14.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Cosmic Enchantress Lulu"
+        },
+        {
+            "name": "睡衣守护者 璐璐",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin15/images/lulu_splash_uncentered_15.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin15/lululoadscreen_15.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Pajama Guardian Lulu"
+        },
+        {
+            "name": "太空律动 “节奏幻师” 璐璐",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin26/images/lulu_splash_uncentered_26.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin26/lululoadscreen_26.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Space Groove Lulu"
+        },
+        {
+            "name": "至臻 太空律动 “节奏幻师” 璐璐",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin27/images/lulu_splash_uncentered_27.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin27/lululoadscreen_27.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Space Groove Lulu"
+        },
+        {
+            "name": "小怪兽训练师 璐璐",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin37/images/lulu_splash_uncentered_37.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin37/lululoadscreen_37.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Monster Tamer Lulu"
+        },
+        {
+            "name": "咖啡甜心 璐璐",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin46/images/lulu_splash_uncentered_46.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin46/lululoadscreen_46.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Cafe Cuties Lulu"
+        },
+        {
+            "name": "愚乐之巫 璐璐",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin55/images/lulu_splash_uncentered_55.skins_lulu_skin55.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lulu/skins/skin55/lululoadscreen_55.skins_lulu_skin55.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Arcana Lulu"
+        }
+    ]
+}

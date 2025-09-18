@@ -1,0 +1,78 @@
+{
+    "id": 246,
+    "name": "元素女皇",
+    "skins": [
+        {
+            "name": "战场BOSS 奇亚娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/skin01/images/qiyana_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/skin01/qiyanaloadscreen_1.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Battle Boss Qiyana"
+        },
+        {
+            "name": "真实伤害 奇亚娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/skin02/images/qiyana_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/skin02/qiyanaloadscreen_2.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "True Damage Qiyana"
+        },
+        {
+            "name": "至臻 真实伤害 奇亚娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/skin10/images/qiyana_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/skin10/qiyanaloadscreen_10.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige True Damage Qiyana"
+        },
+        {
+            "name": "女帝 奇亚娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/skin11/images/qiyana_splash_uncentered_11.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/skin11/qiyanaloadscreen_11.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Battle Queen Qiyana"
+        },
+        {
+            "name": "冲击之刃 奇亚娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/skin20/images/qiyana_splash_uncentered_20.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/skin20/qiyanaloadscreen_20.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Shockblade Qiyana"
+        },
+        {
+            "name": "至臻 真实伤害 奇亚娜 (2022)",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/skin10/images/qiyana_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/skin21/qiyanaloadscreen_21.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige True Damage Qiyana"
+        },
+        {
+            "name": "春晖神女 奇亚娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/skin30/images/qiyana_splash_uncentered_30.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/skin30/qiyanaloadscreen_30.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Lunar Empress Qiyana"
+        },
+        {
+            "name": "灵之菊 奇亚娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/skin40/images/qiyana_splash_uncentered_40.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/skin40/qiyanaloadscreen_40.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "La Ilusión Qiyana"
+        },
+        {
+            "name": "至臻 战斗学院 奇亚娜",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/skin50/images/qiyana_splash_uncentered_50.skins_qiyana_skin50.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/qiyana/skins/skin50/qiyanaloadscreen_50.skins_qiyana_skin50.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Battle Academia Qiyana"
+        }
+    ]
+}

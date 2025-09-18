@@ -1,0 +1,78 @@
+{
+    "id": 83,
+    "name": "牧魂人",
+    "skins": [
+        {
+            "name": "地狱送葬 约里克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin01/images/yorick_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin01/yorickloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Undertaker Yorick"
+        },
+        {
+            "name": "五杀摇滚贝斯手 约里克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin02/images/yorick_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin02/yorickloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Pentakill Yorick"
+        },
+        {
+            "name": "苍穹之光 约里克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin03/images/yorick_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin03/yorickloadscreen_3.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Arclight Yorick"
+        },
+        {
+            "name": "喵里克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin04/images/yorick_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin04/yorickloadscreen_4.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Meowrick"
+        },
+        {
+            "name": "抵抗军灵魔 约里克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin12/images/yorick_splash_uncentered_12.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin12/yorickloadscreen_12.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Resistance Yorick"
+        },
+        {
+            "name": "五杀摇滚 III：遗失的章节 约里克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin21/images/yorick_splash_uncentered_21.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin21/yorickloadscreen_21.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Pentakill III: Lost Chapter Yorick"
+        },
+        {
+            "name": "灵魂莲华 约里克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin30/images/yorick_splash_uncentered_30.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin30/yorickloadscreen_30.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Spirit Blossom Yorick"
+        },
+        {
+            "name": "暗星 约里克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin40/images/yorick_splash_uncentered_40.skins_yorick_skin40.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin40/yorickloadscreen_40.skins_yorick_skin40.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Dark Star Yorick"
+        },
+        {
+            "name": "西部魔影 约里克",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin50/images/yorick_splash_uncentered_50.skins_yorick_skin50.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin50/yorickloadscreen_50.skins_yorick_skin50.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "High Noon Yorick"
+        }
+    ]
+}

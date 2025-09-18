@@ -1,0 +1,126 @@
+{
+    "id": 59,
+    "name": "德玛西亚皇子",
+    "skins": [
+        {
+            "name": "孤胆英豪 嘉文四世",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/skin01/images/jarvaniv_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/skin01/jarvanivloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 3,
+            "name_en": "Commando Jarvan IV"
+        },
+        {
+            "name": "屠龙勇士 嘉文四世",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/skin02/images/jarvaniv_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/skin02/jarvanivloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Dragonslayer Jarvan IV"
+        },
+        {
+            "name": "龙骑统帅 嘉文四世",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/skin03/images/jarvaniv_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/skin03/jarvanivloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Darkforge Jarvan IV"
+        },
+        {
+            "name": "凯旋英雄 嘉文四世",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/skin04/images/jarvaniv_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/skin04/jarvanivloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Victorious Jarvan IV"
+        },
+        {
+            "name": "吕布 奉先",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/skin05/images/jarvaniv_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/skin05/jarvanivloadscreen_5.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Warring Kingdoms Jarvan IV"
+        },
+        {
+            "name": "Fnatic 嘉文四世",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/skin06/images/jarvaniv_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/skin06/jarvanivloadscreen_6.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Fnatic Jarvan IV"
+        },
+        {
+            "name": "暗星 嘉文四世",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/skin07/images/jarvaniv_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/skin07/jarvanivloadscreen_7.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Dark Star Jarvan IV"
+        },
+        {
+            "name": "SSG 嘉文四世",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/skin08/images/jarvaniv_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/skin08/jarvanivloadscreen_8.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "SSG Jarvan IV"
+        },
+        {
+            "name": "海克斯科技 嘉文四世",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/skin09/images/jarvaniv_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/skin09/jarvanivloadscreen_9.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Hextech Jarvan IV"
+        },
+        {
+            "name": "泳池派对 嘉文四世",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/skin11/images/jarvaniv_splash_uncentered_11.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/skin11/jarvanivloadscreen_11.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Pool Party Jarvan IV"
+        },
+        {
+            "name": "福牛守护者 嘉文四世",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/skin21/images/jarvaniv_splash_uncentered_21.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/skin21/jarvanivloadscreen_21.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Lunar Beast Jarvan IV"
+        },
+        {
+            "name": "2021 全球总决赛 嘉文四世",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/skin30/images/jarvaniv_splash_uncentered_30.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/skin30/jarvanivloadscreen_30.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Worlds 2021 Jarvan IV"
+        },
+        {
+            "name": "黑夜使者 嘉文四世",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/skin35/images/jarvaniv_splash_uncentered_35.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/skin35/jarvanivloadscreen_35.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Nightbringer Jarvan IV"
+        },
+        {
+            "name": "剪纸仙灵 嘉文四世",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/skin44/images/jarvaniv_splash_uncentered_44.skins_jarvaniv_skin44.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/skin44/jarvanivloadscreen_44.skins_jarvaniv_skin44.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Mythmaker Jarvan IV"
+        },
+        {
+            "name": "至臻 暗裔英雄 嘉文四世",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/skin54/images/jarvaniv_splash_uncentered_54.skins_jarvaniv_skin54.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/jarvaniv/skins/skin54/jarvanivloadscreen_54.skins_jarvaniv_skin54.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Visions of the Fallen Jarvan IV"
+        }
+    ]
+}

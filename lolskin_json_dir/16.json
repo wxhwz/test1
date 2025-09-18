@@ -1,0 +1,134 @@
+{
+    "id": 16,
+    "name": "众星之子",
+    "skins": [
+        {
+            "name": "森林女神 索拉卡",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin01/images/soraka_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin01/sorakaloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Dryad Soraka"
+        },
+        {
+            "name": "月光女神阿忒弥斯 索拉卡",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin02/images/soraka_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin02/sorakaloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Divine Soraka"
+        },
+        {
+            "name": "圣洁化身 索拉卡",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin03/images/soraka_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin03/sorakaloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Celestine Soraka"
+        },
+        {
+            "name": "灵魂收割者 索拉卡",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin04/images/soraka_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin04/sorakaloadscreen_4.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Reaper Soraka"
+        },
+        {
+            "name": "蕉泥座人 索拉卡",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin05/images/soraka_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin05/sorakaloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Order of the Banana Soraka"
+        },
+        {
+            "name": "源代码 索拉卡",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin06/images/soraka_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin06/sorakaloadscreen_6.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Program Soraka"
+        },
+        {
+            "name": "星之守护者 索拉卡",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin07/images/soraka_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin07/sorakaloadscreen_7.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Star Guardian Soraka"
+        },
+        {
+            "name": "睡衣守护者 索拉卡",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin08/images/soraka_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin08/sorakaloadscreen_8.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Pajama Guardian Soraka"
+        },
+        {
+            "name": "冬境仙灵 索拉卡",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin09/images/soraka_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin09/sorakaloadscreen_9.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Winter Wonder Soraka"
+        },
+        {
+            "name": "黎明使者 索拉卡",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin15/images/soraka_splash_uncentered_15.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin15/sorakaloadscreen_15.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Dawnbringer Soraka"
+        },
+        {
+            "name": "黑夜使者 索拉卡",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin16/images/soraka_splash_uncentered_16.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin16/sorakaloadscreen_16.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Nightbringer Soraka"
+        },
+        {
+            "name": "至臻 星之守护者 索拉卡",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin17/images/soraka_splash_uncentered_17.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin17/sorakaloadscreen_17.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Star Guardian Soraka"
+        },
+        {
+            "name": "咖啡甜心 索拉卡",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin18/images/soraka_splash_uncentered_18.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin18/sorakaloadscreen_18.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Cafe Cuties Soraka"
+        },
+        {
+            "name": "灵魂莲华 索拉卡",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin27/images/soraka_splash_uncentered_27.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin27/sorakaloadscreen_27.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Spirit Blossom Soraka"
+        },
+        {
+            "name": "玉剑传说 星仙子",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin37/images/soraka_splash_uncentered_37.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin37/sorakaloadscreen_37.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 7,
+            "name_en": "Immortal Journey Soraka"
+        },
+        {
+            "name": "花仙子 索拉卡",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin44/images/soraka_splash_uncentered_44.skins_soraka_skin44.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/soraka/skins/skin44/sorakaloadscreen_44.skins_soraka_skin44.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Faerie Court Soraka"
+        }
+    ]
+}

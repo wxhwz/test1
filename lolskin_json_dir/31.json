@@ -1,0 +1,86 @@
+{
+    "id": 31,
+    "name": "虚空恐惧",
+    "skins": [
+        {
+            "name": "梦魇 科加斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/chogath/skins/skin01/images/chogath_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/chogath/skins/skin01/chogathloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Nightmare Cho'Gath"
+        },
+        {
+            "name": "绅士 科加斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/chogath/skins/skin02/images/chogath_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/chogath/skins/skin02/chogathloadscreen_2.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Gentleman Cho'Gath"
+        },
+        {
+            "name": "尼斯巨兽 科加斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/chogath/skins/skin03/images/chogath_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/chogath/skins/skin03/chogathloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Loch Ness Cho'Gath"
+        },
+        {
+            "name": "侏罗纪化石 科加斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/chogath/skins/skin04/images/chogath_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/chogath/skins/skin04/chogathloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Jurassic Cho'Gath"
+        },
+        {
+            "name": "战地巨兽 科加斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/chogath/skins/skin05/images/chogath_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/chogath/skins/skin05/chogathloadscreen_5.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Battlecast Prime Cho'Gath"
+        },
+        {
+            "name": "暴龙 科加斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/chogath/skins/skin06/images/chogath_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/chogath/skins/skin06/chogathloadscreen_6.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Prehistoric Cho'Gath"
+        },
+        {
+            "name": "暗星 科加斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/chogath/skins/skin07/images/chogath_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/chogath/skins/skin07/chogathloadscreen_7.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Dark Star Cho'Gath"
+        },
+        {
+            "name": "山海绘卷 科加斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/chogath/skins/skin14/images/chogath_splash_uncentered_14.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/chogath/skins/skin14/chogathloadscreen_14.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Shan Hai Scrolls Cho'Gath"
+        },
+        {
+            "name": "绝息圣堂 科加斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/chogath/skins/skin23/images/chogath_splash_uncentered_23.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/chogath/skins/skin23/chogathloadscreen_23.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Broken Covenant Cho'Gath"
+        },
+        {
+            "name": "鳄加斯",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/chogath/skins/skin32/images/chogath_splash_uncentered_32.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/chogath/skins/skin32/chogathloadscreen_32.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Toy Terror Cho'Gath"
+        }
+    ]
+}

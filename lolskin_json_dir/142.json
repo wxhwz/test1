@@ -1,0 +1,70 @@
+{
+    "id": 142,
+    "name": "暮光星灵",
+    "skins": [
+        {
+            "name": "赛博潮流 佐伊",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin01/images/zoe_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin01/zoeloadscreen_1.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Cyber Pop Zoe"
+        },
+        {
+            "name": "泳池派对 佐伊",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin02/images/zoe_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin02/zoeloadscreen_2.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Pool Party Zoe"
+        },
+        {
+            "name": "星之守护者 佐伊",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin09/images/zoe_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin09/zoeloadscreen_9.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Star Guardian Zoe"
+        },
+        {
+            "name": "奥术师 佐伊",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin18/images/zoe_splash_uncentered_18.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin18/zoeloadscreen_18.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Arcanist Zoe"
+        },
+        {
+            "name": "至臻 奥术师 佐伊",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin19/images/zoe_splash_uncentered_19.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin19/zoeloadscreen_19.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Arcanist Zoe"
+        },
+        {
+            "name": "EDG 佐伊",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin20/images/zoe_splash_uncentered_20.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin20/zoeloadscreen_20.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "EDG Zoe"
+        },
+        {
+            "name": "北极星守望者 佐伊",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin22/images/zoe_splash_uncentered_22.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin22/zoeloadscreen_22.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Winterblessed Zoe"
+        },
+        {
+            "name": "暗星 佐伊",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin33/images/zoe_splash_uncentered_33.skins_zoe_skin33.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin33/zoeloadscreen_33.skins_zoe_skin33.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Dark Star Zoe"
+        }
+    ]
+}

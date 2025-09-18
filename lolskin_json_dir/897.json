@@ -1,0 +1,30 @@
+{
+    "id": 897,
+    "name": "纳祖芒荣耀",
+    "skins": [
+        {
+            "name": "至高天 奎桑提",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ksante/skins/skin01/images/ksante_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ksante/skins/skin01/ksanteloadscreen_1.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Empyrean K'Sante"
+        },
+        {
+            "name": "至臻 至高天 奎桑提",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ksante/skins/skin02/images/ksante_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ksante/skins/skin02/ksanteloadscreen_2.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Empyrean K'Sante"
+        },
+        {
+            "name": "心之钢 奎桑提",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ksante/skins/skin08/images/ksante_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ksante/skins/skin08/ksanteloadscreen_8.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "HEARTSTEEL K'Sante"
+        }
+    ]
+}

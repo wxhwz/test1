@@ -1,0 +1,102 @@
+{
+    "id": 113,
+    "name": "北地之怒",
+    "skins": [
+        {
+            "name": "野兽女王 瑟庄妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sejuani/skins/skin01/images/sejuani_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sejuani/skins/skin01/sejuaniloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Sabretusk Sejuani"
+        },
+        {
+            "name": "死亡骑士 瑟庄妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sejuani/skins/skin02/images/sejuani_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sejuani/skins/skin02/sejuaniloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Darkrider Sejuani"
+        },
+        {
+            "name": "传统造型 瑟庄妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sejuani/skins/skin03/images/sejuani_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sejuani/skins/skin03/sejuaniloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Traditional Sejuani"
+        },
+        {
+            "name": "战熊骑士 瑟庄妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sejuani/skins/skin04/images/sejuani_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sejuani/skins/skin04/sejuaniloadscreen_4.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Bear Cavalry Sejuani"
+        },
+        {
+            "name": "魄罗骑士 瑟庄妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sejuani/skins/skin05/images/sejuani_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sejuani/skins/skin05/sejuaniloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Poro Rider Sejuani"
+        },
+        {
+            "name": "野兽猎人 瑟庄妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sejuani/skins/skin06/images/sejuani_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sejuani/skins/skin06/sejuaniloadscreen_6.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Beast Hunter Sejuani"
+        },
+        {
+            "name": "瑟庄妮·逐晓者",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sejuani/skins/skin07/images/sejuani_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sejuani/skins/skin07/sejuaniloadscreen_7.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Sejuani Dawnchaser"
+        },
+        {
+            "name": "金猪烈焰 瑟庄妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sejuani/skins/skin08/images/sejuani_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sejuani/skins/skin08/sejuaniloadscreen_8.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Firecracker Sejuani"
+        },
+        {
+            "name": "海克斯科技 瑟庄妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sejuani/skins/skin15/images/sejuani_splash_uncentered_15.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sejuani/skins/skin15/sejuaniloadscreen_15.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Hextech Sejuani"
+        },
+        {
+            "name": "源计划：统帅 瑟庄妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sejuani/skins/skin16/images/sejuani_splash_uncentered_16.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sejuani/skins/skin16/sejuaniloadscreen_16.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "PROJECT: Sejuani"
+        },
+        {
+            "name": "日蚀骑士 瑟庄妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sejuani/skins/skin26/images/sejuani_splash_uncentered_26.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sejuani/skins/skin26/sejuaniloadscreen_26.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Solar Eclipse Sejuani"
+        },
+        {
+            "name": "胜利女神 瑟庄妮",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sejuani/skins/skin36/images/sejuani_splash_uncentered_36.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/sejuani/skins/skin36/sejuaniloadscreen_36.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Victorious Sejuani"
+        }
+    ]
+}

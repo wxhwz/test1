@@ -1,0 +1,142 @@
+{
+    "id": 11,
+    "name": "无极剑圣",
+    "skins": [
+        {
+            "name": "暗影 易",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin01/images/masteryi_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin01/masteryiloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Assassin Master Yi"
+        },
+        {
+            "name": "星战 易",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin02/images/masteryi_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin02/masteryiloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Chosen Master Yi"
+        },
+        {
+            "name": "天人合一 易",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin03/images/masteryi_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin03/masteryiloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Ionia Master Yi"
+        },
+        {
+            "name": "侍魂 易",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin04/images/masteryi_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin04/masteryiloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Samurai Yi"
+        },
+        {
+            "name": "铁血剑豪 易",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin05/images/masteryi_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin05/masteryiloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Headhunter Master Yi"
+        },
+        {
+            "name": "源计划：林 易",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin09/images/masteryi_splash_uncentered_9.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin09/masteryiloadscreen_9.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "PROJECT: Yi"
+        },
+        {
+            "name": "斩星魔剑 易",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin10/images/masteryi_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin10/masteryiloadscreen_10.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Cosmic Blade Master Yi"
+        },
+        {
+            "name": "玉剑传说 无极",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin11/images/masteryi_splash_uncentered_11.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin11/masteryiloadscreen_11.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Eternal Sword Yi"
+        },
+        {
+            "name": "持胡萝卜的雪人 易",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin17/images/masteryi_splash_uncentered_17.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin17/masteryiloadscreen_17.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Snow Man Yi"
+        },
+        {
+            "name": "腥红之月 易",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin24/images/masteryi_splash_uncentered_24.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin24/masteryiloadscreen_24.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Blood Moon Master Yi"
+        },
+        {
+            "name": "灵能特工 易",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin33/images/masteryi_splash_uncentered_33.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin33/masteryiloadscreen_33.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "PsyOps Master Yi"
+        },
+        {
+            "name": "无极执事 易",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin42/images/masteryi_splash_uncentered_42.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin42/masteryiloadscreen_42.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Debonair Master Yi"
+        },
+        {
+            "name": "灵魂莲华 易",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin52/images/masteryi_splash_uncentered_52.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin52/masteryiloadscreen_52.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Spirit Blossom Master Yi"
+        },
+        {
+            "name": "至臻 灵魂莲华 易",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin53/images/masteryi_splash_uncentered_53.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin53/masteryiloadscreen_53.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Prestige Spirit Blossom Master Yi"
+        },
+        {
+            "name": "墨之影武者 易",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin89/images/masteryi_splash_uncentered_89.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin89/masteryiloadscreen_89.jpg",
+            "rarity": "kLegendary",
+            "regionRarityId": 5,
+            "name_en": "Inkshadow Master Yi"
+        },
+        {
+            "name": "天龙之子 易",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin96/images/masteryi_splash_uncentered_96.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin96/masteryiloadscreen_96.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Heavenscale Master Yi"
+        },
+        {
+            "name": "胜利剑圣 易",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin106/images/masteryi_splash_uncentered_106.skins_masteryi_skin106.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/masteryi/skins/skin106/masteryiloadscreen_106.skins_masteryi_skin106.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Victorious Master Yi"
+        }
+    ]
+}

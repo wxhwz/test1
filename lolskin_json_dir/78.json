@@ -1,0 +1,102 @@
+{
+    "id": 78,
+    "name": "圣锤之毅",
+    "skins": [
+        {
+            "name": "诺克萨斯 波比",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin01/images/poppy_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin01/poppyloadscreen_1.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 0,
+            "name_en": "Noxus Poppy"
+        },
+        {
+            "name": "波比的巧克力工坊",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin02/images/poppy_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin02/poppyloadscreen_2.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Lollipoppy"
+        },
+        {
+            "name": "宗师级锻造训练师",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin03/images/poppy_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin03/poppyloadscreen_3.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 1,
+            "name_en": "Blacksmith Poppy"
+        },
+        {
+            "name": "圣诞玩偶 波比",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin04/images/poppy_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin04/poppyloadscreen_4.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 7,
+            "name_en": "Ragdoll Poppy"
+        },
+        {
+            "name": "军神战甲 波比",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin05/images/poppy_splash_uncentered_5.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin05/poppyloadscreen_5.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Battle Regalia Poppy"
+        },
+        {
+            "name": "血色之锤 波比",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin06/images/poppy_splash_uncentered_6.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin06/poppyloadscreen_6.jpg",
+            "rarity": "kNoRarity",
+            "regionRarityId": 4,
+            "name_en": "Scarlet Hammer Poppy"
+        },
+        {
+            "name": "星之守护者 波比",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin07/images/poppy_splash_uncentered_7.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin07/poppyloadscreen_7.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 4,
+            "name_en": "Star Guardian Poppy"
+        },
+        {
+            "name": "冰雪驯鹿 波比",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin14/images/poppy_splash_uncentered_14.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin14/poppyloadscreen_14.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Snow Fawn Poppy"
+        },
+        {
+            "name": "海克斯科技 波比",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin15/images/poppy_splash_uncentered_15.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin15/poppyloadscreen_15.jpg",
+            "rarity": "kMythic",
+            "regionRarityId": 8,
+            "name_en": "Hextech Poppy"
+        },
+        {
+            "name": "宇航员 波比",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin16/images/poppy_splash_uncentered_16.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin16/poppyloadscreen_16.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Astronaut Poppy"
+        },
+        {
+            "name": "魅惑女巫 波比",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin24/images/poppy_splash_uncentered_24.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin24/poppyloadscreen_24.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 7,
+            "name_en": "Bewitching Poppy"
+        },
+        {
+            "name": "咖啡甜心 波比",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin33/images/poppy_splash_uncentered_33.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/poppy/skins/skin33/poppyloadscreen_33.jpg",
+            "rarity": "kEpic",
+            "regionRarityId": 0,
+            "name_en": "Cafe Cuties Poppy"
+        }
+    ]
+}
