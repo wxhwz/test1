@@ -57,6 +57,7 @@ def parse_skin_json(id:int):
         merged_json = {
             "id": filter_data_en["id"],
             "name": filter_data_zh["name"],  # 使用中文名称
+            "name_en": filter_data_en["name"],
             "skins": []
         }
 
