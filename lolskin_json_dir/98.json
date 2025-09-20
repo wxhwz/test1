@@ -10,7 +10,12 @@
             "rarity": "kNoRarity",
             "regionRarityId": 0,
             "rarityGemPath": null,
-            "name_en": "Frozen Shen"
+            "name_en": "Frozen Shen",
+            "rarity_en": "kNoRarity",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": null,
+            "rarityGemPath2_en": null
         },
         {
             "name": "炎爆 慎",
@@ -19,7 +24,12 @@
             "rarity": "kNoRarity",
             "regionRarityId": 0,
             "rarityGemPath": null,
-            "name_en": "Yellow Jacket Shen"
+            "name_en": "Yellow Jacket Shen",
+            "rarity_en": "kNoRarity",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": null,
+            "rarityGemPath2_en": null
         },
         {
             "name": "主治医师 慎",
@@ -28,7 +38,12 @@
             "rarity": "kNoRarity",
             "regionRarityId": 0,
             "rarityGemPath": null,
-            "name_en": "Surgeon Shen"
+            "name_en": "Surgeon Shen",
+            "rarity_en": "kNoRarity",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": null,
+            "rarityGemPath2_en": null
         },
         {
             "name": "腥红之月 鬼武者 慎",
@@ -37,7 +52,12 @@
             "rarity": "kNoRarity",
             "regionRarityId": 4,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/4_large.png",
-            "name_en": "Blood Moon Shen"
+            "name_en": "Blood Moon Shen",
+            "rarity_en": "kNoRarity",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-4.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "战国大名 慎",
@@ -46,7 +66,12 @@
             "rarity": "kNoRarity",
             "regionRarityId": 4,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/4_large.png",
-            "name_en": "Warlord Shen"
+            "name_en": "Warlord Shen",
+            "rarity_en": "kNoRarity",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-4.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "暗杀星 慎",
@@ -55,7 +80,12 @@
             "rarity": "kNoRarity",
             "regionRarityId": 7,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
-            "name_en": "TPA Shen"
+            "name_en": "TPA Shen",
+            "rarity_en": "kNoRarity",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-7.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "未来战士 慎",
@@ -64,7 +94,12 @@
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
-            "name_en": "Pulsefire Shen"
+            "name_en": "Pulsefire Shen",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": null,
+            "rarityGemPath2_en": null
         },
         {
             "name": "奈落之炎 慎",
@@ -73,7 +108,12 @@
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
-            "name_en": "Infernal Shen"
+            "name_en": "Infernal Shen",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": null,
+            "rarityGemPath2_en": null
         },
         {
             "name": "灵能特工 慎",
@@ -82,7 +122,12 @@
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
-            "name_en": "PsyOps Shen"
+            "name_en": "PsyOps Shen",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": null,
+            "rarityGemPath2_en": null
         },
         {
             "name": "冲击之刃 慎",
@@ -91,7 +136,12 @@
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
-            "name_en": "Shockblade Shen"
+            "name_en": "Shockblade Shen",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": null,
+            "rarityGemPath2_en": null
         },
         {
             "name": "灰烬守护者 慎",
@@ -100,7 +150,12 @@
             "rarity": "kMythic",
             "regionRarityId": 8,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/8_large.png",
-            "name_en": "Ashen Guardian Shen"
+            "name_en": "Ashen Guardian Shen",
+            "rarity_en": "kMythic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-8.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "荣誉使者 慎",
@@ -109,7 +164,12 @@
             "rarity": "kNoRarity",
             "regionRarityId": 0,
             "rarityGemPath": null,
-            "name_en": "Three Honors Shen"
+            "name_en": "Three Honors Shen",
+            "rarity_en": "kNoRarity",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": null,
+            "rarityGemPath2_en": null
         }
     ]
 }

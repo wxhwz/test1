@@ -10,7 +10,12 @@
             "rarity": "kNoRarity",
             "regionRarityId": 0,
             "rarityGemPath": null,
-            "name_en": "Lunar Beast Viego"
+            "name_en": "Lunar Beast Viego",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": null,
+            "rarityGemPath2_en": null
         },
         {
             "name": "五杀摇滚之噪音 佛耶戈",
@@ -19,7 +24,12 @@
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
-            "name_en": "Dissonance of Pentakill Viego"
+            "name_en": "Dissonance of Pentakill Viego",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": null,
+            "rarityGemPath2_en": null
         },
         {
             "name": "EDG 佛耶戈",
@@ -28,7 +38,12 @@
             "rarity": "kEpic",
             "regionRarityId": 7,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
-            "name_en": "EDG Viego"
+            "name_en": "EDG Viego",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-7.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "国王 佛耶戈",
@@ -37,7 +52,12 @@
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
-            "name_en": "King Viego"
+            "name_en": "King Viego",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": null,
+            "rarityGemPath2_en": null
         },
         {
             "name": "斗魂觉醒 佛耶戈",
@@ -46,7 +66,12 @@
             "rarity": "kLegendary",
             "regionRarityId": 7,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
-            "name_en": "Soul Fighter Viego"
+            "name_en": "Soul Fighter Viego",
+            "rarity_en": "kLegendary",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-7.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "2024 全球总决赛 佛耶戈",
@@ -55,7 +80,12 @@
             "rarity": "kEpic",
             "regionRarityId": 7,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
-            "name_en": "Worlds 2024 Viego"
+            "name_en": "Worlds 2024 Viego",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-7.png",
+            "rarityGemPath2_en": null
         }
     ]
 }

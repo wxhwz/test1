@@ -10,7 +10,12 @@
             "rarity": "kNoRarity",
             "regionRarityId": 0,
             "rarityGemPath": null,
-            "name_en": "Traditional Lee Sin"
+            "name_en": "Traditional Lee Sin",
+            "rarity_en": "kNoRarity",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": null,
+            "rarityGemPath2_en": null
         },
         {
             "name": "防弹武僧 李青",
@@ -19,7 +24,12 @@
             "rarity": "kNoRarity",
             "regionRarityId": 4,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/4_large.png",
-            "name_en": "Acolyte Lee Sin"
+            "name_en": "Acolyte Lee Sin",
+            "rarity_en": "kNoRarity",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-4.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "龙的传人 李青",
@@ -28,7 +38,12 @@
             "rarity": "kEpic",
             "regionRarityId": 7,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
-            "name_en": "Dragon Fist Lee Sin"
+            "name_en": "Dragon Fist Lee Sin",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-7.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "至高之拳 李青",
@@ -37,7 +52,12 @@
             "rarity": "kNoRarity",
             "regionRarityId": 4,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/4_large.png",
-            "name_en": "Muay Thai Lee Sin"
+            "name_en": "Muay Thai Lee Sin",
+            "rarity_en": "kNoRarity",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-4.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "泳池派对 李青",
@@ -46,7 +66,12 @@
             "rarity": "kNoRarity",
             "regionRarityId": 7,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
-            "name_en": "Pool Party Lee Sin"
+            "name_en": "Pool Party Lee Sin",
+            "rarity_en": "kNoRarity",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-7.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "SKT T1 李青",
@@ -55,7 +80,12 @@
             "rarity": "kNoRarity",
             "regionRarityId": 7,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
-            "name_en": "SKT T1 Lee Sin"
+            "name_en": "SKT T1 Lee Sin",
+            "rarity_en": "kNoRarity",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-7.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "地下拳王 李青",
@@ -64,7 +94,12 @@
             "rarity": "kEpic",
             "regionRarityId": 4,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/4_large.png",
-            "name_en": "Knockout Lee Sin"
+            "name_en": "Knockout Lee Sin",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-4.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "神拳 李青",
@@ -73,7 +108,12 @@
             "rarity": "kLegendary",
             "regionRarityId": 5,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/5_large.png",
-            "name_en": "God Fist Lee Sin"
+            "name_en": "God Fist Lee Sin",
+            "rarity_en": "kLegendary",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-5.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "制胜金靴 李青",
@@ -82,7 +122,12 @@
             "rarity": "kNoRarity",
             "regionRarityId": 7,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
-            "name_en": "Playmaker Lee Sin"
+            "name_en": "Playmaker Lee Sin",
+            "rarity_en": "kNoRarity",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-7.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "黑夜使者 李青",
@@ -91,7 +136,12 @@
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
-            "name_en": "Nightbringer Lee Sin"
+            "name_en": "Nightbringer Lee Sin",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": null,
+            "rarityGemPath2_en": null
         },
         {
             "name": "至臻 黑夜使者 李青",
@@ -100,7 +150,12 @@
             "rarity": "kMythic",
             "regionRarityId": 8,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/8_large.png",
-            "name_en": "Prestige Nightbringer Lee Sin"
+            "name_en": "Prestige Nightbringer Lee Sin",
+            "rarity_en": "kMythic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-8.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "FPX 李青",
@@ -109,7 +164,12 @@
             "rarity": "kEpic",
             "regionRarityId": 7,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
-            "name_en": "FPX Lee Sin"
+            "name_en": "FPX Lee Sin",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-7.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "神龙尊者 圣龙李青",
@@ -118,7 +178,12 @@
             "rarity": "kLegendary",
             "regionRarityId": 5,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/5_large.png",
-            "name_en": "Storm Dragon Lee Sin"
+            "name_en": "Storm Dragon Lee Sin",
+            "rarity_en": "kLegendary",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-5.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "至臻 黑夜使者 李青 (2022)",
@@ -127,7 +192,12 @@
             "rarity": "kMythic",
             "regionRarityId": 8,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/8_large.png",
-            "name_en": "Prestige Nightbringer Lee Sin (2022)"
+            "name_en": "Prestige Nightbringer Lee Sin (2022)",
+            "rarity_en": "kMythic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-8.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "巅峰之星 李青",
@@ -136,7 +206,12 @@
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
-            "name_en": "Zenith Games Lee Sin"
+            "name_en": "Zenith Games Lee Sin",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": null,
+            "rarityGemPath2_en": null
         },
         {
             "name": "天龙之子 李青",
@@ -145,7 +220,12 @@
             "rarity": "kLegendary",
             "regionRarityId": 7,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
-            "name_en": "Heavenscale Lee Sin"
+            "name_en": "Heavenscale Lee Sin",
+            "rarity_en": "kLegendary",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-7.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "圣天龙 李青",
@@ -154,7 +234,12 @@
             "rarity": "kMythic",
             "regionRarityId": 8,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/8_large.png",
-            "name_en": "Divine Heavenscale Lee Sin"
+            "name_en": "Divine Heavenscale Lee Sin",
+            "rarity_en": "kMythic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-8.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "T1 李青",
@@ -163,7 +248,12 @@
             "rarity": "kEpic",
             "regionRarityId": 7,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
-            "name_en": "T1 Lee Sin"
+            "name_en": "T1 Lee Sin",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-7.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "墨之影 李青",
@@ -172,7 +262,12 @@
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
-            "name_en": "Inkshadow Lee Sin"
+            "name_en": "Inkshadow Lee Sin",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": null,
+            "rarityGemPath2_en": null
         }
     ]
 }

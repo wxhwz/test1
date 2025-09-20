@@ -10,7 +10,12 @@
             "rarity": "kNoRarity",
             "regionRarityId": 4,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/4_large.png",
-            "name_en": "Volcanic Wukong"
+            "name_en": "Volcanic Wukong",
+            "rarity_en": "kNoRarity",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-4.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "斗战胜佛 孙悟空",
@@ -19,7 +24,12 @@
             "rarity": "kNoRarity",
             "regionRarityId": 4,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/4_large.png",
-            "name_en": "General Wukong"
+            "name_en": "General Wukong",
+            "rarity_en": "kNoRarity",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-4.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "定海神珍 孙悟空",
@@ -28,7 +38,12 @@
             "rarity": "kNoRarity",
             "regionRarityId": 7,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
-            "name_en": "Jade Dragon Wukong"
+            "name_en": "Jade Dragon Wukong",
+            "rarity_en": "kNoRarity",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-7.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "地狱行者 孙悟空",
@@ -37,7 +52,12 @@
             "rarity": "kLegendary",
             "regionRarityId": 5,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/5_large.png",
-            "name_en": "Underworld Wukong"
+            "name_en": "Underworld Wukong",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-5.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "美猴王 孙悟空",
@@ -46,7 +66,12 @@
             "rarity": "kEpic",
             "regionRarityId": 7,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
-            "name_en": "Radiant Wukong"
+            "name_en": "Radiant Wukong",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-7.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "破空枪骑 孙悟空",
@@ -55,7 +80,12 @@
             "rarity": "kEpic",
             "regionRarityId": 7,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
-            "name_en": "Lancer Stratus Wukong"
+            "name_en": "Lancer Stratus Wukong",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-7.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "战斗学院 孙悟空",
@@ -64,7 +94,12 @@
             "rarity": "kNoRarity",
             "regionRarityId": 0,
             "rarityGemPath": null,
-            "name_en": "Battle Academia Wukong"
+            "name_en": "Battle Academia Wukong",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": null,
+            "rarityGemPath2_en": null
         },
         {
             "name": "永恒之森 孙悟空",
@@ -73,7 +108,12 @@
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
-            "name_en": "Elderwood Wukong"
+            "name_en": "Elderwood Wukong",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": null,
+            "rarityGemPath2_en": null
         }
     ]
 }

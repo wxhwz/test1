@@ -10,7 +10,12 @@
             "rarity": "kNoRarity",
             "regionRarityId": 0,
             "rarityGemPath": null,
-            "name_en": "Spectral Fiddlesticks"
+            "name_en": "Spectral Fiddlesticks",
+            "rarity_en": "kNoRarity",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": null,
+            "rarityGemPath2_en": null
         },
         {
             "name": "联合王国 费德提克",
@@ -19,7 +24,12 @@
             "rarity": "kNoRarity",
             "regionRarityId": 0,
             "rarityGemPath": null,
-            "name_en": "Union Jack Fiddlesticks"
+            "name_en": "Union Jack Fiddlesticks",
+            "rarity_en": "kNoRarity",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": null,
+            "rarityGemPath2_en": null
         },
         {
             "name": "荒野幽灵 费德提克",
@@ -28,7 +38,12 @@
             "rarity": "kNoRarity",
             "regionRarityId": 0,
             "rarityGemPath": null,
-            "name_en": "Bandito Fiddlesticks"
+            "name_en": "Bandito Fiddlesticks",
+            "rarity_en": "kNoRarity",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": null,
+            "rarityGemPath2_en": null
         },
         {
             "name": "南瓜头 费德提克",
@@ -37,7 +52,12 @@
             "rarity": "kNoRarity",
             "regionRarityId": 7,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
-            "name_en": "Pumpkinhead Fiddlesticks"
+            "name_en": "Pumpkinhead Fiddlesticks",
+            "rarity_en": "kNoRarity",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-7.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "铁钩船长 费德提克",
@@ -46,7 +66,12 @@
             "rarity": "kNoRarity",
             "regionRarityId": 4,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/4_large.png",
-            "name_en": "Fiddle Me Timbers"
+            "name_en": "Fiddle Me Timbers",
+            "rarity_en": "kNoRarity",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-4.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "惊悚派对 费德提克",
@@ -55,7 +80,12 @@
             "rarity": "kNoRarity",
             "regionRarityId": 7,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
-            "name_en": "Surprise Party Fiddlesticks"
+            "name_en": "Surprise Party Fiddlesticks",
+            "rarity_en": "kLegendary",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-7.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "糖果使徒 费德提克",
@@ -64,7 +94,12 @@
             "rarity": "kNoRarity",
             "regionRarityId": 7,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
-            "name_en": "Dark Candy Fiddlesticks"
+            "name_en": "Dark Candy Fiddlesticks",
+            "rarity_en": "kNoRarity",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-7.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "重生之沙 费德提克",
@@ -73,7 +108,12 @@
             "rarity": "kEpic",
             "regionRarityId": 4,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/4_large.png",
-            "name_en": "Risen Fiddlesticks"
+            "name_en": "Risen Fiddlesticks",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-4.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "禁卫机甲 费德提克",
@@ -82,7 +122,12 @@
             "rarity": "kNoRarity",
             "regionRarityId": 0,
             "rarityGemPath": null,
-            "name_en": "Praetorian Fiddlesticks"
+            "name_en": "Praetorian Fiddlesticks",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": null,
+            "rarityGemPath2_en": null
         },
         {
             "name": "星之吞噬者 费德提克",
@@ -91,7 +136,12 @@
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
-            "name_en": "Star Nemesis Fiddlesticks"
+            "name_en": "Star Nemesis Fiddlesticks",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": null,
+            "rarityGemPath2_en": null
         },
         {
             "name": "腥红之月 费德提克",
@@ -100,7 +150,12 @@
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
-            "name_en": "Blood Moon Fiddlesticks"
+            "name_en": "Blood Moon Fiddlesticks",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": null,
+            "rarityGemPath2_en": null
         }
     ]
 }

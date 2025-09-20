@@ -10,7 +10,12 @@
             "rarity": "kNoRarity",
             "regionRarityId": 0,
             "rarityGemPath": null,
-            "name_en": "Tempest Janna"
+            "name_en": "Tempest Janna",
+            "rarity_en": "kNoRarity",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": null,
+            "rarityGemPath2_en": null
         },
         {
             "name": "海克斯科技 迦娜",
@@ -19,7 +24,12 @@
             "rarity": "kNoRarity",
             "regionRarityId": 4,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/4_large.png",
-            "name_en": "Hextech Janna"
+            "name_en": "Hextech Janna",
+            "rarity_en": "kNoRarity",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-4.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "寒冰女皇 迦娜",
@@ -28,7 +38,12 @@
             "rarity": "kNoRarity",
             "regionRarityId": 4,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/4_large.png",
-            "name_en": "Frost Queen Janna"
+            "name_en": "Frost Queen Janna",
+            "rarity_en": "kNoRarity",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-4.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "胜利女神 迦娜",
@@ -37,7 +52,12 @@
             "rarity": "kNoRarity",
             "regionRarityId": 7,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
-            "name_en": "Victorious Janna"
+            "name_en": "Victorious Janna",
+            "rarity_en": "kNoRarity",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-7.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "女主播 迦娜",
@@ -46,7 +66,12 @@
             "rarity": "kLegendary",
             "regionRarityId": 5,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/5_large.png",
-            "name_en": "Forecast Janna"
+            "name_en": "Forecast Janna",
+            "rarity_en": "kLegendary",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-5.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "Fnatic 迦娜",
@@ -55,7 +80,12 @@
             "rarity": "kNoRarity",
             "regionRarityId": 7,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
-            "name_en": "Fnatic Janna"
+            "name_en": "Fnatic Janna",
+            "rarity_en": "kNoRarity",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-7.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "星之守护者 迦娜",
@@ -64,7 +94,12 @@
             "rarity": "kEpic",
             "regionRarityId": 4,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/4_large.png",
-            "name_en": "Star Guardian Janna"
+            "name_en": "Star Guardian Janna",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-4.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "玉剑传说 风仙子",
@@ -73,7 +108,12 @@
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
-            "name_en": "Sacred Sword Janna"
+            "name_en": "Sacred Sword Janna",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": null,
+            "rarityGemPath2_en": null
         },
         {
             "name": "魅惑女巫 迦娜",
@@ -82,7 +122,12 @@
             "rarity": "kEpic",
             "regionRarityId": 7,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
-            "name_en": "Bewitching Janna"
+            "name_en": "Bewitching Janna",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-7.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "沙之守护 迦娜",
@@ -91,7 +136,12 @@
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
-            "name_en": "Guardian of the Sands Janna"
+            "name_en": "Guardian of the Sands Janna",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": null,
+            "rarityGemPath2_en": null
         },
         {
             "name": "女帝 迦娜",
@@ -100,7 +150,12 @@
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
-            "name_en": "Battle Queen Janna"
+            "name_en": "Battle Queen Janna",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": null,
+            "rarityGemPath2_en": null
         },
         {
             "name": "水晶玫瑰 迦娜",
@@ -109,7 +164,12 @@
             "rarity": "kEpic",
             "regionRarityId": 7,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
-            "name_en": "Crystal Rose Janna"
+            "name_en": "Crystal Rose Janna",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-7.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "海珀利安小队 X09-星环灵风 迦娜",
@@ -118,7 +178,12 @@
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
-            "name_en": "Cyber Halo Janna"
+            "name_en": "Cyber Halo Janna",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": null,
+            "rarityGemPath2_en": null
         },
         {
             "name": "至臻 海珀利安小队 X09-星环灵风 迦娜",
@@ -127,7 +192,12 @@
             "rarity": "kMythic",
             "regionRarityId": 8,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/8_large.png",
-            "name_en": "Prestige Cyber Halo Janna"
+            "name_en": "Prestige Cyber Halo Janna",
+            "rarity_en": "kMythic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-8.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "天龙之子 迦娜",
@@ -136,7 +206,12 @@
             "rarity": "kEpic",
             "regionRarityId": 7,
             "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
-            "name_en": "Heavenscale Janna"
+            "name_en": "Heavenscale Janna",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-7.png",
+            "rarityGemPath2_en": null
         },
         {
             "name": "黎明使者 迦娜",
@@ -145,7 +220,12 @@
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
-            "name_en": "Dawnbringer Janna"
+            "name_en": "Dawnbringer Janna",
+            "rarity_en": "kEpic",
+            "regionRarityId_en": 0,
+            "rarityGemPath_en": null,
+            "rarityGemPath2": null,
+            "rarityGemPath2_en": null
         }
     ]
 }

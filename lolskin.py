@@ -73,6 +73,17 @@ def parse_skin_json(id:int):
                 # 复制中文皮肤数据并添加英文名称
                 merged_skin = skin2.copy()
                 merged_skin["name_en"] = skin1["name"]  # 添加英文名称
+                merged_skin["rarity_en"] = skin1["rarity"]
+                merged_skin["regionRarityId_en"] = skin1["regionRarityId"]
+                merged_skin["rarityGemPath_en"] = skin1["rarityGemPath"]
+                if skin2["regionRarityId"] == 0:
+                    merged_skin["rarityGemPath2"] = None
+                else:
+                    merged_skin["rarityGemPath2"] = f"https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-{skin2["regionRarityId"]}.png"
+                if skin1["regionRarityId"] == 0:
+                    merged_skin["rarityGemPath2_en"] = None
+                else:
+                    merged_skin["rarityGemPath2_en"] = f"https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/cn-gem-{skin1["regionRarityId"]}.png"
                 merged_json["skins"].append(merged_skin)
 
         #print(json.dumps(merged_json, indent=2, ensure_ascii=False))
