@@ -9,6 +9,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nunu/skins/skin01/nunuloadscreen_1.jpg",
             "rarity": "kNoRarity",
             "regionRarityId": 0,
+            "rarityGemPath": null,
             "name_en": "Sasquatch Nunu & Willump"
         },
         {
@@ -17,6 +18,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nunu/skins/skin02/nunuloadscreen_2.jpg",
             "rarity": "kNoRarity",
             "regionRarityId": 7,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
             "name_en": "Workshop Nunu & Willump"
         },
         {
@@ -25,6 +27,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nunu/skins/skin03/nunuloadscreen_3.jpg",
             "rarity": "kNoRarity",
             "regionRarityId": 0,
+            "rarityGemPath": null,
             "name_en": "Grungy Nunu & Willump"
         },
         {
@@ -33,6 +36,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nunu/skins/skin04/nunuloadscreen_4.jpg",
             "rarity": "kLegendary",
             "regionRarityId": 5,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/5_large.png",
             "name_en": "Nunu & Willump Bot"
         },
         {
@@ -41,6 +45,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nunu/skins/skin05/nunuloadscreen_5.jpg",
             "rarity": "kNoRarity",
             "regionRarityId": 0,
+            "rarityGemPath": null,
             "name_en": "Demolisher Nunu & Willump"
         },
         {
@@ -49,6 +54,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nunu/skins/skin06/nunuloadscreen_6.jpg",
             "rarity": "kNoRarity",
             "regionRarityId": 7,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
             "name_en": "TPA Nunu & Willump"
         },
         {
@@ -57,6 +63,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nunu/skins/skin07/nunuloadscreen_7.jpg",
             "rarity": "kNoRarity",
             "regionRarityId": 0,
+            "rarityGemPath": null,
             "name_en": "Zombie Nunu & Willump"
         },
         {
@@ -65,6 +72,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nunu/skins/skin08/nunuloadscreen_8.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
+            "rarityGemPath": null,
             "name_en": "Papercraft Nunu & Willump"
         },
         {
@@ -73,6 +81,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nunu/skins/skin16/nunuloadscreen_16.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
+            "rarityGemPath": null,
             "name_en": "Space Groove Nunu & Willump"
         },
         {
@@ -81,6 +90,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nunu/skins/skin26/nunuloadscreen_26.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
+            "rarityGemPath": null,
             "name_en": "Nunu & Beelump"
         },
         {
@@ -89,6 +99,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nunu/skins/skin35/nunuloadscreen_35.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
+            "rarityGemPath": null,
             "name_en": "Cosmic Paladins Nunu & Willump"
         },
         {
@@ -97,6 +108,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/nunu/skins/skin44/nunuloadscreen_44.skins_nunu_skin44.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
+            "rarityGemPath": null,
             "name_en": "Fright Night Nunu & Willump"
         }
     ]

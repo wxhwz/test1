@@ -9,6 +9,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/heimerdinger/skins/skin01/heimerdingerloadscreen_1.jpg",
             "rarity": "kLegendary",
             "regionRarityId": 5,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/5_large.png",
             "name_en": "Alien Invader Heimerdinger"
         },
         {
@@ -17,6 +18,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/heimerdinger/skins/skin02/heimerdingerloadscreen_2.jpg",
             "rarity": "kNoRarity",
             "regionRarityId": 2,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/2_large.png",
             "name_en": "Blast Zone Heimerdinger"
         },
         {
@@ -25,6 +27,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/heimerdinger/skins/skin03/heimerdingerloadscreen_3.jpg",
             "rarity": "kNoRarity",
             "regionRarityId": 2,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/2_large.png",
             "name_en": "Piltover Customs Heimerdinger"
         },
         {
@@ -33,6 +36,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/heimerdinger/skins/skin04/heimerdingerloadscreen_4.jpg",
             "rarity": "kNoRarity",
             "regionRarityId": 7,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
             "name_en": "Snowmerdinger"
         },
         {
@@ -41,6 +45,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/heimerdinger/skins/skin05/heimerdingerloadscreen_5.jpg",
             "rarity": "kNoRarity",
             "regionRarityId": 4,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/4_large.png",
             "name_en": "Hazmat Heimerdinger"
         },
         {
@@ -49,6 +54,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/heimerdinger/skins/skin06/heimerdingerloadscreen_6.jpg",
             "rarity": "kLegendary",
             "regionRarityId": 5,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/5_large.png",
             "name_en": "Dragon Trainer Heimerdinger"
         },
         {
@@ -57,6 +63,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/heimerdinger/skins/skin15/heimerdingerloadscreen_15.jpg",
             "rarity": "kEpic",
             "regionRarityId": 7,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
             "name_en": "Pool Party Heimerdinger"
         },
         {
@@ -65,6 +72,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/heimerdinger/skins/skin24/heimerdingerloadscreen_24.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
+            "rarityGemPath": null,
             "name_en": "Heimerstinger"
         },
         {
@@ -73,6 +81,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/heimerdinger/skins/skin33/heimerdingerloadscreen_33.skins_heimerdinger_skin33.jpg",
             "rarity": "kEpic",
             "regionRarityId": 7,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
             "name_en": "Arcane Professor Heimerdinger"
         }
     ]

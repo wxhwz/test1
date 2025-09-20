@@ -9,6 +9,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin01/urgotloadscreen_1.jpg",
             "rarity": "kNoRarity",
             "regionRarityId": 0,
+            "rarityGemPath": null,
             "name_en": "Giant Enemy Crabgot"
         },
         {
@@ -17,6 +18,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin02/urgotloadscreen_2.jpg",
             "rarity": "kNoRarity",
             "regionRarityId": 0,
+            "rarityGemPath": null,
             "name_en": "Butcher Urgot"
         },
         {
@@ -25,6 +27,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin03/urgotloadscreen_3.jpg",
             "rarity": "kLegendary",
             "regionRarityId": 5,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/5_large.png",
             "name_en": "Battlecast Urgot"
         },
         {
@@ -33,6 +36,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin09/urgotloadscreen_9.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
+            "rarityGemPath": null,
             "name_en": "High Noon Urgot"
         },
         {
@@ -41,6 +45,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin15/urgotloadscreen_15.jpg",
             "rarity": "kNoRarity",
             "regionRarityId": 0,
+            "rarityGemPath": null,
             "name_en": "Pajama Guardian Cosplay Urgot"
         },
         {
@@ -49,6 +54,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin23/urgotloadscreen_23.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
+            "rarityGemPath": null,
             "name_en": "Fright Night Urgot"
         },
         {
@@ -57,6 +63,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/urgot/skins/skin32/urgotloadscreen_32.skins_urgot_skin32.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
+            "rarityGemPath": null,
             "name_en": "Urgot the Clogfather"
         }
     ]

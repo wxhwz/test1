@@ -9,6 +9,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leesin/skins/skin01/leesinloadscreen_1.jpg",
             "rarity": "kNoRarity",
             "regionRarityId": 0,
+            "rarityGemPath": null,
             "name_en": "Traditional Lee Sin"
         },
         {
@@ -17,6 +18,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leesin/skins/skin02/leesinloadscreen_2.jpg",
             "rarity": "kNoRarity",
             "regionRarityId": 4,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/4_large.png",
             "name_en": "Acolyte Lee Sin"
         },
         {
@@ -25,6 +27,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leesin/skins/skin03/leesinloadscreen_3.jpg",
             "rarity": "kEpic",
             "regionRarityId": 7,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
             "name_en": "Dragon Fist Lee Sin"
         },
         {
@@ -33,6 +36,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leesin/skins/skin04/leesinloadscreen_4.jpg",
             "rarity": "kNoRarity",
             "regionRarityId": 4,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/4_large.png",
             "name_en": "Muay Thai Lee Sin"
         },
         {
@@ -41,6 +45,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leesin/skins/skin05/leesinloadscreen_5.jpg",
             "rarity": "kNoRarity",
             "regionRarityId": 7,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
             "name_en": "Pool Party Lee Sin"
         },
         {
@@ -49,6 +54,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leesin/skins/skin06/leesinloadscreen_6.jpg",
             "rarity": "kNoRarity",
             "regionRarityId": 7,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
             "name_en": "SKT T1 Lee Sin"
         },
         {
@@ -57,6 +63,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leesin/skins/skin10/leesinloadscreen_10.jpg",
             "rarity": "kEpic",
             "regionRarityId": 4,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/4_large.png",
             "name_en": "Knockout Lee Sin"
         },
         {
@@ -65,6 +72,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leesin/skins/skin11/leesinloadscreen_11.jpg",
             "rarity": "kLegendary",
             "regionRarityId": 5,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/5_large.png",
             "name_en": "God Fist Lee Sin"
         },
         {
@@ -73,6 +81,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leesin/skins/skin12/leesinloadscreen_12.jpg",
             "rarity": "kNoRarity",
             "regionRarityId": 7,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
             "name_en": "Playmaker Lee Sin"
         },
         {
@@ -81,6 +90,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leesin/skins/skin27/leesinloadscreen_27.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
+            "rarityGemPath": null,
             "name_en": "Nightbringer Lee Sin"
         },
         {
@@ -89,6 +99,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leesin/skins/skin28/leesinloadscreen_28_le.jpg",
             "rarity": "kMythic",
             "regionRarityId": 8,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/8_large.png",
             "name_en": "Prestige Nightbringer Lee Sin"
         },
         {
@@ -97,6 +108,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leesin/skins/skin29/leesinloadscreen_29.jpg",
             "rarity": "kEpic",
             "regionRarityId": 7,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
             "name_en": "FPX Lee Sin"
         },
         {
@@ -105,6 +117,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leesin/skins/skin31/leesinloadscreen_31.jpg",
             "rarity": "kLegendary",
             "regionRarityId": 5,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/5_large.png",
             "name_en": "Storm Dragon Lee Sin"
         },
         {
@@ -113,6 +126,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leesin/skins/skin39/leesinloadscreen_39_le.jpg",
             "rarity": "kMythic",
             "regionRarityId": 8,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/8_large.png",
             "name_en": "Prestige Nightbringer Lee Sin (2022)"
         },
         {
@@ -121,6 +135,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leesin/skins/skin41/leesinloadscreen_41.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
+            "rarityGemPath": null,
             "name_en": "Zenith Games Lee Sin"
         },
         {
@@ -129,6 +144,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leesin/skins/skin51/leesinloadscreen_51.jpg",
             "rarity": "kLegendary",
             "regionRarityId": 7,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
             "name_en": "Heavenscale Lee Sin"
         },
         {
@@ -137,6 +153,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leesin/skins/skin52/leesinloadscreen_52.jpg",
             "rarity": "kMythic",
             "regionRarityId": 8,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/8_large.png",
             "name_en": "Divine Heavenscale Lee Sin"
         },
         {
@@ -145,6 +162,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leesin/skins/skin68/leesinloadscreen_68.skins_leesin_skin68.jpg",
             "rarity": "kEpic",
             "regionRarityId": 7,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
             "name_en": "T1 Lee Sin"
         },
         {
@@ -153,6 +171,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/leesin/skins/skin72/leesinloadscreen_72.skins_leesin_skin72.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
+            "rarityGemPath": null,
             "name_en": "Inkshadow Lee Sin"
         }
     ]

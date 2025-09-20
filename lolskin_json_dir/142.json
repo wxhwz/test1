@@ -9,6 +9,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin01/zoeloadscreen_1.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
+            "rarityGemPath": null,
             "name_en": "Cyber Pop Zoe"
         },
         {
@@ -17,6 +18,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin02/zoeloadscreen_2.jpg",
             "rarity": "kEpic",
             "regionRarityId": 7,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
             "name_en": "Pool Party Zoe"
         },
         {
@@ -25,6 +27,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin09/zoeloadscreen_9.jpg",
             "rarity": "kEpic",
             "regionRarityId": 7,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
             "name_en": "Star Guardian Zoe"
         },
         {
@@ -33,6 +36,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin18/zoeloadscreen_18.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
+            "rarityGemPath": null,
             "name_en": "Arcanist Zoe"
         },
         {
@@ -41,6 +45,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin19/zoeloadscreen_19.jpg",
             "rarity": "kMythic",
             "regionRarityId": 8,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/8_large.png",
             "name_en": "Prestige Arcanist Zoe"
         },
         {
@@ -49,6 +54,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin20/zoeloadscreen_20.jpg",
             "rarity": "kEpic",
             "regionRarityId": 7,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
             "name_en": "EDG Zoe"
         },
         {
@@ -57,6 +63,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin22/zoeloadscreen_22.jpg",
             "rarity": "kEpic",
             "regionRarityId": 7,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
             "name_en": "Winterblessed Zoe"
         },
         {
@@ -65,6 +72,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/zoe/skins/skin33/zoeloadscreen_33.skins_zoe_skin33.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
+            "rarityGemPath": null,
             "name_en": "Dark Star Zoe"
         }
     ]

@@ -9,6 +9,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin01/gangplankloadscreen_1.jpg",
             "rarity": "kNoRarity",
             "regionRarityId": 0,
+            "rarityGemPath": null,
             "name_en": "Spooky Gangplank"
         },
         {
@@ -17,6 +18,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin02/gangplankloadscreen_2.jpg",
             "rarity": "kNoRarity",
             "regionRarityId": 0,
+            "rarityGemPath": null,
             "name_en": "Minuteman Gangplank"
         },
         {
@@ -25,6 +27,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin03/gangplankloadscreen_3.jpg",
             "rarity": "kNoRarity",
             "regionRarityId": 0,
+            "rarityGemPath": null,
             "name_en": "Sailor Gangplank"
         },
         {
@@ -33,6 +36,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin04/gangplankloadscreen_4.jpg",
             "rarity": "kNoRarity",
             "regionRarityId": 7,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
             "name_en": "Toy Soldier Gangplank"
         },
         {
@@ -41,6 +45,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin05/gangplankloadscreen_5.jpg",
             "rarity": "kNoRarity",
             "regionRarityId": 4,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/4_large.png",
             "name_en": "Special Forces Gangplank"
         },
         {
@@ -49,6 +54,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin06/gangplankloadscreen_6.jpg",
             "rarity": "kNoRarity",
             "regionRarityId": 7,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
             "name_en": "Sultan Gangplank"
         },
         {
@@ -57,6 +63,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin07/gangplankloadscreen_7.jpg",
             "rarity": "kNoRarity",
             "regionRarityId": 0,
+            "rarityGemPath": null,
             "name_en": "Captain Gangplank"
         },
         {
@@ -65,6 +72,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin08/gangplankloadscreen_8.jpg",
             "rarity": "kEpic",
             "regionRarityId": 4,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/4_large.png",
             "name_en": "Dreadnova Gangplank"
         },
         {
@@ -73,6 +81,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin14/gangplankloadscreen_14.jpg",
             "rarity": "kEpic",
             "regionRarityId": 7,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
             "name_en": "Pool Party Gangplank"
         },
         {
@@ -81,6 +90,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin21/gangplankloadscreen_21.jpg",
             "rarity": "kEpic",
             "regionRarityId": 7,
+            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
             "name_en": "FPX Gangplank"
         },
         {
@@ -89,6 +99,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin23/gangplankloadscreen_23.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
+            "rarityGemPath": null,
             "name_en": "Gangplank the Betrayer"
         },
         {
@@ -97,6 +108,7 @@
             "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/gangplank/skins/skin33/gangplankloadscreen_33.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
+            "rarityGemPath": null,
             "name_en": "PROJECT: Gangplank"
         }
     ]

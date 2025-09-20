@@ -6,7 +6,10 @@ skin_json_dir = './lolskin_json_dir'
 champions_json_path= './lol_champions.json'
 
 def mapping_path(old_path:str):
-    return old_path.replace("/lol-game-data/assets","https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default",1).lower()
+    if old_path is None:
+        return None
+    else:
+        return old_path.replace("/lol-game-data/assets","https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default",1).lower()
 
 def download_and_parse_json(url):
     try:
@@ -33,9 +36,9 @@ def parse_skin_json(id:int):
             "id": json_data_zh['id'],
             "name" : json_data_zh['name'],
             "skins":[
-                {key:mapping_path(value) if key in ['uncenteredSplashPath', 'loadScreenPath'] else value
+                {key:mapping_path(value) if key in ['uncenteredSplashPath', 'loadScreenPath','rarityGemPath'] else value
                  for key,value in skin.items()
-                 if key in ['name','uncenteredSplashPath','loadScreenPath','rarity','regionRarityId']}
+                 if key in ['name','uncenteredSplashPath','loadScreenPath','rarity','regionRarityId','rarityGemPath']}
                 for skin in json_data_zh['skins'] if skin['isBase'] == False
             ]
         }
@@ -46,9 +49,9 @@ def parse_skin_json(id:int):
             "id": json_data_en['id'],
             "name": json_data_en['name'],
             "skins": [
-                {key: mapping_path(value) if key in ['uncenteredSplashPath', 'loadScreenPath'] else value
+                {key: mapping_path(value) if key in ['uncenteredSplashPath', 'loadScreenPath','rarityGemPath'] else value
                  for key, value in skin.items()
-                 if key in ['name', 'uncenteredSplashPath', 'loadScreenPath', 'rarity', 'regionRarityId']}
+                 if key in ['name', 'uncenteredSplashPath', 'loadScreenPath', 'rarity', 'regionRarityId','rarityGemPath']}
                 for skin in json_data_en['skins'] if skin['isBase'] == False
             ]
         }
