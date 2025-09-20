@@ -4,1196 +4,1367 @@
         "name": "黑暗之女",
         "description": "安妮",
         "alias": "Annie",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/1.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/1.png",
+        "alias_cn": "火女"
     },
     {
         "id": 2,
         "name": "狂战士",
         "description": "奥拉夫",
         "alias": "Olaf",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/2.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/2.png",
+        "alias_cn": null
     },
     {
         "id": 3,
         "name": "正义巨像",
         "description": "加里奥",
         "alias": "Galio",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/3.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/3.png",
+        "alias_cn": null
     },
     {
         "id": 4,
         "name": "卡牌大师",
         "description": "崔斯特",
         "alias": "TwistedFate",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/4.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/4.png",
+        "alias_cn": "卡牌"
     },
     {
         "id": 5,
         "name": "德邦总管",
         "description": "赵信",
         "alias": "XinZhao",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/5.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/5.png",
+        "alias_cn": "赵信"
     },
     {
         "id": 6,
         "name": "无畏战车",
         "description": "厄加特",
         "alias": "Urgot",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/6.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/6.png",
+        "alias_cn": "螃蟹"
     },
     {
         "id": 7,
         "name": "诡术妖姬",
         "description": "乐芙兰",
         "alias": "Leblanc",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/7.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/7.png",
+        "alias_cn": "妖姬"
     },
     {
         "id": 8,
         "name": "猩红收割者",
         "description": "弗拉基米尔",
         "alias": "Vladimir",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/8.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/8.png",
+        "alias_cn": "吸血鬼"
     },
     {
         "id": 9,
         "name": "远古恐惧",
         "description": "费德提克",
         "alias": "FiddleSticks",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/9.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/9.png",
+        "alias_cn": "稻草人"
     },
     {
         "id": 10,
         "name": "正义天使",
         "description": "凯尔",
         "alias": "Kayle",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/10.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/10.png",
+        "alias_cn": "天使"
     },
     {
         "id": 11,
         "name": "无极剑圣",
         "description": "易",
         "alias": "MasterYi",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/11.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/11.png",
+        "alias_cn": "剑圣"
     },
     {
         "id": 12,
         "name": "牛头酋长",
         "description": "阿利斯塔",
         "alias": "Alistar",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/12.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/12.png",
+        "alias_cn": "牛头"
     },
     {
         "id": 13,
         "name": "符文法师",
         "description": "瑞兹",
         "alias": "Ryze",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/13.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/13.png",
+        "alias_cn": "瑞兹"
     },
     {
         "id": 14,
         "name": "亡灵战神",
         "description": "赛恩",
         "alias": "Sion",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/14.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/14.png",
+        "alias_cn": "老司机"
     },
     {
         "id": 15,
         "name": "战争女神",
         "description": "希维尔",
         "alias": "Sivir",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/15.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/15.png",
+        "alias_cn": "轮子妈"
     },
     {
         "id": 16,
         "name": "众星之子",
         "description": "索拉卡",
         "alias": "Soraka",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/16.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/16.png",
+        "alias_cn": "奶妈"
     },
     {
         "id": 17,
         "name": "迅捷斥候",
         "description": "提莫",
         "alias": "Teemo",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/17.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/17.png",
+        "alias_cn": "提莫"
     },
     {
         "id": 18,
         "name": "麦林炮手",
         "description": "崔丝塔娜",
         "alias": "Tristana",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/18.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/18.png",
+        "alias_cn": "小炮"
     },
     {
         "id": 19,
         "name": "祖安怒兽",
         "description": "沃里克",
         "alias": "Warwick",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/19.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/19.png",
+        "alias_cn": "狼人"
     },
     {
         "id": 20,
         "name": "雪原双子",
         "description": "努努和威朗普",
         "alias": "Nunu",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/20.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/20.png",
+        "alias_cn": "雪人"
     },
     {
         "id": 21,
         "name": "赏金猎人",
         "description": "厄运小姐",
         "alias": "MissFortune",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/21.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/21.png",
+        "alias_cn": "女枪"
     },
     {
         "id": 22,
         "name": "寒冰射手",
         "description": "艾希",
         "alias": "Ashe",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/22.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/22.png",
+        "alias_cn": "寒冰"
     },
     {
         "id": 23,
         "name": "蛮族之王",
         "description": "泰达米尔",
         "alias": "Tryndamere",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/23.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/23.png",
+        "alias_cn": "蛮王"
     },
     {
         "id": 24,
         "name": "武器大师",
         "description": "贾克斯",
         "alias": "Jax",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/24.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/24.png",
+        "alias_cn": "武器"
     },
     {
         "id": 25,
         "name": "堕落天使",
         "description": "莫甘娜",
         "alias": "Morgana",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/25.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/25.png",
+        "alias_cn": null
     },
     {
         "id": 26,
         "name": "时光守护者",
         "description": "基兰",
         "alias": "Zilean",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/26.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/26.png",
+        "alias_cn": "基兰"
     },
     {
         "id": 27,
         "name": "炼金术士",
         "description": "辛吉德",
         "alias": "Singed",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/27.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/27.png",
+        "alias_cn": "炼金"
     },
     {
         "id": 28,
         "name": "痛苦之拥",
         "description": "伊芙琳",
         "alias": "Evelynn",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/28.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/28.png",
+        "alias_cn": "寡妇"
     },
     {
         "id": 29,
         "name": "瘟疫之源",
         "description": "图奇",
         "alias": "Twitch",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/29.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/29.png",
+        "alias_cn": "老鼠"
     },
     {
         "id": 30,
         "name": "死亡颂唱者",
         "description": "卡尔萨斯",
         "alias": "Karthus",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/30.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/30.png",
+        "alias_cn": "死歌"
     },
     {
         "id": 31,
         "name": "虚空恐惧",
         "description": "科加斯",
         "alias": "Chogath",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/31.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/31.png",
+        "alias_cn": "大虫子"
     },
     {
         "id": 32,
         "name": "殇之木乃伊",
         "description": "阿木木",
         "alias": "Amumu",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/32.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/32.png",
+        "alias_cn": "木乃伊"
     },
     {
         "id": 33,
         "name": "披甲龙龟",
         "description": "拉莫斯",
         "alias": "Rammus",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/33.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/33.png",
+        "alias_cn": "龙龟"
     },
     {
         "id": 34,
         "name": "冰晶凤凰",
         "description": "艾尼维亚",
         "alias": "Anivia",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/34.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/34.png",
+        "alias_cn": "冰鸟"
     },
     {
         "id": 35,
         "name": "恶魔小丑",
         "description": "萨科",
         "alias": "Shaco",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/35.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/35.png",
+        "alias_cn": "小丑"
     },
     {
         "id": 36,
         "name": "祖安狂人",
         "description": "蒙多医生",
         "alias": "DrMundo",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/36.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/36.png",
+        "alias_cn": "蒙多"
     },
     {
         "id": 37,
         "name": "琴瑟仙女",
         "description": "娑娜",
         "alias": "Sona",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/37.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/37.png",
+        "alias_cn": "琴女"
     },
     {
         "id": 38,
         "name": "虚空行者",
         "description": "卡萨丁",
         "alias": "Kassadin",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/38.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/38.png",
+        "alias_cn": null
     },
     {
         "id": 39,
         "name": "刀锋舞者",
         "description": "艾瑞莉娅",
         "alias": "Irelia",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/39.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/39.png",
+        "alias_cn": "刀妹"
     },
     {
         "id": 40,
         "name": "风暴之怒",
         "description": "迦娜",
         "alias": "Janna",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/40.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/40.png",
+        "alias_cn": "风女"
     },
     {
         "id": 41,
         "name": "海洋之灾",
         "description": "普朗克",
         "alias": "Gangplank",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/41.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/41.png",
+        "alias_cn": "船长"
     },
     {
         "id": 42,
         "name": "英勇投弹手",
         "description": "库奇",
         "alias": "Corki",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/42.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/42.png",
+        "alias_cn": "飞机"
     },
     {
         "id": 43,
         "name": "天启者",
         "description": "卡尔玛",
         "alias": "Karma",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/43.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/43.png",
+        "alias_cn": null
     },
     {
         "id": 44,
         "name": "瓦洛兰之盾",
         "description": "塔里克",
         "alias": "Taric",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/44.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/44.png",
+        "alias_cn": "宝石"
     },
     {
         "id": 45,
         "name": "邪恶小法师",
         "description": "维迦",
         "alias": "Veigar",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/45.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/45.png",
+        "alias_cn": "小法"
     },
     {
         "id": 48,
         "name": "巨魔之王",
         "description": "特朗德尔",
         "alias": "Trundle",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/48.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/48.png",
+        "alias_cn": "巨魔"
     },
     {
         "id": 50,
         "name": "诺克萨斯统领",
         "description": "斯维因",
         "alias": "Swain",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/50.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/50.png",
+        "alias_cn": "乌鸦"
     },
     {
         "id": 51,
         "name": "皮城女警",
         "description": "凯特琳",
         "alias": "Caitlyn",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/51.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/51.png",
+        "alias_cn": "女警"
     },
     {
         "id": 53,
         "name": "蒸汽机器人",
         "description": "布里茨",
         "alias": "Blitzcrank",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/53.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/53.png",
+        "alias_cn": "机器人"
     },
     {
         "id": 54,
         "name": "熔岩巨兽",
         "description": "墨菲特",
         "alias": "Malphite",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/54.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/54.png",
+        "alias_cn": "石头人"
     },
     {
         "id": 55,
         "name": "不祥之刃",
         "description": "卡特琳娜",
         "alias": "Katarina",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/55.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/55.png",
+        "alias_cn": "卡特"
     },
     {
         "id": 56,
         "name": "永恒梦魇",
         "description": "魔腾",
         "alias": "Nocturne",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/56.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/56.png",
+        "alias_cn": "梦魇"
     },
     {
         "id": 57,
         "name": "扭曲树精",
         "description": "茂凯",
         "alias": "Maokai",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/57.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/57.png",
+        "alias_cn": "大树"
     },
     {
         "id": 58,
         "name": "荒漠屠夫",
         "description": "雷克顿",
         "alias": "Renekton",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/58.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/58.png",
+        "alias_cn": "鳄鱼"
     },
     {
         "id": 59,
         "name": "德玛西亚皇子",
         "description": "嘉文四世",
         "alias": "JarvanIV",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/59.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/59.png",
+        "alias_cn": "皇子"
     },
     {
         "id": 60,
         "name": "蜘蛛女皇",
         "description": "伊莉丝",
         "alias": "Elise",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/60.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/60.png",
+        "alias_cn": "蜘蛛"
     },
     {
         "id": 61,
         "name": "发条魔灵",
         "description": "奥莉安娜",
         "alias": "Orianna",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/61.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/61.png",
+        "alias_cn": "发条"
     },
     {
         "id": 62,
         "name": "齐天大圣",
         "description": "孙悟空",
         "alias": "MonkeyKing",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/62.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/62.png",
+        "alias_cn": "猴子"
     },
     {
         "id": 63,
         "name": "复仇焰魂",
         "description": "布兰德",
         "alias": "Brand",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/63.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/63.png",
+        "alias_cn": "火男"
     },
     {
         "id": 64,
         "name": "盲僧",
         "description": "李青",
         "alias": "LeeSin",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/64.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/64.png",
+        "alias_cn": "瞎子"
     },
     {
         "id": 67,
         "name": "暗夜猎手",
         "description": "薇恩",
         "alias": "Vayne",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/67.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/67.png",
+        "alias_cn": "vn"
     },
     {
         "id": 68,
         "name": "机械公敌",
         "description": "兰博",
         "alias": "Rumble",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/68.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/68.png",
+        "alias_cn": null
     },
     {
         "id": 69,
         "name": "魔蛇之拥",
         "description": "卡西奥佩娅",
         "alias": "Cassiopeia",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/69.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/69.png",
+        "alias_cn": "蛇女"
     },
     {
         "id": 72,
         "name": "上古领主",
         "description": "斯卡纳",
         "alias": "Skarner",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/72.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/72.png",
+        "alias_cn": "蝎子"
     },
     {
         "id": 74,
         "name": "大发明家",
         "description": "黑默丁格",
         "alias": "Heimerdinger",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/74.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/74.png",
+        "alias_cn": "大头"
     },
     {
         "id": 75,
         "name": "沙漠死神",
         "description": "内瑟斯",
         "alias": "Nasus",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/75.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/75.png",
+        "alias_cn": "狗头"
     },
     {
         "id": 76,
         "name": "狂野女猎手",
         "description": "奈德丽",
         "alias": "Nidalee",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/76.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/76.png",
+        "alias_cn": "豹女"
     },
     {
         "id": 77,
         "name": "兽灵行者",
         "description": "乌迪尔",
         "alias": "Udyr",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/77.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/77.png",
+        "alias_cn": null
     },
     {
         "id": 78,
         "name": "圣锤之毅",
         "description": "波比",
         "alias": "Poppy",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/78.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/78.png",
+        "alias_cn": null
     },
     {
         "id": 79,
         "name": "酒桶",
         "description": "古拉加斯",
         "alias": "Gragas",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/79.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/79.png",
+        "alias_cn": null
     },
     {
         "id": 80,
         "name": "不屈之枪",
         "description": "潘森",
         "alias": "Pantheon",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/80.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/80.png",
+        "alias_cn": "潘森"
     },
     {
         "id": 81,
         "name": "探险家",
         "description": "伊泽瑞尔",
         "alias": "Ezreal",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/81.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/81.png",
+        "alias_cn": "ez"
     },
     {
         "id": 82,
         "name": "铁铠冥魂",
         "description": "莫德凯撒",
         "alias": "Mordekaiser",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/82.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/82.png",
+        "alias_cn": "铁男"
     },
     {
         "id": 83,
         "name": "牧魂人",
         "description": "约里克",
         "alias": "Yorick",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/83.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/83.png",
+        "alias_cn": "掘墓"
     },
     {
         "id": 84,
         "name": "离群之刺",
         "description": "阿卡丽",
         "alias": "Akali",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/84.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/84.png",
+        "alias_cn": null
     },
     {
         "id": 85,
         "name": "狂暴之心",
         "description": "凯南",
         "alias": "Kennen",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/85.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/85.png",
+        "alias_cn": null
     },
     {
         "id": 86,
         "name": "德玛西亚之力",
         "description": "盖伦",
         "alias": "Garen",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/86.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/86.png",
+        "alias_cn": null
     },
     {
         "id": 89,
         "name": "曙光女神",
         "description": "蕾欧娜",
         "alias": "Leona",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/89.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/89.png",
+        "alias_cn": "日女"
     },
     {
         "id": 90,
         "name": "虚空先知",
         "description": "玛尔扎哈",
         "alias": "Malzahar",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/90.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/90.png",
+        "alias_cn": "蚂蚱"
     },
     {
         "id": 91,
         "name": "刀锋之影",
         "description": "泰隆",
         "alias": "Talon",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/91.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/91.png",
+        "alias_cn": "男刀"
     },
     {
         "id": 92,
         "name": "放逐之刃",
         "description": "锐雯",
         "alias": "Riven",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/92.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/92.png",
+        "alias_cn": "瑞文"
     },
     {
         "id": 96,
         "name": "深渊巨口",
         "description": "克格莫",
         "alias": "KogMaw",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/96.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/96.png",
+        "alias_cn": "大嘴"
     },
     {
         "id": 98,
         "name": "暮光之眼",
         "description": "慎",
         "alias": "Shen",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/98.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/98.png",
+        "alias_cn": "慎"
     },
     {
         "id": 99,
         "name": "光辉女郎",
         "description": "拉克丝",
         "alias": "Lux",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/99.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/99.png",
+        "alias_cn": "拉克丝"
     },
     {
         "id": 101,
         "name": "远古巫灵",
         "description": "泽拉斯",
         "alias": "Xerath",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/101.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/101.png",
+        "alias_cn": "泽拉斯"
     },
     {
         "id": 102,
         "name": "龙血武姬",
         "description": "希瓦娜",
         "alias": "Shyvana",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/102.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/102.png",
+        "alias_cn": "龙女"
     },
     {
         "id": 103,
         "name": "九尾妖狐",
         "description": "阿狸",
         "alias": "Ahri",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/103.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/103.png",
+        "alias_cn": "狐狸"
     },
     {
         "id": 104,
         "name": "法外狂徒",
         "description": "格雷福斯",
         "alias": "Graves",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/104.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/104.png",
+        "alias_cn": "男枪"
     },
     {
         "id": 105,
         "name": "潮汐海灵",
         "description": "菲兹",
         "alias": "Fizz",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/105.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/105.png",
+        "alias_cn": "小鱼人"
     },
     {
         "id": 106,
         "name": "不灭狂雷",
         "description": "沃利贝尔",
         "alias": "Volibear",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/106.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/106.png",
+        "alias_cn": "狗熊"
     },
     {
         "id": 107,
         "name": "傲之追猎者",
         "description": "雷恩加尔",
         "alias": "Rengar",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/107.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/107.png",
+        "alias_cn": "狮子狗"
     },
     {
         "id": 110,
         "name": "惩戒之箭",
         "description": "韦鲁斯",
         "alias": "Varus",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/110.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/110.png",
+        "alias_cn": "韦鲁斯"
     },
     {
         "id": 111,
         "name": "深海泰坦",
         "description": "诺提勒斯",
         "alias": "Nautilus",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/111.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/111.png",
+        "alias_cn": "泰坦"
     },
     {
         "id": 112,
         "name": "奥术先驱",
         "description": "维克托",
         "alias": "Viktor",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/112.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/112.png",
+        "alias_cn": "维克托"
     },
     {
         "id": 113,
         "name": "北地之怒",
         "description": "瑟庄妮",
         "alias": "Sejuani",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/113.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/113.png",
+        "alias_cn": "猪妹"
     },
     {
         "id": 114,
         "name": "无双剑姬",
         "description": "菲奥娜",
         "alias": "Fiora",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/114.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/114.png",
+        "alias_cn": "剑姬"
     },
     {
         "id": 115,
         "name": "爆破鬼才",
         "description": "吉格斯",
         "alias": "Ziggs",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/115.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/115.png",
+        "alias_cn": "炸弹人"
     },
     {
         "id": 117,
         "name": "仙灵女巫",
         "description": "璐璐",
         "alias": "Lulu",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/117.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/117.png",
+        "alias_cn": "璐璐"
     },
     {
         "id": 119,
         "name": "荣耀行刑官",
         "description": "德莱文",
         "alias": "Draven",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/119.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/119.png",
+        "alias_cn": "德莱文"
     },
     {
         "id": 120,
         "name": "战争之影",
         "description": "赫卡里姆",
         "alias": "Hecarim",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/120.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/120.png",
+        "alias_cn": "人马"
     },
     {
         "id": 121,
         "name": "虚空掠夺者",
         "description": "卡兹克",
         "alias": "Khazix",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/121.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/121.png",
+        "alias_cn": "螳螂"
     },
     {
         "id": 122,
         "name": "诺克萨斯之手",
         "description": "德莱厄斯",
         "alias": "Darius",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/122.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/122.png",
+        "alias_cn": "诺手"
     },
     {
         "id": 126,
         "name": "未来守护者",
         "description": "杰斯",
         "alias": "Jayce",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/126.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/126.png",
+        "alias_cn": "杰斯"
     },
     {
         "id": 127,
         "name": "冰霜女巫",
         "description": "丽桑卓",
         "alias": "Lissandra",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/127.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/127.png",
+        "alias_cn": "冰女"
     },
     {
         "id": 131,
         "name": "皎月女神",
         "description": "黛安娜",
         "alias": "Diana",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/131.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/131.png",
+        "alias_cn": "皎月"
     },
     {
         "id": 133,
         "name": "德玛西亚之翼",
         "description": "奎因",
         "alias": "Quinn",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/133.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/133.png",
+        "alias_cn": "鸟人"
     },
     {
         "id": 134,
         "name": "暗黑元首",
         "description": "辛德拉",
         "alias": "Syndra",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/134.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/134.png",
+        "alias_cn": "辛德拉"
     },
     {
         "id": 136,
         "name": "铸星龙王",
         "description": "奥瑞利安·索尔",
         "alias": "AurelionSol",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/136.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/136.png",
+        "alias_cn": "龙王"
     },
     {
         "id": 141,
         "name": "影流之镰",
         "description": "凯隐",
         "alias": "Kayn",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/141.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/141.png",
+        "alias_cn": "凯隐"
     },
     {
         "id": 142,
         "name": "暮光星灵",
         "description": "佐伊",
         "alias": "Zoe",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/142.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/142.png",
+        "alias_cn": "佐伊"
     },
     {
         "id": 143,
         "name": "荆棘之兴",
         "description": "婕拉",
         "alias": "Zyra",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/143.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/143.png",
+        "alias_cn": "婕拉"
     },
     {
         "id": 145,
         "name": "虚空之女",
         "description": "卡莎",
         "alias": "Kaisa",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/145.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/145.png",
+        "alias_cn": "卡莎"
     },
     {
         "id": 147,
         "name": "星籁歌姬",
         "description": "萨勒芬妮",
         "alias": "Seraphine",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/147.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/147.png",
+        "alias_cn": "酸辣粉"
     },
     {
         "id": 150,
         "name": "迷失之牙",
         "description": "纳尔",
         "alias": "Gnar",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/150.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/150.png",
+        "alias_cn": "纳尔"
     },
     {
         "id": 154,
         "name": "生化魔人",
         "description": "扎克",
         "alias": "Zac",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/154.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/154.png",
+        "alias_cn": "扎克"
     },
     {
         "id": 157,
         "name": "疾风剑豪",
         "description": "亚索",
         "alias": "Yasuo",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/157.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/157.png",
+        "alias_cn": "风男"
     },
     {
         "id": 161,
         "name": "虚空之眼",
         "description": "维克兹",
         "alias": "Velkoz",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/161.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/161.png",
+        "alias_cn": "大眼"
     },
     {
         "id": 163,
         "name": "岩雀",
         "description": "塔莉垭",
         "alias": "Taliyah",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/163.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/163.png",
+        "alias_cn": "岩雀"
     },
     {
         "id": 164,
         "name": "青钢影",
         "description": "卡蜜尔",
         "alias": "Camille",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/164.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/164.png",
+        "alias_cn": "青钢影"
     },
     {
         "id": 166,
         "name": "影哨",
         "description": "阿克尚",
         "alias": "Akshan",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/166.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/166.png",
+        "alias_cn": "阿克尚"
     },
     {
         "id": 200,
         "name": "虚空女皇",
         "description": "卑尔维斯",
         "alias": "Belveth",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/200.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/200.png",
+        "alias_cn": "卑尔维斯"
     },
     {
         "id": 201,
         "name": "弗雷尔卓德之心",
         "description": "布隆",
         "alias": "Braum",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/201.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/201.png",
+        "alias_cn": "布隆"
     },
     {
         "id": 202,
         "name": "戏命师",
         "description": "烬",
         "alias": "Jhin",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/202.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/202.png",
+        "alias_cn": "烬"
     },
     {
         "id": 203,
         "name": "永猎双子",
         "description": "千珏",
         "alias": "Kindred",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/203.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/203.png",
+        "alias_cn": "千珏"
     },
     {
         "id": 221,
         "name": "祖安花火",
         "description": "泽丽",
         "alias": "Zeri",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/221.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/221.png",
+        "alias_cn": "泽丽"
     },
     {
         "id": 222,
         "name": "暴走萝莉",
         "description": "金克丝",
         "alias": "Jinx",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/222.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/222.png",
+        "alias_cn": "金克丝"
     },
     {
         "id": 223,
         "name": "河流之王",
         "description": "塔姆",
         "alias": "TahmKench",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/223.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/223.png",
+        "alias_cn": "塔姆"
     },
     {
         "id": 233,
         "name": "狂厄蔷薇",
         "description": "贝蕾亚",
         "alias": "Briar",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/233.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/233.png",
+        "alias_cn": "贝蕾亚"
     },
     {
         "id": 234,
         "name": "破败之王",
         "description": "佛耶戈",
         "alias": "Viego",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/234.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/234.png",
+        "alias_cn": "佛耶戈"
     },
     {
         "id": 235,
         "name": "涤魂圣枪",
         "description": "赛娜",
         "alias": "Senna",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/235.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/235.png",
+        "alias_cn": "赛娜"
     },
     {
         "id": 236,
         "name": "圣枪游侠",
         "description": "卢锡安",
         "alias": "Lucian",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/236.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/236.png",
+        "alias_cn": "奥巴马"
     },
     {
         "id": 238,
         "name": "影流之主",
         "description": "劫",
         "alias": "Zed",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/238.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/238.png",
+        "alias_cn": "劫"
     },
     {
         "id": 240,
         "name": "暴怒骑士",
         "description": "克烈",
         "alias": "Kled",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/240.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/240.png",
+        "alias_cn": "克烈"
     },
     {
         "id": 245,
         "name": "时间刺客",
         "description": "艾克",
         "alias": "Ekko",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/245.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/245.png",
+        "alias_cn": "艾克"
     },
     {
         "id": 246,
         "name": "元素女皇",
         "description": "奇亚娜",
         "alias": "Qiyana",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/246.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/246.png",
+        "alias_cn": "奇亚娜"
     },
     {
         "id": 254,
         "name": "皮城执法官",
         "description": "蔚",
         "alias": "Vi",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/254.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/254.png",
+        "alias_cn": "蔚"
     },
     {
         "id": 266,
         "name": "暗裔剑魔",
         "description": "亚托克斯",
         "alias": "Aatrox",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/266.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/266.png",
+        "alias_cn": "剑魔"
     },
     {
         "id": 267,
         "name": "唤潮鲛姬",
         "description": "娜美",
         "alias": "Nami",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/267.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/267.png",
+        "alias_cn": "娜美"
     },
     {
         "id": 268,
         "name": "沙漠皇帝",
         "description": "阿兹尔",
         "alias": "Azir",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/268.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/268.png",
+        "alias_cn": "沙皇"
     },
     {
         "id": 350,
         "name": "魔法猫咪",
         "description": "悠米",
         "alias": "Yuumi",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/350.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/350.png",
+        "alias_cn": "猫咪"
     },
     {
         "id": 360,
         "name": "沙漠玫瑰",
         "description": "莎弥拉",
         "alias": "Samira",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/360.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/360.png",
+        "alias_cn": "莎弥拉"
     },
     {
         "id": 412,
         "name": "魂锁典狱长",
         "description": "锤石",
         "alias": "Thresh",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/412.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/412.png",
+        "alias_cn": "锤石"
     },
     {
         "id": 420,
         "name": "海兽祭司",
         "description": "俄洛伊",
         "alias": "Illaoi",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/420.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/420.png",
+        "alias_cn": "触手妈"
     },
     {
         "id": 421,
         "name": "虚空遁地兽",
         "description": "雷克塞",
         "alias": "RekSai",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/421.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/421.png",
+        "alias_cn": "挖掘机"
     },
     {
         "id": 427,
         "name": "翠神",
         "description": "艾翁",
         "alias": "Ivern",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/427.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/427.png",
+        "alias_cn": "艾翁"
     },
     {
         "id": 429,
         "name": "复仇之矛",
         "description": "卡莉丝塔",
         "alias": "Kalista",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/429.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/429.png",
+        "alias_cn": "滑板鞋"
     },
     {
         "id": 432,
         "name": "星界游神",
         "description": "巴德",
         "alias": "Bard",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/432.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/432.png",
+        "alias_cn": "巴德"
     },
     {
         "id": 497,
         "name": "幻翎",
         "description": "洛",
         "alias": "Rakan",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/497.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/497.png",
+        "alias_cn": "洛"
     },
     {
         "id": 498,
         "name": "逆羽",
         "description": "霞",
         "alias": "Xayah",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/498.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/498.png",
+        "alias_cn": "霞"
     },
     {
         "id": 516,
         "name": "山隐之焰",
         "description": "奥恩",
         "alias": "Ornn",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/516.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/516.png",
+        "alias_cn": "奥恩"
     },
     {
         "id": 517,
         "name": "解脱者",
         "description": "塞拉斯",
         "alias": "Sylas",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/517.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/517.png",
+        "alias_cn": "塞拉斯"
     },
     {
         "id": 518,
         "name": "万花通灵",
         "description": "妮蔻",
         "alias": "Neeko",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/518.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/518.png",
+        "alias_cn": "妮蔻"
     },
     {
         "id": 523,
         "name": "残月之肃",
         "description": "厄斐琉斯",
         "alias": "Aphelios",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/523.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/523.png",
+        "alias_cn": "月男"
     },
     {
         "id": 526,
         "name": "镕铁少女",
         "description": "芮尔",
         "alias": "Rell",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/526.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/526.png",
+        "alias_cn": "芮尔"
     },
     {
         "id": 555,
         "name": "血港鬼影",
         "description": "派克",
         "alias": "Pyke",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/555.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/555.png",
+        "alias_cn": "水鬼"
     },
     {
         "id": 711,
         "name": "愁云使者",
         "description": "薇古丝",
         "alias": "Vex",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/711.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/711.png",
+        "alias_cn": "薇古丝"
     },
     {
         "id": 777,
         "name": "封魔剑魂",
         "description": "永恩",
         "alias": "Yone",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/777.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/777.png",
+        "alias_cn": "永恩"
     },
     {
         "id": 799,
         "name": "铁血狼母",
         "description": "安蓓萨",
         "alias": "Ambessa",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/799.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/799.png",
+        "alias_cn": "狼母"
     },
     {
         "id": 800,
         "name": "流光镜影",
         "description": "梅尔",
         "alias": "Mel",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/800.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/800.png",
+        "alias_cn": null
     },
     {
         "id": 804,
         "name": "不破之誓",
         "description": "芸阿娜",
         "alias": "Yunara",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/804.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/804.png",
+        "alias_cn": null
     },
     {
         "id": 875,
         "name": "腕豪",
         "description": "瑟提",
         "alias": "Sett",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/875.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/875.png",
+        "alias_cn": "瑟提"
     },
     {
         "id": 876,
         "name": "含羞蓓蕾",
         "description": "莉莉娅",
         "alias": "Lillia",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/876.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/876.png",
+        "alias_cn": "莉莉娅"
     },
     {
         "id": 887,
         "name": "灵罗娃娃",
         "description": "格温",
         "alias": "Gwen",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/887.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/887.png",
+        "alias_cn": "格温"
     },
     {
         "id": 888,
         "name": "炼金男爵",
         "description": "烈娜塔 · 戈拉斯克",
         "alias": "Renata",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/888.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/888.png",
+        "alias_cn": "烈娜塔"
     },
     {
         "id": 893,
         "name": "双界灵兔",
         "description": "阿萝拉",
         "alias": "Aurora",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/893.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/893.png",
+        "alias_cn": null
     },
     {
         "id": 895,
         "name": "不羁之悦",
         "description": "尼菈",
         "alias": "Nilah",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/895.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/895.png",
+        "alias_cn": "尼菈"
     },
     {
         "id": 897,
         "name": "纳祖芒荣耀",
         "description": "奎桑提",
         "alias": "KSante",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/897.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/897.png",
+        "alias_cn": "奎桑提"
     },
     {
         "id": 901,
         "name": "炽炎雏龙",
         "description": "斯莫德",
         "alias": "Smolder",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/901.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/901.png",
+        "alias_cn": "斯莫德"
     },
     {
         "id": 902,
         "name": "明烛",
         "description": "米利欧",
         "alias": "Milio",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/902.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/902.png",
+        "alias_cn": "米利欧"
     },
     {
         "id": 910,
         "name": "异画师",
         "description": "彗",
         "alias": "Hwei",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/910.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/910.png",
+        "alias_cn": "慧"
     },
     {
         "id": 950,
         "name": "百裂冥犬",
         "description": "纳亚菲利",
         "alias": "Naafiri",
-        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/950.png"
+        "squarePortraitPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-icons/950.png",
+        "alias_cn": "狼狗"
     }
 ]
