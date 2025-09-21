@@ -5,11 +5,11 @@
     "skins": [
         {
             "name": "狼神英灵 安蓓萨",
-            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ambessa/skins/skin01/images/ambessa_splash_uncentered_1.matcha_ambessa.jpg",
-            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ambessa/skins/skin01/ambessaloadscreen_1.matcha_ambessa.jpg",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ambessa/skins/skin01/images/ambessa_splash_uncentered_1.matcha_ambessa.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ambessa/skins/skin01/ambessaloadscreen_1.matcha_ambessa.jpg",
             "rarity": "kLegendary",
             "regionRarityId": 5,
-            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/5_large.png",
+            "rarityGemPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/5_large.png",
             "name_en": "Chosen of the Wolf Ambessa",
             "raritySvgPath": "https://raw.communitydragon.org/pbe/plugins/rcp-fe-lol-static-assets/global/default/images/rarity/gem-borders/klegendary.svg",
             "regionRarityId_en": 0,

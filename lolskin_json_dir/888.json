@@ -5,8 +5,8 @@
     "skins": [
         {
             "name": "舰队司令 烈娜塔",
-            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/skin01/images/renata_splash_uncentered_1.jpg",
-            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/skin01/renataloadscreen_1.jpg",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/skin01/images/renata_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/skin01/renataloadscreen_1.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
@@ -19,8 +19,8 @@
         },
         {
             "name": "魔域梦魇 烈娜塔",
-            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/skin10/images/renata_splash_uncentered_10.jpg",
-            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/skin10/renataloadscreen_10.jpg",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/skin10/images/renata_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/skin10/renataloadscreen_10.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
@@ -33,8 +33,8 @@
         },
         {
             "name": "魂蔷薇 烈娜塔",
-            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/skin20/images/renata_splash_uncentered_20.jpg",
-            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/skin20/renataloadscreen_20.jpg",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/skin20/images/renata_splash_uncentered_20.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/skin20/renataloadscreen_20.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
@@ -47,11 +47,11 @@
         },
         {
             "name": "至臻 魂蔷薇 烈娜塔",
-            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/skin21/images/renata_splash_uncentered_21.jpg",
-            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/skin21/renataloadscreen_21.jpg",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/skin21/images/renata_splash_uncentered_21.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/skin21/renataloadscreen_21.jpg",
             "rarity": "kMythic",
             "regionRarityId": 8,
-            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/8_large.png",
+            "rarityGemPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/8_large.png",
             "name_en": "Prestige La Ilusión Renata Glasc",
             "raritySvgPath": "https://raw.communitydragon.org/pbe/plugins/rcp-fe-lol-static-assets/global/default/images/rarity/gem-borders/kmythic.svg",
             "regionRarityId_en": 0,
@@ -61,8 +61,8 @@
         },
         {
             "name": "黑色玫瑰假面舞会 烈娜塔",
-            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/skin31/images/renata_splash_uncentered_31.skins_renata_care_skin31.jpg",
-            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/skin31/renataloadscreen_31.skins_renata_care_skin31.jpg",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/skin31/images/renata_splash_uncentered_31.skins_renata_care_skin31.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/renata/skins/skin31/renataloadscreen_31.skins_renata_care_skin31.jpg",
             "rarity": "kNoRarity",
             "regionRarityId": 0,
             "rarityGemPath": null,

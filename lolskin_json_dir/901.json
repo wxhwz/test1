@@ -5,11 +5,11 @@
     "skins": [
         {
             "name": "天龙之子 斯莫德",
-            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/smolder/skins/skin01/images/smolder_splash_uncentered_1.jpg",
-            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/smolder/skins/skin01/smolderloadscreen_1.jpg",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/smolder/skins/skin01/images/smolder_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/smolder/skins/skin01/smolderloadscreen_1.jpg",
             "rarity": "kNoRarity",
             "regionRarityId": 7,
-            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
+            "rarityGemPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/7_large.png",
             "name_en": "Heavenscale Smolder",
             "raritySvgPath": null,
             "regionRarityId_en": 0,

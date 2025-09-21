@@ -5,11 +5,11 @@
     "skins": [
         {
             "name": "虚空使者 俄洛伊",
-            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin01/images/illaoi_splash_uncentered_1.jpg",
-            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin01/illaoiloadscreen_1.jpg",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin01/images/illaoi_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin01/illaoiloadscreen_1.jpg",
             "rarity": "kNoRarity",
             "regionRarityId": 4,
-            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/4_large.png",
+            "rarityGemPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/4_large.png",
             "name_en": "Void Bringer Illaoi",
             "raritySvgPath": null,
             "regionRarityId_en": 0,
@@ -19,8 +19,8 @@
         },
         {
             "name": "抵抗军炎魔 俄洛伊",
-            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin02/images/illaoi_splash_uncentered_2.jpg",
-            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin02/illaoiloadscreen_2.jpg",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin02/images/illaoi_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin02/illaoiloadscreen_2.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
@@ -33,8 +33,8 @@
         },
         {
             "name": "水瓶星神 俄洛伊",
-            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin10/images/illaoi_splash_uncentered_10.jpg",
-            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin10/illaoiloadscreen_10.jpg",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin10/images/illaoi_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin10/illaoiloadscreen_10.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
@@ -47,8 +47,8 @@
         },
         {
             "name": "净雪之月 俄洛伊",
-            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin18/images/illaoi_splash_uncentered_18.jpg",
-            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin18/illaoiloadscreen_18.jpg",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin18/images/illaoi_splash_uncentered_18.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin18/illaoiloadscreen_18.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
@@ -61,8 +61,8 @@
         },
         {
             "name": "幻灵巨熊 俄洛伊",
-            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin27/images/illaoi_splash_uncentered_27.skins_illaoi_skin27.jpg",
-            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin27/illaoiloadscreen_27.skins_illaoi_skin27.jpg",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin27/images/illaoi_splash_uncentered_27.skins_illaoi_skin27.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/illaoi/skins/skin27/illaoiloadscreen_27.skins_illaoi_skin27.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,

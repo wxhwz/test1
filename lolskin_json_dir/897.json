@@ -5,8 +5,8 @@
     "skins": [
         {
             "name": "至高天 奎桑提",
-            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ksante/skins/skin01/images/ksante_splash_uncentered_1.jpg",
-            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ksante/skins/skin01/ksanteloadscreen_1.jpg",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ksante/skins/skin01/images/ksante_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ksante/skins/skin01/ksanteloadscreen_1.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
@@ -19,11 +19,11 @@
         },
         {
             "name": "至臻 至高天 奎桑提",
-            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ksante/skins/skin02/images/ksante_splash_uncentered_2.jpg",
-            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ksante/skins/skin02/ksanteloadscreen_2.jpg",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ksante/skins/skin02/images/ksante_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ksante/skins/skin02/ksanteloadscreen_2.jpg",
             "rarity": "kMythic",
             "regionRarityId": 8,
-            "rarityGemPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/8_large.png",
+            "rarityGemPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rarity-gem-icons/8_large.png",
             "name_en": "Prestige Empyrean K'Sante",
             "raritySvgPath": "https://raw.communitydragon.org/pbe/plugins/rcp-fe-lol-static-assets/global/default/images/rarity/gem-borders/kmythic.svg",
             "regionRarityId_en": 0,
@@ -33,8 +33,8 @@
         },
         {
             "name": "心之钢 奎桑提",
-            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ksante/skins/skin08/images/ksante_splash_uncentered_8.jpg",
-            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/ksante/skins/skin08/ksanteloadscreen_8.jpg",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ksante/skins/skin08/images/ksante_splash_uncentered_8.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ksante/skins/skin08/ksanteloadscreen_8.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,

@@ -5,8 +5,8 @@
     "skins": [
         {
             "name": "灵魂莲华 莉莉娅",
-            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin01/images/lillia_splash_uncentered_1.jpg",
-            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin01/lillialoadscreen_1.jpg",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin01/images/lillia_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin01/lillialoadscreen_1.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
@@ -19,8 +19,8 @@
         },
         {
             "name": "黑夜使者 莉莉娅",
-            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin10/images/lillia_splash_uncentered_10.jpg",
-            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin10/lillialoadscreen_10.jpg",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin10/images/lillia_splash_uncentered_10.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin10/lillialoadscreen_10.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
@@ -33,8 +33,8 @@
         },
         {
             "name": "山海绘卷 莉莉娅",
-            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin19/images/lillia_splash_uncentered_19.jpg",
-            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin19/lillialoadscreen_19.jpg",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin19/images/lillia_splash_uncentered_19.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin19/lillialoadscreen_19.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
@@ -47,8 +47,8 @@
         },
         {
             "name": "花仙子 莉莉娅",
-            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin28/images/lillia_splash_uncentered_28.jpg",
-            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin28/lillialoadscreen_28.jpg",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin28/images/lillia_splash_uncentered_28.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin28/lillialoadscreen_28.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
@@ -61,8 +61,8 @@
         },
         {
             "name": "打保龄球的莉莉娅",
-            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin37/images/lillia_splash_uncentered_37.skins_lillia_skin37.jpg",
-            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin37/lillialoadscreen_37.skins_lillia_skin37.jpg",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin37/images/lillia_splash_uncentered_37.skins_lillia_skin37.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lillia/skins/skin37/lillialoadscreen_37.skins_lillia_skin37.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,

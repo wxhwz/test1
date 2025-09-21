@@ -5,8 +5,8 @@
     "skins": [
         {
             "name": "地狱送葬 约里克",
-            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin01/images/yorick_splash_uncentered_1.jpg",
-            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin01/yorickloadscreen_1.jpg",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin01/images/yorick_splash_uncentered_1.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin01/yorickloadscreen_1.jpg",
             "rarity": "kNoRarity",
             "regionRarityId": 0,
             "rarityGemPath": null,
@@ -19,8 +19,8 @@
         },
         {
             "name": "五杀摇滚贝斯手 约里克",
-            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin02/images/yorick_splash_uncentered_2.jpg",
-            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin02/yorickloadscreen_2.jpg",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin02/images/yorick_splash_uncentered_2.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin02/yorickloadscreen_2.jpg",
             "rarity": "kNoRarity",
             "regionRarityId": 0,
             "rarityGemPath": null,
@@ -33,8 +33,8 @@
         },
         {
             "name": "苍穹之光 约里克",
-            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin03/images/yorick_splash_uncentered_3.jpg",
-            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin03/yorickloadscreen_3.jpg",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin03/images/yorick_splash_uncentered_3.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin03/yorickloadscreen_3.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
@@ -47,8 +47,8 @@
         },
         {
             "name": "喵里克",
-            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin04/images/yorick_splash_uncentered_4.jpg",
-            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin04/yorickloadscreen_4.jpg",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin04/images/yorick_splash_uncentered_4.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin04/yorickloadscreen_4.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
@@ -61,8 +61,8 @@
         },
         {
             "name": "抵抗军灵魔 约里克",
-            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin12/images/yorick_splash_uncentered_12.jpg",
-            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin12/yorickloadscreen_12.jpg",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin12/images/yorick_splash_uncentered_12.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin12/yorickloadscreen_12.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
@@ -75,8 +75,8 @@
         },
         {
             "name": "五杀摇滚 III：遗失的章节 约里克",
-            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin21/images/yorick_splash_uncentered_21.jpg",
-            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin21/yorickloadscreen_21.jpg",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin21/images/yorick_splash_uncentered_21.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin21/yorickloadscreen_21.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
@@ -89,8 +89,8 @@
         },
         {
             "name": "灵魂莲华 约里克",
-            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin30/images/yorick_splash_uncentered_30.jpg",
-            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin30/yorickloadscreen_30.jpg",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin30/images/yorick_splash_uncentered_30.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin30/yorickloadscreen_30.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
@@ -103,8 +103,8 @@
         },
         {
             "name": "暗星 约里克",
-            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin40/images/yorick_splash_uncentered_40.skins_yorick_skin40.jpg",
-            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin40/yorickloadscreen_40.skins_yorick_skin40.jpg",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin40/images/yorick_splash_uncentered_40.skins_yorick_skin40.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin40/yorickloadscreen_40.skins_yorick_skin40.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,
@@ -117,8 +117,8 @@
         },
         {
             "name": "西部魔影 约里克",
-            "uncenteredSplashPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin50/images/yorick_splash_uncentered_50.skins_yorick_skin50.jpg",
-            "loadScreenPath": "https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin50/yorickloadscreen_50.skins_yorick_skin50.jpg",
+            "uncenteredSplashPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin50/images/yorick_splash_uncentered_50.skins_yorick_skin50.jpg",
+            "loadScreenPath": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yorick/skins/skin50/yorickloadscreen_50.skins_yorick_skin50.jpg",
             "rarity": "kEpic",
             "regionRarityId": 0,
             "rarityGemPath": null,

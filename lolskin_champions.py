@@ -159,7 +159,7 @@ hero_nicknames = {
     "影流之主": "劫",
     "暴怒骑士": "克烈",
     "时间刺客": "艾克",
-    "元素女皇": "奇亚娜",
+    "元素女皇": "琪亚娜",
     "皮城执法官": "蔚",
     "暗裔剑魔": "剑魔",
     "唤潮鲛姬": "娜美",
@@ -222,6 +222,7 @@ if json_data:
             champion['alias_cn'] = hero_nicknames[champion['name']]
         else:
             champion['alias_cn'] = None
+
     # print(json.dumps(filter_data, indent=2, ensure_ascii=False))
 
     with open('./lol_champions.json','w',encoding='utf-8')as f:

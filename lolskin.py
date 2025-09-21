@@ -9,7 +9,7 @@ def mapping_path(old_path:str):
     if old_path is None:
         return None
     else:
-        return old_path.replace("/lol-game-data/assets","https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default",1).lower()
+        return old_path.replace("/lol-game-data/assets","https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default",1).lower()
 
 def download_and_parse_json(url):
     try:
